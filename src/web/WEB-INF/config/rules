@@ -1,0 +1,1 @@
+router.addRule("^/$","/jsp/Administracion.html");

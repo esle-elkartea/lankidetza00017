@@ -1,0 +1,528 @@
+
+.lineaImpar
+{
+background-color:#f9f9f9;
+}
+
+.lineaPar
+{
+background-color:#fff;
+}
+
+
+    body {
+      background:#fff;
+      margin:0;
+      padding:0;
+      color:#000;
+      background:#efefef url("../img/logo.gif") repeat-y;
+      background-position: 10px 0px;
+      font:x-small/1.5em Helvetica,Serif;
+      voice-family: "\"}\""; voice-family:inherit;
+      font-size:12px;
+      } html>body {font-size:12px;}
+    
+ 
+         
+      
+.div_global
+{
+	background:#efefef url("../img/bg8.gif");
+	position:relative;
+	float:left;
+	width:930px;
+	left:50px;
+	top:75px;
+
+	height:500px;
+    BORDER-RIGHT: #666 3px solid;
+    BORDER-TOP: #666 1px solid;
+    BORDER-LEFT: #666 1px solid;
+    BORDER-BOTTOM: #666 3px solid;
+    PADDING-LEFT: 3px;	
+}
+
+.placeholder{
+	display:none;
+	width:900px;
+	text-align:right;
+	background-color:#eeefde;
+	float:left;
+    BORDER-RIGHT: #666 1px solid;
+    BORDER-TOP: #666 0px solid;
+    BORDER-LEFT: #666 1px solid;
+    BORDER-BOTTOM: #666 1px solid;
+}
+
+#dinamic_grid_data_header
+{
+	background-color:#eeefde;
+      color:#708090;
+      font:12px Helvetica,Serif;
+      border:solid 1px #666;
+	width:900px;
+	line-height:15px;
+}
+#dinamic_grid_data
+{
+	background-color:#eeefde;
+    BORDER-RIGHT: #666 0px solid;
+    BORDER-TOP: #666 0px solid;
+    BORDER-LEFT: #666 1px solid;
+    BORDER-BOTTOM: #666 1px solid;
+	BORDER-COLLAPSE: collapse;
+	width:900px;
+	table-layout: fixed;
+}
+
+#dinamic_grid_data INPUT
+{
+	border:0px;
+    WIDTH: 98%;
+    HEIGHT: 98%;
+    BACKGROUND-COLOR: #eeefde;
+}
+
+#dinamic_grid_data tr td
+{
+    BORDER-RIGHT: #aaa 1px solid;
+    BORDER-TOP: #aaa 0px solid;
+    BORDER-LEFT: #aaa 0px solid;
+    BORDER-BOTTOM: #aaa 1px solid;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space:nowrap;     	
+}
+
+#dinamic_grid_data tr
+{
+	line-height:17px;
+}
+
+#dinamic_grid_data tr:hover,#dinamic_grid_data tr.hovered
+{
+	background-color:Ivory;
+}
+
+#viewPort
+{
+	float:left;
+	width:100%;	
+}
+#div_header
+{
+	display:none;
+	float:left;
+	width:100%;
+}
+#div_query
+{
+	display:none;
+	float:left;
+	padding-top:10px;
+	width:100%;
+	height:45px;
+	align:center;
+	text-align:right;
+}
+#container,.div_nuevo_cuerpo
+{
+	display:none;
+	overflow:Auto ;
+	scrollbar-track-color: transparent;
+	scrollbar-shadow-color: #000000;
+	scrollbar-face-color: #eeefde ;
+	scrollbar-arrow-color: #008b8b;
+	scrollbar-3dlight-color: #000000;
+	scrollbar-darkshadow-color: #000000;	
+}
+#container
+{
+	width:100%;
+	float:left;
+}
+
+#div_nuevo div
+{
+	float:left;
+	display:block;
+	width:100%;
+	text-align:center;
+}
+
+.div_nuevo_cuerpo
+{
+	padding-top:5px;
+}
+
+.div_nuevo_cuerpo span
+{
+	padding-bottom:2px;
+}
+
+.div_nuevo_cabecera
+{
+	padding-top:5px;
+	height:60px;
+}
+
+.div_nuevo_cabecera div
+{
+	float:right;
+	display:table-cell;
+	padding-bottom:5px;
+}
+
+.div_nuevo_pie
+{
+	padding-top:10px;
+	height:30px;
+}
+
+TABLE
+{
+ 	border:solid 0px;
+	cellpadding:0px;
+	cellspacing:0px;
+}
+
+A
+{
+	font-family:Helvetica,Serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000;
+	text-decoration:none;	
+}
+A:hover
+{
+	color:#CC3333;
+}
+
+A IMG{
+	vertical-align:middle;
+	border:0px;
+}
+
+.eliminar
+{
+	display:block;
+	padding:0px;
+	text-decoration: none;
+	background: url(../img/eliminar02.gif) 0 0 no-repeat;
+}
+.eliminar:hover,.eliminarHeader
+{
+	display:block;
+	padding:0px;
+	text-decoration: none;
+	background: url(../img/eliminar01.gif) 0 0 no-repeat;
+}
+.eliminarHeader
+{
+	padding-bottom:2px;
+}
+
+.edicion 
+{
+	display:block;
+	padding:0px;
+	text-decoration: none;
+	background: url(../img/edicion02.gif) 0 0 no-repeat;
+}
+.edicion:hover,.edicionHeader
+{ 
+	display:block;
+	padding:0px;
+	text-decoration: none;
+	background: url(../img/edicion01.gif) 0 0 no-repeat;
+}
+.edicionHeader
+{
+	padding-bottom:2px;
+}
+
+.duplicar 
+{
+	display:block;
+	padding:0px;
+	text-decoration: none;
+	background: url(../img/duplicar02.gif) 0 0 no-repeat;
+}
+.duplicar:hover,.duplicarHeader 
+{ 
+	display:block;
+	padding:0px;
+	text-decoration: none;
+	background: url(../img/duplicar01.gif) 0 0 no-repeat;
+}
+.duplicarHeader
+{
+	padding-bottom:2px;
+}
+
+.hijos 
+{
+	display:block;
+	padding:0px;
+	text-decoration: none;
+	background: url(../img/dcha.gif) 0 0 no-repeat;
+}
+.hijos:hover,.hijosHeader 
+{ 
+	display:block;
+	padding:0px;
+	text-decoration: none;
+	background: url(../img/dcha.gif) 0 0 no-repeat;
+}
+.hijosHeader
+{
+	padding-bottom:2px;
+}
+
+.caja
+{
+	width:150px;
+	border: 1px solid #008b8b;
+}
+.caja1
+{
+	width:150px;
+	border: 1px solid #008b8b;
+	background-color:#f4f4f4;
+}
+
+.cajaFecha
+{
+	width:130px;
+	border: 1px solid #008b8b;
+}
+.cajaFecha1
+{
+	width:130px;
+	border: 1px solid #008b8b;
+	background-color:#f4f4f4;
+}
+
+.cajaCheck
+{
+	width:150px;
+	position:relative;
+	left:-70px;
+}
+.cajaArea
+{
+	height:35px;
+	width:650px;
+	border: 1px solid #008b8b;
+}
+
+.cajaArea1
+{
+	height:35px;
+	width:650px;
+	border: 1px solid #008b8b;
+	background-color:#f4f4f4;	
+}
+
+.cajaSpan
+{
+	text-align:left;
+	white-space:nowrap;
+}
+
+.cajaSpan span
+{
+	border: 1px solid #A69583;
+	background-color:#cdcdcd;
+}
+
+.spanDoble table tr td
+{
+	width:100%;
+}
+
+.inputAutoCompletar
+{
+	width:200px;
+	border: 1px solid #008b8b;
+	background-color:#f4f4f4;
+}
+
+.spanDoble
+{
+	display:table-cell;
+	float:left;
+	text-align:right;
+	font-size:12px;
+	font-family:Helvetica,Serif;
+}
+
+.Estilo_00{
+	color:red;
+}
+.Estilo_01{
+	color:blue;
+}
+.Estilo_02{
+	color:green;
+}
+.Estilo_03{
+	color:navy;
+}
+.Estilo_04{
+	color:brown;
+}
+
+/*para la capa de autocompletado de la grid*/
+
+.in-place-auto-div
+{
+	border: 1px solid black;
+	font-size:10px;
+	background-color:#F2F2F2;
+	height: 200px;
+	overflow: auto;
+	z-index: 100;
+	color:#000000;
+	padding:1px;
+	margin:0px;
+}
+
+.in-place-auto-div ul
+{
+	width: 100%;
+	list-style-type: none;
+	padding:0px;
+	margin:0px;	
+}
+
+.in-place-auto-div li
+{
+	width: 100%;
+	list-style-type: none;
+	padding:0px;
+	margin:0px;	
+}
+
+.in-place-auto-div li:HOVER,.in-place-auto-div li.hovered
+{
+	background-color: Ivory;
+	cursor: pointer;
+}
+
+.inplaceeditor-form{
+  display:inline;
+}
+
+.alarmas{
+	position:relative;
+	display:block;
+	top:100px;
+	left:200px;
+	width:300px;
+	text-align:left;
+	z-index: 100;
+	background-color:#eeefde;
+    border: #666 1px solid;
+	padding:20px 40px 40px 40px;
+}
+
+.alarmas A
+{
+	font-family:Helvetica,Serif;
+	font-size:15px;
+	font-weight:bold;
+	line-height: 40px;
+	color:navy;
+	text-decoration:none;
+	
+}
+.alarmas A:hover
+{
+	color:#CC3333;
+}
+
+.alarmas H1
+{
+	font-size:16px;
+	font-weight:bold;
+	color:#808080;
+	background-color:#eeefde;
+	border:1px dashed #000;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.segundaLinea,.segundaLineaSpan
+{
+	display:table-cell;
+	float:left;
+	text-align:left;
+	margin-top:2px;
+	padding-top:2px;
+	padding-bottom:4px;
+	border-top:solid 1px;
+	border-right:solid 1px;
+	border-left:solid 1px;
+	background-color:#eeefde;
+}
+
+.segundaLinea a,.segundaLineaSpan a
+{
+	font-size:10px;
+	border-right:#eeefde solid 1px;
+	border-left:#eeefde solid 1px;
+}
+
+.segundaLinea a:hover,.segundaLineaSpan a:hover
+{
+	background-color:#fefcfe;
+	padding-top:5px;
+	padding-bottom:4px;
+	border-left:black solid 1px;
+	border-right:black solid 1px;
+}
+
+.segundaLinea
+{
+	border-bottom:solid 0px;
+}
+
+.segundaLineaSpan
+{
+	border-bottom:solid 1px;
+}
+
+.icono
+{
+	position:absolute;
+	border:0px;
+	float:right;
+	right:80px;
+	top:10px;
+}
+
+#divPathHTML
+{
+	LEFT: 50px; 
+	POSITION: absolute;
+	HEIGHT:15px; 
+	TOP: 55px;
+	font-family:Helvetica;
+	font-size:12px;
+	border-bottom:dashed 1px;
+}
+
+.imagenCentrada
+{
+	vertical-align:middle;
+	padding-bottom:4px;
+	border:0px;
+}
+
+      #alarmas span {display:block;}
+      #alarmas div {display:block;float:left;width:100%;padding-left:22px;background: url(../img/inicio.gif) 0 0 no-repeat;font-size:16px;font-weight:bold;}
+      .inicio li{display:table-cell;float:left;list-style:none;padding-left:22px;background: url(../img/inicio.gif) 0 0 no-repeat;}

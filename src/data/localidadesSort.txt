@@ -1,0 +1,8095 @@
+1;46;Ababuj
+2;42;Abades
+3;50;Abadiño
+4;12;Abadía
+5;30;Abadín
+6;10;Abajas
+7;26;Abalos
+8;22;Abaltzisketa
+9;34;Abanilla
+10;50;Abanto y Ciérvana/Abanto Zierbena
+11;52;Abanto
+12;38;Abarca de Campos
+13;34;Abarán
+14;35;Abaurregaina/Abaurrea Alta
+15;35;Abaurrepea/Abaurrea Baja
+16;44;Abejar
+17;46;Abejuela
+18;29;Abella de la Conca
+19;4;Abengibre
+20;11;Abenójar
+21;35;Aberin
+22;12;Abertura
+23;51;Abezames
+24;18;Abia de la Obispalía
+25;38;Abia de las Torres
+26;24;Abiego
+27;24;Abizanda
+28;5;Abla
+29;21;Ablanque
+30;35;Ablitas
+31;9;Abrera
+32;5;Abrucena
+33;41;Abusejo
+34;35;Abáigar
+35;21;Abánades
+36;35;Abárzuza
+37;31;Acebeda (La)
+38;28;Acebedo
+39;12;Acebo
+40;18;Acebrón (El)
+41;7;Acedera
+42;12;Acehuche
+43;12;Aceituna
+44;52;Acered
+45;7;Aceuchal
+46;24;Adahuesca
+47;49;Adalia
+48;17;Adamuz
+49;6;Adanero
+50;40;Adeje
+51;48;Ademuz
+52;35;Adiós
+53;21;Adobes
+54;48;Ador
+55;5;Adra
+56;6;Adrada (La)
+57;10;Adrada de Haza
+58;42;Adrada de Pirón
+59;44;Adradas
+60;42;Adrados
+61;22;Aduna
+62;27;Agaete
+63;41;Agallas
+64;29;Ager
+65;39;Agolada
+66;26;Agoncillo
+67;2;Agost
+68;29;Agramunt
+69;44;Agreda
+70;2;Agres
+71;20;Agrón
+72;43;Aguadulce
+73;52;Aguarón
+74;10;Aguas Cándidas
+75;49;Aguasal
+76;46;Aguatón
+77;46;Aguaviva
+78;11;Agudo
+79;42;Aguilafuente
+80;10;Aguilar de Bureba
+81;38;Aguilar de Campoo
+82;49;Aguilar de Campos
+83;35;Aguilar de Codés
+84;9;Aguilar de Segarra
+85;17;Aguilar de la Frontera
+86;46;Aguilar del Alfambra
+87;26;Aguilar del Río Alhama
+88;34;Aguilas
+89;52;Aguilón
+90;19;Agullana
+91;48;Agullent
+92;40;Agulo
+93;52;Agón
+94;24;Agüero
+95;27;Agüimes
+96;41;Ahigal de Villarino
+97;41;Ahigal de los Aceiteros
+98;12;Ahigal
+99;7;Ahillones
+100;22;Aia
+101;35;Aibar
+102;48;Aielo de Malferit
+103;48;Aielo de Rugat
+104;9;Aiguafreda
+105;45;Aiguamúrcia
+106;19;Aiguaviva
+107;2;Aigües
+108;52;Ainzón
+109;24;Aisa
+110;29;Aitona
+111;22;Aizarnazabal
+112;31;Ajalvir
+113;26;Ajamil
+114;50;Ajangiz
+115;47;Ajofrín
+116;2;Alacant
+117;46;Alacón
+118;52;Aladrén
+119;49;Alaejos
+120;52;Alagón
+121;8;Alaior
+122;40;Alajeró
+123;41;Alameda de Gardón (La)
+124;47;Alameda de la Sagra
+125;31;Alameda del Valle
+126;32;Alameda
+127;41;Alamedilla (La)
+128;20;Alamedilla
+129;11;Alamillo
+130;21;Alaminos
+131;31;Alamo (El)
+132;29;Alamús (Els)
+133;7;Alange
+134;43;Alanís
+135;48;Alaquàs
+136;38;Alar del Rey
+137;41;Alaraz
+138;52;Alarba
+139;18;Alarcón
+140;21;Alarilla
+141;8;Alaró
+142;4;Alatoz
+143;38;Alba de Cerrato
+144;41;Alba de Tormes
+145;41;Alba de Yeltes
+146;46;Alba
+147;4;Albacete
+148;29;Albagés (L')
+149;43;Albaida del Aljarafe
+150;48;Albaida
+151;48;Albal
+152;18;Albaladejo del Cuende
+153;11;Albaladejo
+154;48;Albalat de la Ribera
+155;48;Albalat dels Sorells
+156;48;Albalat dels Tarongers
+157;24;Albalate de Cinca
+158;21;Albalate de Zorita
+159;18;Albalate de las Nogueras
+160;46;Albalate del Arzobispo
+161;24;Albalatillo
+162;12;Albalá del Caudillo
+163;25;Albanchez de Ubeda
+164;5;Albanchez
+165;19;Albanyà
+166;21;Albares
+167;46;Albarracín
+168;47;Albarreal de Tajo
+169;4;Albatana
+170;2;Albatera
+171;29;Albatàrrec
+172;26;Albelda de Iregua
+173;24;Albelda
+174;18;Albendea
+175;21;Albendiego
+176;46;Albentosa
+177;41;Alberca (La)
+178;18;Alberca de Záncara (La)
+179;41;Alberguería de Argañán (La)
+180;48;Alberic
+181;52;Alberite de San Juan
+182;26;Alberite
+183;24;Albero Alto
+184;24;Albero Bajo
+185;24;Alberuela de Tubo
+186;29;Albesa
+187;52;Albeta
+188;29;Albi (L')
+189;10;Albillos
+190;45;Albinyana
+191;45;Albiol (L')
+192;22;Albiztur
+193;15;Albocàsser
+194;5;Alboloduy
+195;20;Albolote
+196;20;Albondón
+197;19;Albons
+198;48;Alborache
+199;48;Alboraia
+200;4;Alborea
+201;52;Alborge
+202;6;Albornos
+203;5;Albox
+204;34;Albudeite
+205;7;Albuera (La)
+206;48;Albuixec
+207;7;Alburquerque
+208;20;Albuñol
+209;20;Albuñuelas
+210;20;Albuñán
+211;47;Alcabón
+212;4;Alcadozo
+213;46;Alcaine
+214;52;Alcalá de Ebro
+215;43;Alcalá de Guadaira
+216;24;Alcalá de Gurrea
+217;31;Alcalá de Henares
+218;52;Alcalá de Moncayo
+219;15;Alcalá de Xivert
+220;46;Alcalá de la Selva
+221;18;Alcalá de la Vega
+222;13;Alcalá de los Gazules
+223;4;Alcalá del Júcar
+224;24;Alcalá del Obispo
+225;43;Alcalá del Río
+226;13;Alcalá del Valle
+227;25;Alcalá la Real
+228;24;Alcampell
+229;26;Alcanadre
+230;2;Alcanalí
+231;45;Alcanar
+232;34;Alcantarilla
+233;18;Alcantud
+234;29;Alcanó
+235;17;Alcaracejos
+236;4;Alcaraz
+237;29;Alcarràs
+238;32;Alcaucín
+239;47;Alcaudete de la Jara
+240;25;Alcaudete
+241;49;Alcazarén
+242;51;Alcañices
+243;46;Alcañiz
+244;47;Alcañizo
+245;11;Alcoba
+246;31;Alcobendas
+247;2;Alcocer de Planes
+248;21;Alcocer
+249;10;Alcocero de Mola
+250;18;Alcohujate
+251;2;Alcoi
+252;11;Alcolea de Calatrava
+253;24;Alcolea de Cinca
+254;47;Alcolea de Tajo
+255;21;Alcolea de las Peñas
+256;21;Alcolea del Pinar
+257;43;Alcolea del Río
+258;5;Alcolea
+259;2;Alcoleja
+260;29;Alcoletge
+261;12;Alcollarín
+262;44;Alconaba
+263;42;Alconada de Maderuelo
+264;41;Alconada
+265;52;Alconchel de Ariza
+266;18;Alconchel de la Estrella
+267;7;Alconchel
+268;7;Alconera
+269;15;Alcora (l')
+270;31;Alcorcón
+271;46;Alcorisa
+272;21;Alcoroches
+273;45;Alcover
+274;24;Alcubierre
+275;44;Alcubilla de Avellaneda
+276;51;Alcubilla de Nogales
+277;44;Alcubilla de las Peñas
+278;11;Alcubillas
+279;48;Alcublas
+280;5;Alcudia de Monteagud
+281;15;Alcudia de Veo (l')
+282;12;Alcuéscar
+283;48;Alcàntera de Xúquer
+284;48;Alcàsser
+285;12;Alcántara
+286;11;Alcázar de San Juan
+287;18;Alcázar del Rey
+288;34;Alcázares (Los)
+289;5;Alcóntar
+290;48;Alcúdia (l')
+291;48;Alcúdia de Crespins (l')
+292;8;Alcúdia
+293;48;Aldaia
+294;45;Aldea (L')
+295;42;Aldea Real
+296;49;Aldea de San Miguel
+297;12;Aldea de Trujillo
+298;12;Aldea del Cano
+299;31;Aldea del Fresno
+300;41;Aldea del Obispo
+301;11;Aldea del Rey
+302;47;Aldea en Cabo
+303;12;Aldeacentenera
+304;41;Aldeacipreste
+305;41;Aldeadávila de la Ribera
+306;44;Aldealafuente
+307;42;Aldealcorvo
+308;42;Aldealengua de Pedraza
+309;42;Aldealengua de Santa María
+310;41;Aldealengua
+311;44;Aldealices
+312;44;Aldealpozo
+313;44;Aldealseñor
+314;49;Aldeamayor de San Martín
+315;47;Aldeanueva de Barbarroya
+316;26;Aldeanueva de Ebro
+317;41;Aldeanueva de Figueroa
+318;21;Aldeanueva de Guadalajara
+319;47;Aldeanueva de San Bartolomé
+320;6;Aldeanueva de Santa Cruz
+321;42;Aldeanueva de la Serrezuela
+322;41;Aldeanueva de la Sierra
+323;12;Aldeanueva de la Vera
+324;12;Aldeanueva del Camino
+325;42;Aldeanueva del Codonal
+326;25;Aldeaquemada
+327;41;Aldearrodrigo
+328;41;Aldearrubia
+329;41;Aldeaseca de Alba
+330;41;Aldeaseca de la Frontera
+331;6;Aldeaseca
+332;42;Aldeasoña
+333;41;Aldeatejada
+334;41;Aldeavieja de Tormes
+335;42;Aldehorno
+336;6;Aldehuela (La)
+337;52;Aldehuela de Liestos
+338;44;Aldehuela de Periáñez
+339;41;Aldehuela de Yeltes
+340;41;Aldehuela de la Bóveda
+341;42;Aldehuela del Codonal
+342;12;Aldehuela del Jerte
+343;44;Aldehuelas (Las)
+344;20;Aldeire
+345;42;Aldeonte
+346;45;Aldover
+347;34;Aledo
+348;22;Alegia
+349;3;Alegría-Dulantzi
+350;45;Aleixar (L')
+351;9;Alella
+352;44;Alentisque
+353;24;Alerre
+354;26;Alesanco
+355;26;Alesón
+356;20;Alfacar
+357;48;Alfafar
+358;2;Alfafara
+359;52;Alfajarín
+360;46;Alfambra
+361;52;Alfamén
+362;48;Alfara d' Algimia
+363;45;Alfara de Carles
+364;48;Alfara del Patriarca
+365;51;Alfaraz de Sayago
+366;32;Alfarnate
+367;32;Alfarnatejo
+368;26;Alfaro
+369;48;Alfarp
+370;48;Alfarrasí
+371;29;Alfarràs
+372;48;Alfauir
+373;15;Alfondeguilla
+374;45;Alforja
+375;52;Alforque
+376;10;Alfoz de Bricia
+377;14;Alfoz de Lloredo
+378;10;Alfoz de Quintanadueñas
+379;10;Alfoz de Santa Gadea
+380;30;Alfoz
+381;2;Alfàs del Pi (l')
+382;24;Alfántega
+383;29;Alfés
+384;43;Algaba (La)
+385;28;Algadefe
+386;8;Algaida
+387;21;Algar de Mesa
+388;48;Algar de Palancia
+389;13;Algar
+390;20;Algarinejo
+391;18;Algarra
+392;32;Algarrobo
+393;32;Algatocín
+394;13;Algeciras
+395;48;Algemesí
+396;29;Algerri
+397;31;Algete
+398;48;Algimia d' Alfara
+399;15;Algimia d' Almonacid
+400;48;Alginet
+401;13;Algodonales
+402;51;Algodre
+403;21;Algora
+404;2;Algorfa
+405;29;Alguaire
+406;34;Alguazas
+407;2;Alguenya (l')
+408;43;Algámitas
+409;5;Alhabia
+410;5;Alhama de Almería
+411;52;Alhama de Aragón
+412;20;Alhama de Granada
+413;34;Alhama de Murcia
+414;11;Alhambra
+415;32;Alhaurín de la Torre
+416;32;Alhaurín el Grande
+417;20;Alhendín
+418;21;Alhóndiga
+419;46;Aliaga
+420;18;Aliaguilla
+421;20;Alicún de Ortega
+422;5;Alicún
+423;28;Alija del Infantado
+424;29;Alins
+425;21;Alique
+426;12;Aliseda
+427;44;Aliud
+428;45;Alió
+429;23;Aljaraque
+430;7;Aljucén
+431;22;Alkiza
+432;37;Allande
+433;36;Allariz
+434;46;Allepuz
+435;37;Aller
+436;35;Allo
+437;46;Alloza
+438;46;Allueva
+439;35;Allín
+440;29;Almacelles
+441;11;Almadenejos
+442;21;Almadrones
+443;43;Almadén de la Plata
+444;11;Almadén
+445;11;Almagro
+446;44;Almajano
+447;44;Almaluez
+448;4;Almansa
+449;28;Almanza
+450;51;Almaraz de Duero
+451;12;Almaraz
+452;18;Almarcha (La)
+453;32;Almargen
+454;26;Almarza de Cameros
+455;44;Almarza
+456;15;Almassora
+457;29;Almatret
+458;44;Almazul
+459;44;Almazán
+460;11;Almedina
+461;17;Almedinilla
+462;15;Almedíjar
+463;20;Almegíjar
+464;51;Almeida de Sayago
+465;44;Almenar de Soria
+466;29;Almenar
+467;49;Almenara de Adaja
+468;41;Almenara de Tormes
+469;15;Almenara
+470;41;Almendra
+471;47;Almendral de la Cañada
+472;7;Almendral
+473;7;Almendralejo
+474;23;Almendro (El)
+475;18;Almendros
+476;43;Almensilla
+477;5;Almería
+478;48;Almiserat
+479;52;Almochuel
+480;11;Almodóvar del Campo
+481;18;Almodóvar del Pinar
+482;17;Almodóvar del Río
+483;21;Almoguera
+484;32;Almogía
+485;46;Almohaja
+486;12;Almoharín
+487;48;Almoines
+488;52;Almolda (La)
+489;47;Almonacid de Toledo
+490;21;Almonacid de Zorita
+491;52;Almonacid de la Cuba
+492;52;Almonacid de la Sierra
+493;18;Almonacid del Marquesado
+494;23;Almonaster la Real
+495;23;Almonte
+496;2;Almoradí
+497;47;Almorox
+498;45;Almoster
+499;2;Almudaina
+500;24;Almudévar
+501;52;Almunia de Doña Godina (La)
+502;24;Almunia de San Juan
+503;24;Almuniente
+504;11;Almuradiel
+505;48;Almussafes
+506;20;Almuñécar
+507;48;Almàssera
+508;32;Almáchar
+509;5;Almócita
+510;46;Alobras
+511;21;Alocén
+512;50;Alonsotegi
+513;32;Alora
+514;23;Alosno
+515;21;Alovera
+516;32;Alozaina
+517;19;Alp
+518;32;Alpandeire
+519;44;Alpanseque
+520;52;Alpartir
+521;31;Alpedrete
+522;9;Alpens
+523;4;Alpera
+524;46;Alpeñés
+525;29;Alpicat
+526;48;Alpuente
+527;20;Alpujarra de la Sierra
+528;2;Alqueria d'Asnar (l')
+529;48;Alqueria de la Comtessa
+530;15;Alqueries de la Plana (les)
+531;20;Alquife
+532;24;Alquézar
+533;5;Alsodux
+534;29;Alt Aneu
+535;10;Altable
+536;45;Altafulla
+537;18;Altarejos
+538;2;Altea
+539;24;Altorricón
+540;10;Altos (Los)
+541;35;Altsasu/Alsasua
+542;15;Altura
+543;22;Altzaga
+544;22;Altzo
+545;21;Alustante
+546;48;Alzira
+547;29;Alàs i Cerc
+548;23;Alájar
+549;12;Alía
+550;29;Alòs de Balaguer
+551;6;Amavida
+552;38;Amayuelas de Arriba
+553;52;Ambel
+554;31;Ambite
+555;19;Amer
+556;1;Ames
+557;45;Ametlla de Mar (L')
+558;9;Ametlla del Vallès (L')
+559;10;Ameyugo
+560;22;Amezketa
+561;37;Amieva
+562;36;Amoeiro
+563;50;Amorebieta-Echano
+564;50;Amoroto
+565;45;Ampolla (L')
+566;45;Amposta
+567;38;Ampudia
+568;14;Ampuero
+569;3;Amurrio
+570;38;Amusco
+571;49;Amusquillo
+572;35;Améscoa Baja
+573;46;Anadón
+574;41;Anaya de Alba
+575;42;Anaya
+576;31;Anchuelo
+577;11;Anchuras
+578;35;Ancín
+579;51;Andavías
+580;48;Andilla
+581;22;Andoain
+582;46;Andorra
+583;35;Andosilla
+584;8;Andraitx
+585;25;Andújar
+586;52;Anento
+587;29;Anglesola
+588;19;Anglès
+589;26;Anguciana
+590;26;Anguiano
+591;21;Anguita
+592;10;Anguix
+593;21;Angón
+594;24;Angüés
+595;14;Anievas
+596;52;Aniñón
+597;48;Anna
+598;22;Anoeta
+599;21;Anquela del Ducado
+600;21;Anquela del Pedregal
+601;35;Ansoáin
+602;24;Ansó
+603;30;Antas de Ulla
+604;5;Antas
+605;48;Antella
+606;32;Antequera
+607;28;Antigua (La)
+608;27;Antigua
+609;38;Antigüedad
+610;24;Antillón
+611;22;Antzuola
+612;35;Anué
+613;35;Aoiz/Agoitz
+614;41;Arabayona
+615;50;Aracaldo
+616;23;Aracena
+617;40;Arafo
+618;24;Aragüés del Puerto
+619;43;Arahal
+620;42;Arahuetes
+621;35;Araitz
+622;35;Arakil
+623;22;Arama
+624;3;Aramaio
+625;35;Aranarache
+626;44;Arancón
+627;10;Aranda de Duero
+628;52;Aranda de Moncayo
+629;18;Arandilla del Arroyo
+630;10;Arandilla
+631;1;Aranga
+632;35;Aranguren
+633;31;Aranjuez
+634;35;Arano
+635;35;Arantza
+636;50;Arantzazu
+637;21;Aranzueque
+638;41;Arapiles
+639;48;Aras de Alpuente
+640;35;Aras
+641;10;Arauzo de Miel
+642;10;Arauzo de Salce
+643;10;Arauzo de Torre
+644;15;Arañuel
+645;21;Arbancón
+646;29;Arbeca
+647;21;Arbeteta
+648;35;Arbizu
+649;39;Arbo
+650;5;Arboleas
+651;45;Arbolí
+652;45;Arboç (L')
+653;19;Arbúcies
+654;18;Arcas del Villar
+655;35;Arce
+656;41;Arcediano
+657;51;Arcenillas
+658;50;Arcentales
+659;34;Archena
+660;32;Archez
+661;32;Archidona
+662;47;Arcicóllar
+663;41;Arco (El)
+664;38;Arconada
+665;42;Arcones
+666;35;Arcos (Los)
+667;44;Arcos de Jalón
+668;13;Arcos de la Frontera
+669;51;Arcos de la Polvorosa
+670;18;Arcos de la Sierra
+671;46;Arcos de las Salinas
+672;10;Arcos
+673;32;Ardales
+674;52;Ardisa
+675;28;Ardón
+676;50;Areatza
+677;35;Arellano
+678;6;Arenal (El)
+679;14;Arenas de Iguña
+680;11;Arenas de San Juan
+681;6;Arenas de San Pedro
+682;20;Arenas del Rey
+683;32;Arenas
+684;10;Arenillas de Riopisuerga
+685;44;Arenillas
+686;46;Arens de Lledó
+687;9;Arenys de Mar
+688;9;Arenys de Munt
+689;26;Arenzana de Abajo
+690;26;Arenzana de Arriba
+691;15;Ares del Maestrat
+692;1;Ares
+693;35;Areso
+694;22;Aretxabaleta
+695;42;Arevalillo de Cega
+696;6;Arevalillo
+697;11;Argamasilla de Alba
+698;11;Argamasilla de Calatrava
+699;31;Arganda del Rey
+700;28;Arganza
+701;24;Argavieso
+702;51;Argañín
+703;21;Argecilla
+704;19;Argelaguer
+705;15;Argelita
+706;46;Argente
+707;45;Argentera (L')
+708;9;Argentona
+709;9;Argençola
+710;14;Argoños
+711;35;Arguedas
+712;24;Arguis
+713;18;Arguisuelas
+714;51;Argujillo
+715;47;Argés
+716;35;Aria
+717;8;Ariany
+718;35;Aribe
+719;40;Arico
+720;10;Arija
+721;52;Ariza
+722;46;Ariño
+723;25;Arjona
+724;25;Arjonilla
+725;10;Arlanzón
+726;21;Armallones
+727;35;Armañanzas
+728;19;Armentera (L')
+729;41;Armenteros
+730;20;Armilla
+731;3;Armiñón
+732;5;Armuña de Almanzora
+733;21;Armuña de Tajuña
+734;42;Armuña
+735;26;Arnedillo
+736;26;Arnedo
+737;45;Arnes
+738;36;Arnoia
+739;14;Arnuero
+740;23;Aroche
+741;40;Arona
+742;51;Arquillinos
+743;25;Arquillos
+744;51;Arrabalde
+745;3;Arraia-Maeztu
+746;18;Arrancacepas
+747;50;Arrankudiaga
+748;22;Arrasate o Mondragón
+749;50;Arratzu
+750;10;Arraya de Oca
+751;3;Arrazua-Ubarrundia
+752;27;Arrecife
+753;14;Arredondo
+754;29;Arres
+755;32;Arriate
+756;50;Arrieta
+757;50;Arrigorriaga
+758;11;Arroba de los Montes
+759;7;Arroyo de San Serván
+760;49;Arroyo de la Encomienda
+761;12;Arroyo de la Luz
+762;21;Arroyo de las Fraguas
+763;23;Arroyomolinos de León
+764;12;Arroyomolinos de la Vera
+765;12;Arroyomolinos
+766;31;Arroyomolinos
+767;35;Arruazu
+768;35;Arróniz
+769;26;Arrúbal
+770;29;Arsèguel
+771;35;Artajona
+772;15;Artana
+773;35;Artazu
+774;50;Artea
+775;1;Arteizo
+776;27;Artenara
+777;29;Artesa de Lleida
+778;29;Artesa de Segre
+779;52;Artieda
+780;3;Artziniega
+781;8;Artà
+782;9;Artés
+783;27;Arucas
+784;1;Arzúa
+785;52;Arándiga
+786;24;Arén
+787;44;Arévalo de la Sierra
+788;6;Arévalo
+789;45;Ascó
+790;29;Aspa
+791;51;Aspariegos
+792;3;Asparrena
+793;2;Aspe
+794;22;Asteasu
+795;22;Astigarraga
+796;14;Astillero (El)
+797;28;Astorga
+798;38;Astudillo
+799;51;Asturianos
+800;52;Asín
+801;32;Atajate
+802;41;Atalaya (La)
+803;18;Atalaya del Cañavate
+804;7;Atalaya
+805;21;Atanzón
+806;10;Atapuerca
+807;49;Ataquines
+808;20;Atarfe
+809;22;Ataun
+810;31;Atazar (El)
+811;52;Atea
+812;52;Ateca
+813;35;Atez
+814;21;Atienza
+815;50;Atxondo
+816;48;Atzeneta d' Albaida
+817;15;Atzeneta del Maestrat
+818;2;Atzúvia (l')
+819;50;Aulesti
+820;35;Auritz/Burguete
+821;44;Ausejo de la Sierra
+822;26;Ausejo
+823;10;Ausines (Los)
+824;38;Autilla del Pino
+825;38;Autillo de Campos
+826;26;Autol
+827;21;Auñón
+828;6;Aveinte
+829;6;Avellaneda
+830;29;Avellanes i Santa Linya (Les)
+831;10;Avellanosa de Muñó
+832;6;Avila
+833;37;Avilés
+834;19;Avinyonet de Puigventós
+835;9;Avinyonet del Penedès
+836;9;Avinyó
+837;9;Avià
+838;36;Avión
+839;3;Ayala
+840;23;Ayamonte
+841;35;Ayegui
+842;24;Ayerbe
+843;42;Ayllón
+844;4;Ayna
+845;48;Ayora
+846;51;Ayoó de Vidriales
+847;38;Ayuela
+848;15;Ayódar
+849;35;Azagra
+850;46;Azaila
+851;24;Azanuy-Alins
+852;24;Azara
+853;22;Azkoitia
+854;24;Azlor
+855;43;Aznalcázar
+856;43;Aznalcóllar
+857;26;Azofra
+858;22;Azpeitia
+859;7;Azuaga
+860;52;Azuara
+861;35;Azuelo
+862;21;Azuqueca de Henares
+863;47;Azután
+864;15;Azuébar
+865;15;Aín
+866;24;Aínsa-Sobrarbe
+867;42;Añe
+868;17;Añora
+869;35;Añorbe
+870;47;Añover de Tajo
+871;41;Añover de Tormes
+872;52;Añón de Moncayo
+873;41;Babilafuente
+874;5;Bacares
+875;7;Badajoz
+876;9;Badalona
+877;26;Badarán
+878;9;Badia del Vallès
+879;43;Badolatosa
+880;52;Badules
+881;17;Baena
+882;25;Baeza
+883;9;Bagà
+884;52;Bagüés
+885;10;Bahabón de Esgueva
+886;49;Bahabón
+887;21;Baides
+888;24;Bailo
+889;25;Bailén
+890;39;Baiona
+891;29;Baix Pallars
+892;35;Bakaiku
+893;50;Bakio
+894;29;Balaguer
+895;4;Balazote
+896;10;Balbases (Los)
+897;28;Balboa
+898;52;Balconchán
+899;24;Baldellou
+900;30;Baleira
+901;9;Balenyà
+902;22;Baliarrain
+903;4;Ballestero (El)
+904;11;Ballesteros de Calatrava
+905;24;Ballobar
+906;50;Balmaseda
+907;2;Balones
+908;4;Balsa de Ves
+909;9;Balsareny
+910;38;Baltanás
+911;36;Baltar
+912;24;Banastás
+913;36;Bande
+914;8;Banyalbufar
+915;2;Banyeres de Mariola
+916;45;Banyeres del Penedès
+917;19;Banyoles
+918;38;Baquerín de Campos
+919;18;Barajas de Melo
+920;50;Barakaldo
+921;30;Baralla
+922;44;Baraona
+923;35;Barañain
+924;10;Barbadillo de Herreros
+925;10;Barbadillo del Mercado
+926;10;Barbadillo del Pez
+927;41;Barbadillo
+928;36;Barbadás
+929;41;Barbalos
+930;35;Barbarin
+931;24;Barbastro
+932;13;Barbate
+933;29;Barbens
+934;45;Barberà de la Conca
+935;9;Barberà del Vallès
+936;42;Barbolla
+937;24;Barbués
+938;24;Barbuñales
+939;44;Barca
+940;7;Barcarrota
+941;9;Barcelona
+942;41;Barceo
+943;18;Barchín del Hoyo
+944;49;Barcial de la Loma
+945;51;Barcial del Barco
+946;47;Barcience
+947;6;Barco de Avila (El)
+948;36;Barco de Valdeorras (O)
+949;44;Barcones
+950;52;Bardallur
+951;14;Bareyo
+952;47;Bargas
+953;35;Bargota
+954;35;Barillas
+955;28;Barjas
+956;40;Barlovento
+957;29;Baronia de Rialb (La)
+958;15;Barracas
+959;46;Barrachina
+960;6;Barraco (El)
+961;12;Barrado
+962;4;Barrax
+963;30;Barreiros
+964;50;Barrika
+965;10;Barrio de Muñó
+966;21;Barriopedro
+967;13;Barrios (Los)
+968;10;Barrios de Bureba (Los)
+969;10;Barrios de Colina
+970;28;Barrios de Luna (Los)
+971;39;Barro
+972;6;Barromán
+973;41;Barruecopardo
+974;38;Barruelo de Santullán
+975;49;Barruelo del Valle
+976;29;Barruera
+977;3;Barrundia
+978;48;Barx
+979;48;Barxeta
+980;35;Barásoain
+981;35;Basaburua
+982;42;Basardilla
+983;50;Basauri
+984;10;Basconcillos del Tozo
+985;18;Bascuñana de San Pedro
+986;10;Bascuñana
+987;29;Bassella
+988;41;Bastida (La)
+989;45;Batea
+990;7;Baterno
+991;31;Batres
+992;29;Bausen
+993;5;Bayarque
+994;44;Bayubas de Abajo
+995;44;Bayubas de Arriba
+996;5;Bayárcal
+997;20;Baza
+998;35;Baztan
+999;24;Baélls
+1000;1;Baña (A)
+1001;26;Bañares
+1002;28;Bañeza (La)
+1003;41;Bañobárez
+1004;3;Baños de Ebro
+1005;36;Baños de Molgas
+1006;12;Baños de Montemayor
+1007;26;Baños de Rioja
+1008;26;Baños de Río Tobía
+1009;21;Baños de Tajo
+1010;10;Baños de Valdearados
+1011;25;Baños de la Encina
+1012;10;Bañuelos de Bureba
+1013;21;Bañuelos
+1014;46;Bañón
+1015;46;Bea
+1016;36;Beade
+1017;18;Beamud
+1018;36;Beariz
+1019;20;Beas de Granada
+1020;20;Beas de Guadix
+1021;25;Beas de Segura
+1022;23;Beas
+1023;22;Beasain
+1024;6;Becedas
+1025;6;Becedillas
+1026;46;Beceite
+1027;30;Becerreá
+1028;38;Becerril de Campos
+1029;31;Becerril de la Sierra
+1030;49;Becilla de Valderaduey
+1031;50;Bedia
+1032;25;Bedmar y Garcíez
+1033;30;Begonte
+1034;9;Begues
+1035;19;Begur
+1036;25;Begíjar
+1037;35;Beintza-Labaien
+1038;35;Beire
+1039;5;Beires
+1040;22;Beizama
+1041;15;Bejís
+1042;17;Belalcázar
+1043;35;Belascoáin
+1044;22;Belauntza
+1045;10;Belbimbre
+1046;52;Belchite
+1047;41;Beleña
+1048;29;Belianes
+1049;18;Belinchón
+1050;29;Bell-lloc d'Urgell
+1051;29;Bellaguarda
+1052;19;Bellcaire d'Empordà
+1053;29;Bellcaire d'Urgell
+1054;29;Bellmunt d'Urgell
+1055;45;Bellmunt del Priorat
+1056;46;Bello
+1057;9;Bellprat
+1058;29;Bellpuig
+1059;48;Bellreguard
+1060;45;Bellvei
+1061;29;Bellver de Cerdanya
+1062;29;Bellvís
+1063;48;Bellús
+1064;17;Belmez
+1065;38;Belmonte de Campos
+1066;52;Belmonte de Gracián
+1067;37;Belmonte de Miranda
+1068;46;Belmonte de San José
+1069;31;Belmonte de Tajo
+1070;18;Belmonte
+1071;18;Belmontejo
+1072;10;Belorado
+1073;24;Belver de Cinca
+1074;51;Belver de los Montes
+1075;12;Belvís de Monroy
+1076;47;Belvís de la Jara
+1077;28;Bembibre
+1078;24;Benabarre
+1079;43;Benacazón
+1080;32;Benadalid
+1081;49;Benafarces
+1082;15;Benafer
+1083;15;Benafigos
+1084;48;Benaguasil
+1085;48;Benagéber
+1086;5;Benahadux
+1087;32;Benahavís
+1088;32;Benalauría
+1089;32;Benalmádena
+1090;13;Benalup
+1091;20;Benalúa de Guadix
+1092;20;Benalúa de las Villas
+1093;32;Benamargosa
+1094;20;Benamaurel
+1095;17;Benamejí
+1096;32;Benamocarra
+1097;13;Benaocaz
+1098;32;Benaoján
+1099;32;Benarrabá
+1100;2;Benasau
+1101;24;Benasque
+1102;15;Benassal
+1103;25;Benatae
+1104;29;Benavent de Segrià
+1105;51;Benavente
+1106;28;Benavides
+1107;48;Benavites
+1108;51;Benegiles
+1109;48;Beneixida
+1110;2;Benejama
+1111;2;Benejúzar
+1112;48;Benetússer
+1113;2;Benferri
+1114;2;Beniarbeig
+1115;2;Beniardá
+1116;48;Beniarjó
+1117;2;Beniarrés
+1118;48;Beniatjar
+1119;15;Benicarló
+1120;2;Benichembla
+1121;48;Benicolet
+1122;15;Benicàssim
+1123;2;Benidoleig
+1124;2;Benidorm
+1125;34;Beniel
+1126;48;Benifairó de la Valldigna
+1127;48;Benifairó de les Valls
+1128;48;Benifaió
+1129;45;Benifallet
+1130;2;Benifallim
+1131;2;Benifato
+1132;48;Beniflá
+1133;48;Benigánim
+1134;2;Benijófar
+1135;2;Benilloba
+1136;2;Benillup
+1137;2;Benimantell
+1138;2;Benimarfull
+1139;2;Benimassot
+1140;2;Benimeli
+1141;48;Benimodo
+1142;48;Benimuslem
+1143;48;Beniparrell
+1144;48;Benirredrá
+1145;48;Benisanó
+1146;48;Benisoda
+1147;2;Benissa
+1148;45;Benissanet
+1149;48;Benisuera
+1150;5;Benitagla
+1151;5;Benizalón
+1152;15;Benlloch
+1153;7;Benquerencia de la Serena
+1154;12;Benquerencia
+1155;5;Bentarique
+1156;28;Benuza
+1157;35;Bera/Vera de Bidasoa
+1158;50;Berango
+1159;3;Berantevilla
+1160;22;Berastegi
+1161;44;Beratón
+1162;24;Berbegal
+1163;10;Berberana
+1164;35;Berbinzana
+1165;26;Berceo
+1166;49;Bercero
+1167;49;Berceruelo
+1168;6;Bercial de Zapardiel
+1169;42;Bercial
+1170;28;Bercianos del Páramo
+1171;28;Bercianos del Real Camino
+1172;42;Bercimuel
+1173;52;Berdejo
+1174;9;Berga
+1175;22;Bergara
+1176;26;Bergasa
+1177;26;Bergasillas Bajera
+1178;46;Berge
+1179;1;Bergondo
+1180;35;Beriáin
+1181;5;Berja
+1182;6;Berlanas (Las)
+1183;44;Berlanga de Duero
+1184;28;Berlanga del Bierzo
+1185;7;Berlanga
+1186;10;Berlangas de Roa
+1187;41;Bermellar
+1188;50;Bermeo
+1189;51;Bermillo de Sayago
+1190;42;Bernardos
+1191;3;Bernedo
+1192;21;Berninches
+1193;42;Bernuy de Porreros
+1194;6;Bernuy-Zapardiel
+1195;50;Berriatua
+1196;35;Berrioplano
+1197;35;Berriozar
+1198;50;Berriz
+1199;22;Berrobi
+1200;41;Berrocal de Huebra
+1201;41;Berrocal de Salvatierra
+1202;23;Berrocal
+1203;6;Berrocalejo de Aragona
+1204;12;Berrocalejo
+1205;49;Berrueces
+1206;31;Berrueco (El)
+1207;52;Berrueco
+1208;35;Bertizarana
+1209;12;Berzocana
+1210;10;Berzosa de Bureba
+1211;31;Berzosa del Lozoya
+1212;38;Berzosilla
+1213;19;Besalú
+1214;19;Bescanó
+1215;27;Betancuria
+1216;1;Betanzos
+1217;35;Betelu
+1218;18;Beteta
+1219;15;Betxí
+1220;19;Beuda
+1221;26;Bezares
+1222;46;Bezas
+1223;2;Biar
+1224;48;Bicorp
+1225;22;Bidegoyan
+1226;52;Biel-Fuencalderas
+1227;24;Bielsa
+1228;4;Bienservida
+1229;7;Bienvenida
+1230;24;Bierge
+1231;24;Biescas
+1232;2;Bigastro
+1233;9;Bigues i Riells
+1234;52;Bijuesca
+1235;50;Bilbao
+1236;37;Bimenes
+1237;24;Binaced
+1238;8;Binissalem
+1239;24;Binéfar
+1240;29;Biosca
+1241;52;Biota
+1242;24;Bisaurri
+1243;19;Bisbal d'Empordà (La)
+1244;45;Bisbal de Falset (La)
+1245;45;Bisbal del Penedès (La)
+1246;24;Biscarrués
+1247;52;Bisimbre
+1248;19;Biure
+1249;35;Biurrun-Olcoz
+1250;44;Blacos
+1251;34;Blanca
+1252;45;Blancafort
+1253;46;Blancas
+1254;36;Blancos (Os)
+1255;19;Blanes
+1256;6;Blascomillán
+1257;6;Blasconuño de Matacabras
+1258;6;Blascosancho
+1259;24;Blecua y Torres
+1260;46;Blesa
+1261;44;Bliecos
+1262;17;Blázquez (Los)
+1263;38;Boada de Campos
+1264;41;Boada
+1265;19;Boadella d'Empordà
+1266;38;Boadilla de Rioseco
+1267;38;Boadilla del Camino
+1268;31;Boadilla del Monte
+1269;37;Boal
+1270;31;Boalo (El)
+1271;49;Bobadilla del Campo
+1272;26;Bobadilla
+1273;36;Boborás
+1274;28;Boca de Huérgano
+1275;48;Bocairent
+1276;42;Boceguillas
+1277;49;Bocigas
+1278;49;Bocos de Duero
+1279;21;Bodera (La)
+1280;7;Bodonal de la Sierra
+1281;41;Bodón (El)
+1282;49;Boecillo
+1283;41;Bogajo
+1284;4;Bogarra
+1285;6;Bohodón (El)
+1286;12;Bohonal de Ibor
+1287;6;Bohoyo
+1288;1;Boimorto
+1289;1;Boiro
+1290;36;Bola (A)
+1291;11;Bolaños de Calatrava
+1292;49;Bolaños de Campos
+1293;48;Bolbaite
+1294;23;Bollullos Par del Condado
+1295;43;Bollullos de la Mitación
+1296;36;Bolo (O)
+1297;24;Boltaña
+1298;2;Bolulla
+1299;19;Bolvir
+1300;24;Bonansa
+1301;23;Bonares
+1302;45;Bonastre
+1303;4;Bonete
+1304;18;Boniches
+1305;6;Bonilla de la Sierra
+1306;4;Bonillo (El)
+1307;48;Bonrepòs i Mirambell
+1308;1;Boqueixón
+1309;52;Boquiñeni
+1310;24;Borau
+1311;52;Bordalba
+1312;19;Bordils
+1313;46;Bordón
+1314;32;Borge (El)
+1315;29;Borges Blanques (Les)
+1316;45;Borges del Camp (Les)
+1317;52;Borja
+1318;44;Borjabad
+1319;43;Bormujos
+1320;13;Bornos
+1321;44;Borobia
+1322;47;Borox
+1323;19;Borrassà
+1324;9;Borredà
+1325;28;Borrenes
+1326;15;Borriana
+1327;15;Borriol
+1328;13;Bosque (El)
+1329;29;Bossòst
+1330;45;Bot
+1331;45;Botarell
+1332;12;Botija
+1333;52;Botorrita
+1334;41;Bouza (La)
+1335;29;Bovera
+1336;10;Bozoó
+1337;28;Boñar
+1338;6;Brabos
+1339;49;Brahojos de Medina
+1340;31;Braojos
+1341;10;Brazacorta
+1342;11;Brazatortas
+1343;28;Brazuelo
+1344;38;Brañosera
+1345;52;Brea de Aragón
+1346;31;Brea de Tajo
+1347;19;Breda
+1348;43;Brenes
+1349;51;Bretocino
+1350;51;Bretó
+1351;40;Breña Alta
+1352;40;Breña Baja
+1353;26;Brieva de Cameros
+1354;42;Brieva
+1355;21;Brihuega
+1356;51;Brime de Sog
+1357;51;Brime de Urz
+1358;41;Brincones
+1359;26;Briones
+1360;10;Briviesca
+1361;26;Briñas
+1362;1;Brión
+1363;46;Bronchales
+1364;24;Broto
+1365;12;Brozas
+1366;9;Bruc (El)
+1367;9;Brull (El)
+1368;31;Brunete
+1369;19;Brunyola
+1370;45;Bràfim
+1371;44;Buberos
+1372;52;Bubierca
+1373;20;Bubión
+1374;18;Buciegas
+1375;21;Budia
+1376;18;Buenache de Alarcón
+1377;18;Buenache de la Sierra
+1378;41;Buenamadre
+1379;47;Buenaventura
+1380;38;Buenavista de Valdavia
+1381;40;Buenavista del Norte
+1382;41;Buenavista
+1383;18;Buendía
+1384;39;Bueu
+1385;46;Bueña
+1386;48;Bufalí
+1387;48;Bugarra
+1388;10;Bugedo
+1389;31;Buitrago del Lozoya
+1390;44;Buitrago
+1391;17;Bujalance
+1392;21;Bujalaro
+1393;52;Bujaraloz
+1394;6;Bularros
+1395;52;Bulbuente
+1396;34;Bullas
+1397;10;Buniel
+1398;8;Bunyola
+1399;46;Burbáguena
+1400;30;Burela
+1401;52;Bureta
+1402;51;Burganes de Valverde
+1403;32;Burgo (El)
+1404;28;Burgo Ranero (El)
+1405;52;Burgo de Ebro (El)
+1406;44;Burgo de Osma-Ciudad de Osma
+1407;6;Burgohondo
+1408;10;Burgos
+1409;35;Burgui
+1410;47;Burguillos de Toledo
+1411;7;Burguillos del Cerro
+1412;43;Burguillos
+1413;48;Burjassot
+1414;35;Burlada
+1415;47;Burujón
+1416;28;Burón
+1417;2;Busot
+1418;20;Busquístar
+1419;21;Bustares
+1420;31;Bustarviejo
+1421;52;Buste (El)
+1422;49;Bustillo de Chaves
+1423;38;Bustillo de la Vega
+1424;51;Bustillo del Oro
+1425;38;Bustillo del Páramo de Carrión
+1426;28;Bustillo del Páramo
+1427;35;Busto (El)
+1428;10;Busto de Bureba
+1429;50;Busturia
+1430;48;Buñol
+1431;35;Buñuel
+1432;19;Bàscara
+1433;46;Bádenas
+1434;46;Báguena
+1435;52;Bárboles
+1436;24;Bárcabo
+1437;38;Bárcena de Campos
+1438;14;Bárcena de Cicero
+1439;14;Bárcena de Pie de Concha
+1440;38;Báscones de Ojeda
+1441;48;Bèlgida
+1442;5;Bédar
+1443;41;Béjar
+1444;25;Bélmez de la Moraleda
+1445;20;Bérchules
+1446;48;Bétera
+1447;29;Bòrdes (Es)
+1448;51;Bóveda de Toro (La)
+1449;41;Bóveda del Río Almar
+1450;30;Bóveda
+1451;8;Búger
+1452;41;Cabaco (El)
+1453;45;Cabacés
+1454;42;Caballar
+1455;1;Cabana
+1456;29;Cabanabona
+1457;1;Cabanas
+1458;19;Cabanelles
+1459;15;Cabanes
+1460;19;Cabanes
+1461;31;Cabanillas de la Sierra
+1462;21;Cabanillas del Campo
+1463;35;Cabanillas
+1464;9;Cabanyes (Les)
+1465;28;Cabañas Raras
+1466;52;Cabañas de Ebro
+1467;42;Cabañas de Polendos
+1468;51;Cabañas de Sayago
+1469;47;Cabañas de Yepes
+1470;47;Cabañas de la Sagra
+1471;12;Cabañas del Castillo
+1472;10;Cabañes de Esgueva
+1473;41;Cabeza de Béjar (La)
+1474;7;Cabeza del Buey
+1475;41;Cabeza del Caballo
+1476;7;Cabeza la Vaca
+1477;41;Cabezabellosa de la Calzada
+1478;12;Cabezabellosa
+1479;47;Cabezamesada
+1480;11;Cabezarados
+1481;11;Cabezarrubias del Puerto
+1482;23;Cabezas Rubias
+1483;6;Cabezas de Alambre
+1484;43;Cabezas de San Juan (Las)
+1485;6;Cabezas del Pozo
+1486;6;Cabezas del Villar
+1487;12;Cabezuela del Valle
+1488;42;Cabezuela
+1489;26;Cabezón de Cameros
+1490;14;Cabezón de Liébana
+1491;49;Cabezón de Valderaduey
+1492;14;Cabezón de la Sal
+1493;10;Cabezón de la Sierra
+1494;49;Cabezón
+1495;10;Cabia
+1496;6;Cabizuela
+1497;52;Cabolafuente
+1498;46;Cabra de Mora
+1499;45;Cabra del Camp
+1500;25;Cabra del Santo Cristo
+1501;17;Cabra
+1502;37;Cabrales
+1503;37;Cabranes
+1504;35;Cabredo
+1505;44;Cabrejas del Campo
+1506;44;Cabrejas del Pinar
+1507;31;Cabrera (La)
+1508;9;Cabrera d'Igualada
+1509;9;Cabrera de Mar
+1510;41;Cabrerizos
+1511;12;Cabrero
+1512;49;Cabreros del Monte
+1513;28;Cabreros del Río
+1514;28;Cabrillanes
+1515;41;Cabrillas
+1516;9;Cabrils
+1517;14;Cabuérniga
+1518;29;Cabó
+1519;28;Cacabelos
+1520;12;Cachorrilla
+1521;20;Cacín
+1522;31;Cadalso de los Vidrios
+1523;12;Cadalso
+1524;19;Cadaqués
+1525;35;Cadreita
+1526;52;Cadrete
+1527;23;Cala
+1528;42;Calabazas de Fuentidueña
+1529;46;Calaceite
+1530;9;Calaf
+1531;45;Calafell
+1532;20;Calahorra (La)
+1533;38;Calahorra de Boedo
+1534;26;Calahorra
+1535;46;Calamocha
+1536;7;Calamonte
+1537;46;Calanda
+1538;34;Calasparra
+1539;52;Calatayud
+1540;44;Calatañazor
+1541;52;Calatorao
+1542;23;Calañas
+1543;52;Calcena
+1544;39;Caldas de Reis
+1545;24;Caldearenas
+1546;9;Calders
+1547;9;Caldes d'Estrac
+1548;19;Caldes de Malavella
+1549;9;Caldes de Montbui
+1550;9;Calella
+1551;7;Calera de León
+1552;47;Calera y Chozas
+1553;10;Caleruega
+1554;47;Caleruela
+1555;20;Calicasas
+1556;9;Calldetenes
+1557;48;Calles
+1558;2;Callosa d'En Sarrià
+1559;2;Callosa de Segura
+1560;9;Callús
+1561;52;Calmarza
+1562;46;Calomarde
+1563;9;Calonge de Segarra
+1564;19;Calonge
+1565;2;Calp
+1566;44;Caltojar
+1567;41;Calvarrasa de Abajo
+1568;41;Calvarrasa de Arriba
+1569;8;Calvià
+1570;36;Calvos de Randín
+1571;41;Calzada de Béjar (La)
+1572;11;Calzada de Calatrava
+1573;41;Calzada de Don Diego
+1574;47;Calzada de Oropesa (La)
+1575;41;Calzada de Valdunciel
+1576;38;Calzada de los Molinos
+1577;28;Calzada del Coto
+1578;51;Calzadilla de Tera
+1579;7;Calzadilla de los Barros
+1580;12;Calzadilla
+1581;14;Camaleño
+1582;29;Camarasa
+1583;46;Camarena de la Sierra
+1584;47;Camarena
+1585;47;Camarenilla
+1586;14;Camargo
+1587;46;Camarillas
+1588;1;Camariñas
+1589;45;Camarles
+1590;31;Camarma de Esteruelas
+1591;51;Camarzana de Tera
+1592;43;Camas
+1593;46;Camañas
+1594;39;Cambados
+1595;25;Cambil
+1596;45;Cambrils
+1597;12;Caminomorisco
+1598;46;Caminreal
+1599;2;Camp de Mirra (el)
+1600;43;Campana (La)
+1601;7;Campanario
+1602;8;Campanet
+1603;49;Campaspero
+1604;28;Campazas
+1605;19;Campdevànol
+1606;19;Campelles
+1607;2;Campello (el)
+1608;3;Campezo
+1609;23;Campillo (El)
+1610;49;Campillo (El)
+1611;18;Campillo de Altobuey
+1612;52;Campillo de Aragón
+1613;10;Campillo de Aranda
+1614;25;Campillo de Arenas
+1615;41;Campillo de Azaba
+1616;12;Campillo de Deleitosa
+1617;21;Campillo de Dueñas
+1618;7;Campillo de Llerena
+1619;21;Campillo de Ranas
+1620;47;Campillo de la Jara (El)
+1621;18;Campillos-Paravientos
+1622;18;Campillos-Sierra
+1623;32;Campillos
+1624;9;Campins
+1625;21;Campisábalos
+1626;19;Campllong
+1627;39;Campo Lameiro
+1628;12;Campo Lugar
+1629;31;Campo Real
+1630;11;Campo de Criptana
+1631;41;Campo de Peñaranda (El)
+1632;42;Campo de San Pedro
+1633;28;Campo de Villavidel
+1634;24;Campo
+1635;23;Campofrío
+1636;10;Campolara
+1637;28;Camponaraya
+1638;14;Campoo de Yuso
+1639;49;Camporredondo
+1640;48;Camporrobles
+1641;24;Camporrélls
+1642;18;Campos del Paraíso
+1643;34;Campos del Río
+1644;8;Campos
+1645;20;Campotéjar
+1646;19;Camprodon
+1647;26;Camprovín
+1648;47;Camuñas
+1649;19;Camós
+1650;24;Canal de Berdún
+1651;49;Canalejas de Peñafiel
+1652;18;Canalejas del Arroyo
+1653;26;Canales de la Sierra
+1654;6;Canales
+1655;48;Canals
+1656;37;Candamo
+1657;24;Candasnos
+1658;40;Candelaria
+1659;41;Candelario
+1660;6;Candeleda
+1661;44;Candilichera
+1662;28;Candín
+1663;29;Canejan
+1664;25;Canena
+1665;31;Canencia
+1666;19;Canet d'Adri
+1667;48;Canet d'En Berenguer
+1668;9;Canet de Mar
+1669;15;Canet lo Roig
+1670;24;Canfranc
+1671;37;Cangas de Onís
+1672;37;Cangas del Narcea
+1673;39;Cangas
+1674;10;Canicosa de la Sierra
+1675;20;Caniles
+1676;41;Canillas de Abajo
+1677;32;Canillas de Aceituno
+1678;32;Canillas de Albaida
+1679;49;Canillas de Esgueva
+1680;26;Canillas de Río Tuerto
+1681;5;Canjáyar
+1682;9;Canovelles
+1683;21;Canredondo
+1684;10;Cantabrana
+1685;41;Cantagallo
+1686;41;Cantalapiedra
+1687;42;Cantalejo
+1688;19;Cantallops
+1689;21;Cantalojas
+1690;41;Cantalpino
+1691;41;Cantaracillo
+1692;46;Cantavieja
+1693;43;Cantillana
+1694;42;Cantimpalos
+1695;6;Cantiveros
+1696;5;Cantoria
+1697;9;Canyelles
+1698;45;Capafonts
+1699;35;Caparroso
+1700;8;Capdepera
+1701;24;Capdesaso
+1702;1;Capela (A)
+1703;24;Capella
+1704;9;Capellades
+1705;20;Capileira
+1706;7;Capilla
+1707;38;Capillas
+1708;19;Capmany
+1709;9;Capolat
+1710;45;Capçanes
+1711;44;Carabantes
+1712;31;Carabaña
+1713;44;Caracena
+1714;11;Caracuel de Calatrava
+1715;20;Carataunas
+1716;34;Caravaca de la Cruz
+1717;37;Caravia
+1718;10;Carazo
+1719;51;Carbajales de Alba
+1720;12;Carbajo
+1721;41;Carbajosa de la Sagrada
+1722;36;Carballeda de Avia
+1723;36;Carballeda
+1724;30;Carballedo
+1725;36;Carballiño (O)
+1726;1;Carballo
+1727;51;Carbellino
+1728;18;Carboneras de Guadazaón
+1729;5;Carboneras
+1730;42;Carbonero el Mayor
+1731;25;Carboneros
+1732;12;Carcaboso
+1733;17;Carcabuey
+1734;48;Carcaixent
+1735;35;Carcastillo
+1736;10;Carcedo de Bureba
+1737;10;Carcedo de Burgos
+1738;4;Carcelén
+1739;9;Cardedeu
+1740;18;Cardenete
+1741;17;Cardeña
+1742;10;Cardeñadijo
+1743;10;Cardeñajimeno
+1744;38;Cardeñosa de Volpejera
+1745;6;Cardeñosa
+1746;10;Cardeñuela Riopico
+1747;47;Cardiel de los Montes
+1748;9;Cardona
+1749;21;Cardoso de la Sierra (El)
+1750;52;Carenas
+1751;52;Cariñena
+1752;1;Cariño
+1753;48;Carlet
+1754;17;Carlota (La)
+1755;9;Carme
+1756;47;Carmena
+1757;43;Carmona
+1758;7;Carmonita
+1759;1;Carnota
+1760;25;Carolina (La)
+1761;17;Carpio (El)
+1762;41;Carpio de Azaba
+1763;47;Carpio de Tajo (El)
+1764;49;Carpio
+1765;28;Carracedelo
+1766;1;Carral
+1767;47;Carranque
+1768;50;Carranza
+1769;41;Carrascal de Barregas
+1770;41;Carrascal del Obispo
+1771;42;Carrascal del Río
+1772;7;Carrascalejo (El)
+1773;12;Carrascalejo
+1774;44;Carrascosa de Abajo
+1775;18;Carrascosa de Haro
+1776;44;Carrascosa de la Sierra
+1777;18;Carrascosa
+1778;32;Carratraca
+1779;6;Carrera (La)
+1780;37;Carreño
+1781;10;Carrias
+1782;47;Carriches
+1783;28;Carrizo
+1784;11;Carrizosa
+1785;11;Carrión de Calatrava
+1786;38;Carrión de los Condes
+1787;43;Carrión de los Céspedes
+1788;28;Carrocera
+1789;48;Carrícola
+1790;34;Cartagena
+1791;32;Cartajima
+1792;23;Cartaya
+1793;36;Cartelle
+1794;14;Cartes
+1795;28;Carucedo
+1796;21;Casa de Uceda
+1797;32;Casabermeja
+1798;41;Casafranca
+1799;26;Casalarreina
+1800;21;Casar (El)
+1801;12;Casar de Cáceres
+1802;47;Casar de Escalona (El)
+1803;12;Casar de Palomero
+1804;32;Casarabonela
+1805;44;Casarejos
+1806;12;Casares de las Hurdes
+1807;32;Casares
+1808;43;Casariche
+1809;47;Casarrubios del Monte
+1810;31;Casarrubuelos
+1811;48;Casas Altas
+1812;48;Casas Bajas
+1813;18;Casas de Benítez
+1814;12;Casas de Don Antonio
+1815;12;Casas de Don Gómez
+1816;7;Casas de Don Pedro
+1817;18;Casas de Fernando Alonso
+1818;18;Casas de Garcimolina
+1819;18;Casas de Guijarro
+1820;18;Casas de Haro
+1821;4;Casas de Juan Núñez
+1822;4;Casas de Lázaro
+1823;12;Casas de Millán
+1824;12;Casas de Miravete
+1825;7;Casas de Reina
+1826;21;Casas de San Galindo
+1827;4;Casas de Ves
+1828;18;Casas de los Pinos
+1829;12;Casas del Castañar
+1830;41;Casas del Conde (Las)
+1831;12;Casas del Monte
+1832;6;Casas del Puerto de Villatoro
+1833;4;Casas-Ibáñez
+1834;47;Casasbuenas
+1835;51;Casaseca de Campeán
+1836;51;Casaseca de las Chanas
+1837;18;Casasimarro
+1838;49;Casasola de Arión
+1839;6;Casasola
+1840;12;Casatejada
+1841;6;Casavieja
+1842;24;Casbas de Huesca
+1843;10;Cascajares de Bureba
+1844;10;Cascajares de la Sierra
+1845;46;Cascante del Río
+1846;35;Cascante
+1847;45;Caseres
+1848;12;Casillas de Coria
+1849;41;Casillas de Flores
+1850;6;Casillas
+1851;48;Casinos
+1852;42;Casla
+1853;37;Caso
+1854;52;Caspe
+1855;21;Caspueñas
+1856;9;Casserres
+1857;19;Cassà de la Selva
+1858;2;Castalla
+1859;12;Castañar de Ibor
+1860;26;Castañares de Rioja
+1861;14;Castañeda
+1862;23;Castaño del Robledo
+1863;52;Castejón de Alarba
+1864;21;Castejón de Henares
+1865;24;Castejón de Monegros
+1866;24;Castejón de Sos
+1867;46;Castejón de Tornos
+1868;52;Castejón de Valdejasa
+1869;52;Castejón de las Armas
+1870;24;Castejón del Puente
+1871;18;Castejón
+1872;35;Castejón
+1873;46;Castel de Cabra
+1874;24;Castelflorite
+1875;8;Castell (Es)
+1876;15;Castell de Cabres
+1877;2;Castell de Castells
+1878;29;Castell de Mur
+1879;9;Castell de l'Areny
+1880;19;Castell-Platja d'Aro
+1881;10;Castellanos de Castro
+1882;41;Castellanos de Moriscos
+1883;41;Castellanos de Villiquera
+1884;6;Castellanos de Zapardiel
+1885;46;Castellar (El)
+1886;11;Castellar de Santiago
+1887;13;Castellar de la Frontera
+1888;21;Castellar de la Muela
+1889;29;Castellar de la Ribera
+1890;9;Castellar de n'Hug
+1891;9;Castellar del Riu
+1892;9;Castellar del Vallès
+1893;25;Castellar
+1894;9;Castellbell i el Vilar
+1895;9;Castellbisbal
+1896;9;Castellcir
+1897;29;Castelldans
+1898;9;Castelldefels
+1899;9;Castellet i la Gornal
+1900;9;Castellfollit de Riubregós
+1901;19;Castellfollit de la Roca
+1902;9;Castellfollit del Boix
+1903;15;Castellfort
+1904;9;Castellgalí
+1905;9;Castellnou de Bages
+1906;29;Castellnou de Seana
+1907;15;Castellnovo
+1908;9;Castellolí
+1909;48;Castellonet de la Conquesta
+1910;46;Castellote
+1911;29;Castellserà
+1912;9;Castellterçol
+1913;45;Castellvell del Camp
+1914;9;Castellví de Rosanes
+1915;9;Castellví de la Marca
+1916;19;Castelló d'Empúries
+1917;29;Castelló de Farfanya
+1918;48;Castelló de Rugat
+1919;15;Castelló de la Plana
+1920;48;Castelló de la Ribera
+1921;46;Castelnou
+1922;46;Castelserás
+1923;48;Castielfabib
+1924;24;Castiello de Jaca
+1925;24;Castigaleu
+1926;10;Castil de Peones
+1927;38;Castil de Vela
+1928;43;Castilblanco de los Arroyos
+1929;7;Castilblanco
+1930;10;Castildelgado
+1931;28;Castilfalé
+1932;21;Castilforte
+1933;44;Castilfrío de la Sierra
+1934;52;Castiliscar
+1935;24;Castillazuelo
+1936;43;Castilleja de Guzmán
+1937;43;Castilleja de la Cuesta
+1938;43;Castilleja del Campo
+1939;18;Castillejo de Iniesta
+1940;41;Castillejo de Martín Viejo
+1941;42;Castillejo de Mesleón
+1942;44;Castillejo de Robledo
+1943;18;Castillejo-Sierra
+1944;47;Castillo de Bayuela
+1945;18;Castillo de Garcimuñoz
+1946;25;Castillo de Locubín
+1947;15;Castillo de Villamalefa
+1948;43;Castillo de las Guardas (El)
+1949;18;Castillo-Albaráñez
+1950;24;Castillonroy
+1951;35;Castillonuevo
+1952;20;Castilléjar
+1953;21;Castilnuevo
+1954;44;Castilruiz
+1955;41;Castraz
+1956;49;Castrejón de Trabancos
+1957;38;Castrejón de la Peña
+1958;36;Castrelo de Miño
+1959;36;Castrelo do Val
+1960;20;Castril
+1961;10;Castrillo Matajudíos
+1962;28;Castrillo de Cabrera
+1963;38;Castrillo de Don Juan
+1964;49;Castrillo de Duero
+1965;38;Castrillo de Onielo
+1966;10;Castrillo de Riopisuerga
+1967;38;Castrillo de Villavega
+1968;51;Castrillo de la Guareña
+1969;10;Castrillo de la Reina
+1970;28;Castrillo de la Valduerna
+1971;10;Castrillo de la Vega
+1972;10;Castrillo del Val
+1973;49;Castrillo-Tejeriego
+1974;37;Castrillón
+1975;36;Castro Caldelas
+1976;5;Castro de Filabres
+1977;42;Castro de Fuentidueña
+1978;30;Castro de Rei
+1979;17;Castro del Río
+1980;14;Castro-Urdiales
+1981;49;Castrobol
+1982;28;Castrocalbón
+1983;28;Castrocontrigo
+1984;49;Castrodeza
+1985;51;Castrogonzalo
+1986;10;Castrojeriz
+1987;42;Castrojimeno
+1988;49;Castromembibre
+1989;38;Castromocho
+1990;49;Castromonte
+1991;49;Castronuevo de Esgueva
+1992;51;Castronuevo
+1993;49;Castronuño
+1994;28;Castropodame
+1995;37;Castropol
+1996;49;Castroponce
+1997;42;Castroserna de Abajo
+1998;42;Castroserracín
+1999;28;Castrotierra de Valmadrigal
+2000;51;Castroverde de Campos
+2001;49;Castroverde de Cerrato
+2002;30;Castroverde
+2003;26;Castroviejo
+2004;7;Castuera
+2005;48;Catadau
+2006;48;Catarroja
+2007;45;Catllar (El)
+2008;39;Catoira
+2009;2;Catral
+2010;15;Catí
+2011;48;Caudete de las Fuentes
+2012;4;Caudete
+2013;15;Caudiel
+2014;29;Cava
+2015;10;Cayuela
+2016;47;Cazalegas
+2017;25;Cazalilla
+2018;43;Cazalla de la Sierra
+2019;25;Cazorla
+2020;51;Cazurra
+2021;43;Cañada Rosal
+2022;46;Cañada Vellida
+2023;46;Cañada de Benatanduz
+2024;11;Cañada de Calatrava
+2025;46;Cañada de Verich (La)
+2026;18;Cañada del Hoyo
+2027;2;Cañada
+2028;18;Cañadajuncosa
+2029;44;Cañamaque
+2030;18;Cañamares
+2031;12;Cañamero
+2032;26;Cañas
+2033;18;Cañavate (El)
+2034;23;Cañaveral de León
+2035;12;Cañaveral
+2036;18;Cañaveras
+2037;18;Cañaveruelas
+2038;17;Cañete de las Torres
+2039;32;Cañete la Real
+2040;18;Cañete
+2041;39;Cañiza (A)
+2042;51;Cañizal
+2043;46;Cañizar del Olivar
+2044;21;Cañizar
+2045;18;Cañizares
+2046;51;Cañizo
+2047;28;Cea
+2048;28;Cebanico
+2049;47;Cebolla
+2050;10;Cebrecos
+2051;6;Cebreros
+2052;28;Cebrones del Río
+2053;12;Ceclavín
+2054;1;Cedeira
+2055;42;Cedillo de la Torre
+2056;47;Cedillo del Condado
+2057;12;Cedillo
+2058;46;Cedrillas
+2059;1;Cee
+2060;34;Cehegín
+2061;49;Ceinos de Campos
+2062;10;Celada del Camino
+2063;46;Celadas
+2064;36;Celanova
+2065;46;Cella
+2066;19;Cellera de Ter (La)
+2067;26;Cellorigo
+2068;19;Celrà
+2069;21;Cendejas de Enmedio
+2070;21;Cendejas de la Torre
+2071;20;Cenes de la Vega
+2072;26;Cenicero
+2073;31;Cenicientos
+2074;4;Cenizate
+2075;36;Cenlle
+2076;9;Centelles
+2077;44;Centenera de Andaluz
+2078;21;Centenera
+2079;6;Cepeda la Mora
+2080;41;Cepeda
+2081;44;Cerbón
+2082;1;Cerceda
+2083;31;Cercedilla
+2084;9;Cercs
+2085;9;Cerdanyola del Vallès
+2086;39;Cerdedo
+2087;1;Cerdido
+2088;48;Cerdà
+2089;41;Cereceda de la Sierra
+2090;51;Cerecinos de Campos
+2091;51;Cerecinos del Carrizal
+2092;41;Cerezal de Peñahorcada
+2093;42;Cerezo de Abajo
+2094;42;Cerezo de Arriba
+2095;10;Cerezo de Rio Tirón
+2096;12;Cerezo
+2097;51;Cernadilla
+2098;46;Cerollera (La)
+2099;41;Cerralbo
+2100;47;Cerralbos (Los)
+2101;10;Cerratón de Juarros
+2102;41;Cerro (El)
+2103;23;Cerro de Andévalo (El)
+2104;30;Cervantes
+2105;38;Cervatos de la Cueza
+2106;9;Cervelló
+2107;31;Cervera de Buitrago
+2108;38;Cervera de Pisuerga
+2109;52;Cervera de la Cañada
+2110;47;Cervera de los Montes
+2111;18;Cervera del Llano
+2112;15;Cervera del Maestrat
+2113;26;Cervera del Río Alhama
+2114;29;Cervera
+2115;52;Cerveruela
+2116;49;Cervillego de la Cruz
+2117;19;Cervià de Ter
+2118;29;Cervià de les Garrigues
+2119;30;Cervo
+2120;41;Cespedosa de Tormes
+2121;1;Cesuras
+2122;52;Cetina
+2123;16;Ceuta
+2124;34;Ceutí
+2125;38;Cevico Navero
+2126;38;Cevico de la Torre
+2127;41;Chagarcía Medianero
+2128;24;Chalamera
+2129;6;Chamartín
+2130;36;Chandrexa de Queixa
+2131;30;Chantada
+2132;31;Chapinería
+2133;20;Chauchina
+2134;42;Chañe
+2135;21;Checa
+2136;7;Cheles
+2137;48;Chella
+2138;48;Chelva
+2139;21;Chequilla
+2140;48;Chera
+2141;5;Chercos
+2142;48;Cheste
+2143;25;Chiclana de Segura
+2144;13;Chiclana de la Frontera
+2145;15;Chilches
+2146;18;Chillarón de Cuenca
+2147;21;Chillarón del Rey
+2148;25;Chilluévar
+2149;11;Chillón
+2150;21;Chiloeches
+2151;20;Chimeneas
+2152;24;Chimillas
+2153;4;Chinchilla de Monte-Aragón
+2154;31;Chinchón
+2155;13;Chipiona
+2156;52;Chiprana
+2157;5;Chirivel
+2158;48;Chiva
+2159;52;Chodes
+2160;28;Chozas de Abajo
+2161;47;Chozas de Canales
+2162;23;Chucena
+2163;47;Chueca
+2164;48;Chulilla
+2165;18;Chumillas
+2166;20;Churriana de la Vega
+2167;24;Chía
+2168;15;Chóvar
+2169;10;Ciadoncha
+2170;26;Cidamón
+2171;44;Cidones
+2172;31;Ciempozuelos
+2173;18;Cierva (La)
+2174;14;Cieza
+2175;34;Cieza
+2176;21;Cifuentes
+2177;49;Cigales
+2178;3;Cigoitia
+2179;44;Cigudosa
+2180;49;Ciguñuela
+2181;44;Cihuela
+2182;26;Cihuri
+2183;20;Cijuela
+2184;10;Cillaperlata
+2185;41;Cilleros de la Bastida
+2186;12;Cilleros
+2187;10;Cilleruelo de Abajo
+2188;10;Cilleruelo de Arriba
+2189;42;Cilleruelo de San Mamés
+2190;14;Cillorigo Castro
+2191;6;Cillán
+2192;28;Cimanes de la Vega
+2193;28;Cimanes del Tejar
+2194;52;Cimballa
+2195;52;Cinco Olivas
+2196;21;Cincovillas
+2197;15;Cinctorres
+2198;35;Cintruénigo
+2199;41;Cipérez
+2200;15;Cirat
+2201;35;Cirauqui
+2202;44;Ciria
+2203;35;Ciriza
+2204;21;Ciruelas
+2205;10;Ciruelos de Cervera
+2206;21;Ciruelos del Pinar
+2207;47;Ciruelos
+2208;26;Cirueña
+2209;44;Cirujales del Río
+2210;6;Cisla
+2211;38;Cisneros
+2212;19;Cistella
+2213;28;Cistierna
+2214;49;Cistérniga
+2215;11;Ciudad Real
+2216;41;Ciudad Rodrigo
+2217;8;Ciutadella de Menorca
+2218;29;Ciutadilla
+2219;35;Cizur
+2220;29;Clariana de Cardener
+2221;52;Clarés de Ribota
+2222;26;Clavijo
+2223;37;Coaña
+2224;47;Cobeja
+2225;21;Cobeta
+2226;31;Cobeña
+2227;47;Cobisa
+2228;38;Cobos de Cerrato
+2229;42;Cobos de Fuentidueña
+2230;51;Cobreros
+2231;41;Coca de Alba
+2232;42;Coca
+2233;2;Cocentaina
+2234;52;Codo
+2235;42;Codorniz
+2236;52;Codos
+2237;7;Codosera (La)
+2238;46;Codoñera (La)
+2239;48;Cofrentes
+2240;49;Cogeces de Iscar
+2241;49;Cogeces del Monte
+2242;21;Cogollor
+2243;20;Cogollos Vega
+2244;20;Cogollos de Guadix
+2245;10;Cogollos
+2246;21;Cogolludo
+2247;29;Cogul (El)
+2248;1;Coirós
+2249;19;Colera
+2250;36;Coles
+2251;6;Colilla (La)
+2252;14;Colindres
+2253;29;Coll de Nargó
+2254;42;Collado Hermoso
+2255;31;Collado Mediano
+2256;31;Collado Villalba
+2257;6;Collado de Contreras
+2258;6;Collado del Mirón
+2259;12;Collado
+2260;38;Collazos de Boedo
+2261;9;Collbató
+2262;45;Colldejou
+2263;9;Collsuspina
+2264;31;Colmenar Viejo
+2265;41;Colmenar de Montemayor
+2266;31;Colmenar de Oreja
+2267;31;Colmenar del Arroyo
+2268;32;Colmenar
+2269;31;Colmenarejo
+2270;20;Colomera
+2271;19;Colomers
+2272;37;Colunga
+2273;24;Colungo
+2274;29;Coma i la Pedra (La)
+2275;32;Comares
+2276;14;Comillas
+2277;42;Condado de Castilnovo
+2278;10;Condado de Treviño
+2279;21;Condemios de Abajo
+2280;21;Condemios de Arriba
+2281;45;Conesa
+2282;2;Confrides
+2283;38;Congosto de Valdavia
+2284;28;Congosto
+2285;21;Congostrina
+2286;13;Conil de la Frontera
+2287;12;Conquista de la Sierra
+2288;17;Conquista
+2289;8;Consell
+2290;43;Constantina
+2291;45;Constantí
+2292;6;Constanzana
+2293;47;Consuegra
+2294;52;Contamina
+2295;10;Contreras
+2296;51;Coomonte
+2297;21;Copernal
+2298;9;Copons
+2299;46;Corbalán
+2300;45;Corbera d'Ebre
+2301;9;Corbera de Llobregat
+2302;48;Corbera
+2303;28;Corbillos de los Oteros
+2304;29;Corbins
+2305;49;Corcos
+2306;1;Corcubión
+2307;7;Cordobilla de Lácara
+2308;38;Cordovilla la Real
+2309;41;Cordovilla
+2310;26;Cordovín
+2311;21;Corduente
+2312;35;Corella
+2313;26;Corera
+2314;51;Coreses
+2315;30;Corgo (O)
+2316;43;Coria del Río
+2317;12;Coria
+2318;43;Coripe
+2319;1;Coristanco
+2320;26;Cornago
+2321;9;Cornellà de Llobregat
+2322;19;Cornellà del Terri
+2323;45;Cornudella de Montsant
+2324;7;Coronada (La)
+2325;43;Coronil (El)
+2326;31;Corpa
+2327;26;Corporales
+2328;47;Corral de Almaguer
+2329;42;Corral de Ayllón
+2330;11;Corral de Calatrava
+2331;4;Corral-Rubio
+2332;43;Corrales (Los)
+2333;14;Corrales de Buelna (Los)
+2334;49;Corrales de Duero
+2335;51;Corrales
+2336;7;Corte de Peleas
+2337;23;Corteconcepción
+2338;36;Cortegada
+2339;23;Cortegana
+2340;23;Cortelazor
+2341;46;Cortes de Aragón
+2342;15;Cortes de Arenoso
+2343;20;Cortes de Baza
+2344;48;Cortes de Pallás
+2345;32;Cortes de la Frontera
+2346;20;Cortes y Graena
+2347;35;Cortes
+2348;11;Cortijos (Los)
+2349;28;Corullón
+2350;1;Coruña (A)
+2351;10;Coruña del Conde
+2352;37;Corvera de Asturias
+2353;14;Corvera de Toranzo
+2354;19;Corçà
+2355;46;Cosa
+2356;44;Coscurita
+2357;31;Coslada
+2358;30;Cospeito
+2359;8;Costitx
+2360;15;Costur
+2361;52;Cosuenda
+2362;51;Cotanes
+2363;48;Cotes
+2364;4;Cotillas
+2365;39;Cotobade
+2366;44;Covaleda
+2367;10;Covarrubias
+2368;39;Covelo (O)
+2369;15;Coves de Vinromà (les)
+2370;2;Cox
+2371;42;Cozuelos de Fuentidueña
+2372;32;Coín
+2373;39;Crecente
+2374;45;Creixell
+2375;19;Crespià
+2376;6;Crespos
+2377;46;Cretas
+2378;2;Crevillent
+2379;3;Cripán
+2380;7;Cristina
+2381;41;Cristóbal
+2382;46;Crivillén
+2383;19;Cruïlles Monells i Sant Sadurní de I'He
+2384;28;Crémenes
+2385;12;Cuacos de Yuste
+2386;28;Cuadros
+2387;36;Cualedro
+2388;3;Cuartango
+2389;52;Cuarte de Huerva
+2390;46;Cuba (La)
+2391;31;Cubas de la Sagra
+2392;52;Cubel
+2393;9;Cubelles
+2394;29;Cubells
+2395;44;Cubilla
+2396;38;Cubillas de Cerrato
+2397;28;Cubillas de Rueda
+2398;49;Cubillas de Santa Marta
+2399;28;Cubillas de los Oteros
+2400;21;Cubillo de Uceda (El)
+2401;10;Cubillo del Campo
+2402;42;Cubillo
+2403;28;Cubillos del Sil
+2404;51;Cubillos
+2405;46;Cubla
+2406;51;Cubo de Benavente
+2407;10;Cubo de Bureba
+2408;41;Cubo de Don Sancho (El)
+2409;51;Cubo de Tierra del Vino (El)
+2410;44;Cubo de la Solana
+2411;46;Cucalón
+2412;37;Cudillero
+2413;51;Cuelgamures
+2414;49;Cuenca de Campos
+2415;18;Cuenca
+2416;52;Cuerlas (Las)
+2417;47;Cuerva
+2418;46;Cuervo (El)
+2419;43;Cuervo de Sevilla (El)
+2420;44;Cueva de Agreda
+2421;10;Cueva de Roa (La)
+2422;18;Cueva del Hierro
+2423;32;Cuevas Bajas
+2424;46;Cuevas Labradas
+2425;46;Cuevas de Almudén
+2426;42;Cuevas de Provanco
+2427;10;Cuevas de San Clemente
+2428;32;Cuevas de San Marcos
+2429;5;Cuevas del Almanzora
+2430;32;Cuevas del Becerro
+2431;20;Cuevas del Campo
+2432;6;Cuevas del Valle
+2433;15;Culla
+2434;48;Cullera
+2435;1;Culleredo
+2436;12;Cumbre (La)
+2437;23;Cumbres Mayores
+2438;23;Cumbres de Enmedio
+2439;23;Cumbres de San Bartolomé
+2440;45;Cunit
+2441;39;Cuntis
+2442;49;Curiel de Duero
+2443;1;Curtis
+2444;26;Cuzcurrita de Río Tirón
+2445;42;Cuéllar
+2446;15;Càlig
+2447;9;Cànoves i Samalús
+2448;12;Cáceres
+2449;20;Cádiar
+2450;13;Cádiz
+2451;20;Cájar
+2452;35;Cárcar
+2453;48;Cárcer
+2454;25;Cárcheles
+2455;26;Cárdenas
+2456;28;Cármenes
+2457;32;Cártama
+2458;35;Cáseda
+2459;20;Cástaras
+2460;20;Cáñar
+2461;5;Cóbdar
+2462;32;Cómpeta
+2463;17;Córdoba
+2464;11;Cózar
+2465;20;Cúllar Vega
+2466;20;Cúllar
+2467;32;Cútar
+2468;31;Daganzo de Arriba
+2469;11;Daimiel
+2470;48;Daimús
+2471;5;Dalías
+2472;19;Darnius
+2473;26;Daroca de Rioja
+2474;52;Daroca
+2475;5;Darrical
+2476;20;Darro
+2477;19;Das
+2478;2;Daya Nueva
+2479;2;Daya Vieja
+2480;22;Deba
+2481;37;Degaña
+2482;38;Dehesa de Montejo
+2483;38;Dehesa de Romanos
+2484;20;Dehesas de Guadix
+2485;20;Deifontes
+2486;8;Deiá
+2487;12;Deleitosa
+2488;45;Deltebre
+2489;50;Derio
+2490;12;Descargamaría
+2491;35;Desojo
+2492;28;Destriana
+2493;44;Deza
+2494;35;Dicastillo
+2495;6;Diego del Carpio
+2496;20;Diezma
+2497;50;Dima
+2498;41;Dios le Guarde
+2499;1;Dodro
+2500;2;Dolores
+2501;48;Domeño
+2502;42;Domingo García
+2503;47;Domingo Pérez
+2504;7;Don Alvaro
+2505;7;Don Benito
+2506;35;Donamaria
+2507;35;Doneztebe/Santesteban
+2508;42;Donhierro
+2509;6;Donjimeno
+2510;22;Donostia-San Sebastián
+2511;6;Donvidas
+2512;48;Dos Aguas
+2513;43;Dos Hermanas
+2514;17;Dos Torres
+2515;47;Dosbarrios
+2516;9;Dosrius
+2517;39;Dozón
+2518;17;Doña Mencía
+2519;41;Doñinos de Ledesma
+2520;41;Doñinos de Salamanca
+2521;21;Driebes
+2522;45;Duesaigües
+2523;38;Dueñas
+2524;1;Dumbría
+2525;50;Durango
+2526;44;Duruelo de la Sierra
+2527;42;Duruelo
+2528;21;Durón
+2529;2;Dénia
+2530;44;Dévanos
+2531;20;Dílar
+2532;20;Dólar
+2533;20;Dúdar
+2534;20;Dúrcal
+2535;50;Ea
+2536;35;Echarri
+2537;43;Ecija
+2538;35;Egüés
+2539;22;Eibar
+2540;8;Eivissa
+2541;52;Ejea de los Caballeros
+2542;41;Ejeme
+2543;5;Ejido (El)
+2544;46;Ejulve
+2545;50;Elantxobe
+2546;3;Elburgo
+2547;4;Elche de la Sierra
+2548;3;Elciego
+2549;2;Elda
+2550;22;Elduain
+2551;22;Elgeta
+2552;22;Elgoibar
+2553;35;Elgorriaga
+2554;48;Eliana (l')
+2555;12;Eljas
+2556;50;Elorrio
+2557;35;Elorz
+2558;3;Elvillar
+2559;2;Elx
+2560;52;Embid de Ariza
+2561;21;Embid
+2562;48;Emperador
+2563;41;Encina (La)
+2564;41;Encina de San Silvestre
+2565;52;Encinacorba
+2566;17;Encinas Reales
+2567;41;Encinas de Abajo
+2568;41;Encinas de Arriba
+2569;49;Encinas de Esgueva
+2570;42;Encinas
+2571;41;Encinasola de los Comendadores
+2572;23;Encinasola
+2573;28;Encinedo
+2574;42;Encinillas
+2575;26;Enciso
+2576;10;Encío
+2577;41;Endrinal
+2578;48;Enguera
+2579;18;Enguídanos
+2580;5;Enix
+2581;14;Enmedio
+2582;48;Enova (l')
+2583;51;Entrala
+2584;14;Entrambasaguas
+2585;26;Entrena
+2586;36;Entrimo
+2587;7;Entrín Bajo
+2588;35;Enériz
+2589;52;Epila
+2590;50;Erandio
+2591;35;Eratsun
+2592;28;Ercina (La)
+2593;50;Ereño
+2594;35;Ergoiena
+2595;52;Erla
+2596;50;Ermua
+2597;22;Errezil
+2598;50;Errigoiti
+2599;35;Erro
+2600;47;Erustes
+2601;23;Escacena del Campo
+2602;19;Escala (L')
+2603;14;Escalante
+2604;42;Escalona del Prado
+2605;47;Escalona
+2606;47;Escalonilla
+2607;21;Escamilla
+2608;42;Escarabajosa de Cabezas
+2609;21;Escariche
+2610;52;Escatrón
+2611;25;Escañuela
+2612;28;Escobar de Campos
+2613;42;Escobar de Polendos
+2614;44;Escobosa de Almazán
+2615;21;Escopete
+2616;8;Escorca
+2617;31;Escorial (El)
+2618;46;Escorihuela
+2619;46;Escucha
+2620;41;Escurial de la Sierra
+2621;12;Escurial
+2622;20;Escúzar
+2623;36;Esgos
+2624;49;Esguevillas de Esgueva
+2625;22;Eskoriatza
+2626;35;Eslava
+2627;15;Eslida
+2628;41;Espadaña
+2629;51;Espadañedo
+2630;15;Espadilla
+2631;7;Esparragalejo
+2632;7;Esparragosa de Lares
+2633;7;Esparragosa de la Serena
+2634;9;Esparreguera
+2635;43;Espartinas
+2636;35;Esparza de Salazar
+2637;44;Espeja de San Marcelino
+2638;41;Espeja
+2639;17;Espejo
+2640;44;Espejón
+2641;25;Espelúy
+2642;13;Espera
+2643;17;Espiel
+2644;42;Espinar (El)
+2645;19;Espinelves
+2646;41;Espino de la Orbada
+2647;38;Espinosa de Cerrato
+2648;10;Espinosa de Cervera
+2649;21;Espinosa de Henares
+2650;38;Espinosa de Villagonzalo
+2651;6;Espinosa de los Caballeros
+2652;10;Espinosa de los Monteros
+2653;10;Espinosa del Camino
+2654;47;Espinoso del Rey
+2655;42;Espirdo
+2656;21;Esplegares
+2657;29;Espluga Calba (L')
+2658;45;Espluga de Francolí (L')
+2659;9;Esplugues de Llobregat
+2660;24;Esplús
+2661;19;Espolla
+2662;19;Esponellà
+2663;8;Esporles
+2664;29;Espot
+2665;35;Espronceda
+2666;9;Espunyola (L')
+2667;47;Esquivias
+2668;21;Establés
+2669;24;Estada
+2670;24;Estadilla
+2671;29;Estamariu
+2672;9;Estany (L')
+2673;29;Estaràs
+2674;35;Estella/Lizarra
+2675;8;Estellenchs
+2676;44;Estepa de San Juan
+2677;43;Estepa
+2678;32;Estepona
+2679;46;Estercuel
+2680;35;Esteribar
+2681;29;Esterri d'Aneu
+2682;29;Esterri de Cardós
+2683;48;Estivella
+2684;26;Estollo
+2685;24;Estopiñán del Castillo
+2686;39;Estrada (A)
+2687;47;Estrella (La)
+2688;31;Estremera
+2689;21;Estriégana
+2690;48;Estubeny
+2691;10;Estépar
+2692;35;Etayo
+2693;35;Etxalar
+2694;35;Etxarri-Aranatz
+2695;35;Etxauri
+2696;50;Etxebarri Anteiglesia de San
+2697;50;Etxebarria
+2698;35;Eulate
+2699;35;Ezcabarte
+2700;26;Ezcaray
+2701;35;Ezcároz
+2702;22;Ezkio-Itsaso
+2703;35;Ezkurra
+2704;35;Ezprogui
+2705;52;Fabara
+2706;28;Fabero
+2707;2;Facheca
+2708;24;Fago
+2709;35;Falces
+2710;45;Falset
+2711;2;Famorca
+2712;24;Fanlo
+2713;15;Fanzara
+2714;19;Far d'Empordà (El)
+2715;32;Faraján
+2716;51;Faramontanos de Tábara
+2717;51;Fariza
+2718;52;Farlete
+2719;29;Farrera
+2720;40;Fasnia
+2721;45;Fatarella (La)
+2722;48;Faura
+2723;48;Favara
+2724;52;Fayos (Los)
+2725;52;Fayón
+2726;45;Febró (La)
+2727;8;Felanitx
+2728;5;Felix
+2729;1;Fene
+2730;7;Feria
+2731;51;Fermoselle
+2732;11;Fernancaballero
+2733;17;Fernán Núñez
+2734;20;Ferreira
+2735;51;Ferreras de Abajo
+2736;51;Ferreras de Arriba
+2737;8;Ferreries
+2738;46;Ferreruela de Huerva
+2739;51;Ferreruela
+2740;1;Ferrol
+2741;9;Figaró-Montmany
+2742;45;Figuera (La)
+2743;19;Figueres
+2744;45;Figuerola del Camp
+2745;15;Figueroles
+2746;51;Figueruela de Arriba
+2747;52;Figueruelas
+2748;5;Fines
+2749;2;Finestrat
+2750;27;Firgas
+2751;24;Fiscal
+2752;1;Fisterra
+2753;35;Fitero
+2754;5;Fiñana
+2755;19;Flaçà
+2756;45;Flix
+2757;6;Flores de Avila
+2758;29;Floresta (La)
+2759;41;Florida de Liébana
+2760;9;Fogars de Montclús
+2761;9;Fogars de Tordera
+2762;48;Foios
+2763;19;Foixà
+2764;28;Folgoso de la Ribera
+2765;30;Folgoso do Courel
+2766;9;Folgueroles
+2767;49;Fombellida
+2768;52;Fombuena
+2769;49;Fompedraza
+2770;26;Foncea
+2771;29;Fondarella
+2772;5;Fondón
+2773;20;Fonelas
+2774;46;Fonfría
+2775;51;Fonfría
+2776;9;Fonollosa
+2777;30;Fonsagrada (A)
+2778;48;Font d'En Carròs (la)
+2779;48;Font de la Figuera (la)
+2780;9;Font-rubí
+2781;19;Fontanals de Cerdanya
+2782;21;Fontanar
+2783;11;Fontanarejo
+2784;48;Fontanars dels Alforins
+2785;19;Fontanilles
+2786;19;Fontcoberta
+2787;35;Fontellas
+2788;49;Fontihoyuelo
+2789;10;Fontioso
+2790;6;Fontiveros
+2791;24;Fonz
+2792;26;Fonzaleche
+2793;24;Foradada del Toscar
+2794;29;Foradada
+2795;19;Forallac
+2796;15;Forcall
+2797;39;Forcarei
+2798;41;Forfoleda
+2799;2;Formentera del Segura
+2800;8;Formentera
+2801;46;Formiche Alto
+2802;8;Fornalutx
+2803;19;Fornells de la Selva
+2804;39;Fornelos
+2805;48;Fortaleny
+2806;46;Fortanete
+2807;19;Fortià
+2808;34;Fortuna
+2809;50;Forua
+2810;45;Forès
+2811;46;Foz-Calanda
+2812;30;Foz
+2813;41;Frades de la Sierra
+2814;1;Frades
+2815;24;Fraga
+2816;52;Frago (El)
+2817;25;Frailes
+2818;37;Franco (El)
+2819;10;Frandovínez
+2820;9;Franqueses del Vallès (Les)
+2821;52;Frasno (El)
+2822;44;Frechilla de Almazán
+2823;38;Frechilla
+2824;7;Fregenal de la Sierra
+2825;41;Fregeneda (La)
+2826;45;Freginals
+2827;20;Freila
+2828;46;Fresneda (La)
+2829;18;Fresneda de Altarejos
+2830;42;Fresneda de Cuéllar
+2831;10;Fresneda de la Sierra Tirón
+2832;18;Fresneda de la Sierra
+2833;6;Fresnedilla
+2834;31;Fresnedillas de la Oliva
+2835;12;Fresnedoso de Ibor
+2836;41;Fresnedoso
+2837;10;Fresneña
+2838;10;Fresnillo de las Dueñas
+2839;6;Fresno (El)
+2840;41;Fresno Alhándiga
+2841;42;Fresno de Cantespino
+2842;44;Fresno de Caracena
+2843;10;Fresno de Rodilla
+2844;10;Fresno de Río Tirón
+2845;51;Fresno de Sayago
+2846;31;Fresno de Torote
+2847;42;Fresno de la Fuente
+2848;51;Fresno de la Polvorosa
+2849;51;Fresno de la Ribera
+2850;28;Fresno de la Vega
+2851;38;Fresno del Río
+2852;49;Fresno el Viejo
+2853;51;Friera de Valverde
+2854;32;Frigiliana
+2855;30;Friol
+2856;18;Frontera (La)
+2857;40;Frontera
+2858;42;Frumales
+2859;52;Fréscano
+2860;46;Frías de Albarracín
+2861;10;Frías
+2862;38;Frómista
+2863;50;Frúniz
+2864;21;Fuembellida
+2865;40;Fuencaliente de la Palma
+2866;11;Fuencaliente
+2867;21;Fuencemillán
+2868;52;Fuendejalón
+2869;52;Fuendetodos
+2870;46;Fuenferrada
+2871;32;Fuengirola
+2872;7;Fuenlabrada de los Montes
+2873;31;Fuenlabrada
+2874;11;Fuenllana
+2875;26;Fuenmayor
+2876;49;Fuensaldaña
+2877;47;Fuensalida
+2878;25;Fuensanta de Martos
+2879;4;Fuensanta
+2880;34;Fuente Alamo de Murcia
+2881;51;Fuente Encalada
+2882;17;Fuente Obejuna
+2883;17;Fuente Palmera
+2884;20;Fuente Vaqueros
+2885;7;Fuente de Cantos
+2886;18;Fuente de Pedro Naharro
+2887;32;Fuente de Piedra
+2888;41;Fuente de San Esteban (La)
+2889;42;Fuente de Santa Cruz
+2890;7;Fuente del Arco
+2891;7;Fuente del Maestre
+2892;11;Fuente el Fresno
+2893;42;Fuente el Olmo de Fuentidueña
+2894;42;Fuente el Olmo de Iscar
+2895;6;Fuente el Sauz
+2896;31;Fuente el Saz de Jarama
+2897;49;Fuente el Sol
+2898;17;Fuente la Lancha
+2899;15;Fuente la Reina
+2900;4;Fuente-Alamo
+2901;49;Fuente-Olmedo
+2902;17;Fuente-Tójar
+2903;4;Fuentealbilla
+2904;44;Fuentearmegil
+2905;10;Fuentebureba
+2906;44;Fuentecambrón
+2907;44;Fuentecantos
+2908;10;Fuentecén
+2909;41;Fuenteguinaldo
+2910;23;Fuenteheridos
+2911;21;Fuentelahiguera de Albatages
+2912;51;Fuentelapeña
+2913;10;Fuentelcésped
+2914;21;Fuentelencina
+2915;18;Fuentelespino de Haro
+2916;18;Fuentelespino de Moya
+2917;41;Fuenteliante
+2918;10;Fuentelisendo
+2919;44;Fuentelmonge
+2920;44;Fuentelsaz de Soria
+2921;21;Fuentelsaz
+2922;21;Fuentelviejo
+2923;10;Fuentemolinos
+2924;18;Fuentenava de Jábaga
+2925;10;Fuentenebro
+2926;21;Fuentenovilla
+2927;42;Fuentepelayo
+2928;44;Fuentepinilla
+2929;42;Fuentepiñel
+2930;42;Fuenterrebollo
+2931;41;Fuenterroble de Salvatierra
+2932;48;Fuenterrobles
+2933;46;Fuentes Calientes
+2934;46;Fuentes Claras
+2935;43;Fuentes de Andalucía
+2936;15;Fuentes de Ayódar
+2937;6;Fuentes de Año
+2938;41;Fuentes de Béjar
+2939;28;Fuentes de Carbajal
+2940;52;Fuentes de Ebro
+2941;52;Fuentes de Jiloca
+2942;7;Fuentes de León
+2943;44;Fuentes de Magaña
+2944;38;Fuentes de Nava
+2945;41;Fuentes de Oñoro
+2946;51;Fuentes de Ropel
+2947;46;Fuentes de Rubielos
+2948;38;Fuentes de Valdepero
+2949;18;Fuentes
+2950;42;Fuentesaúco de Fuentidueña
+2951;51;Fuentesaúco
+2952;51;Fuentesecas
+2953;42;Fuentesoto
+2954;46;Fuentespalda
+2955;10;Fuentespina
+2956;51;Fuentespreadas
+2957;44;Fuentestrún
+2958;31;Fuentidueña de Tajo
+2959;42;Fuentidueña
+2960;25;Fuerte del Rey
+2961;18;Fuertescusa
+2962;24;Fueva (La)
+2963;29;Fuliola (La)
+2964;29;Fulleda
+2965;35;Funes
+2966;35;Fustiñana
+2967;4;Férez
+2968;29;Fígols i Alinyà
+2969;9;Fígols
+2970;46;Fórnoles
+2971;18;Gabaldón
+2972;20;Gabias (Las)
+2973;22;Gabiria
+2974;2;Gaianes
+2975;15;Gaibiel
+2976;22;Gainza
+2977;9;Gaià
+2978;21;Gajanejos
+2979;41;Gajates
+2980;31;Galapagar
+2981;35;Galar
+2982;23;Galaroza
+2983;10;Galbarros
+2984;26;Galbárruli
+2985;50;Galdakao
+2986;50;Galdames
+2987;51;Galende
+2988;45;Galera (La)
+2989;20;Galera
+2990;26;Galilea
+2991;41;Galindo y Perahuy
+2992;41;Galinduste
+2993;41;Galisancho
+2994;12;Galisteo
+2995;5;Gallardos (Los)
+2996;10;Gallega (La)
+2997;6;Gallegos de Altamiros
+2998;41;Gallegos de Argañán
+2999;49;Gallegos de Hornija
+3000;6;Gallegos de Sobrinos
+3001;41;Gallegos de Solmirón
+3002;51;Gallegos del Pan
+3003;51;Gallegos del Río
+3004;42;Gallegos
+3005;9;Gallifa
+3006;26;Gallinero de Cameros
+3007;35;Gallipienzo
+3008;52;Gallocanta
+3009;52;Gallur
+3010;35;Gallués
+3011;21;Galve de Sorbe
+3012;46;Galve
+3013;21;Galápagos
+3014;50;Gamiz-Fika
+3015;51;Gamones
+3016;45;Gandesa
+3017;48;Gandia
+3018;18;Garaballa
+3019;40;Garachico
+3020;40;Garafía
+3021;35;Garaioa
+3022;50;Garay
+3023;7;Garbayuela
+3024;45;Garcia
+3025;12;Garciaz
+3026;41;Garcibuey
+3027;41;Garcihernández
+3028;42;Garcillán
+3029;47;Garciotum
+3030;41;Garcirrey
+3031;35;Garde
+3032;46;Gargallo
+3033;12;Garganta (La)
+3034;31;Garganta de los Montes
+3035;6;Garganta del Villar
+3036;12;Garganta la Olla
+3037;31;Gargantilla del Lozoya
+3038;12;Gargantilla
+3039;12;Gargüera
+3040;45;Garidells (Els)
+3041;7;Garlitos
+3042;28;Garrafe de Torío
+3043;35;Garralda
+3044;44;Garray
+3045;9;Garriga (La)
+3046;19;Garrigoles
+3047;19;Garriguella
+3048;19;Garrigàs
+3049;43;Garrobo (El)
+3050;7;Garrovilla (La)
+3051;12;Garrovillas
+3052;5;Garrucha
+3053;12;Garvín
+3054;35;Garínoain
+3055;31;Gascones
+3056;21;Gascueña de Bornova
+3057;18;Gascueña
+3058;13;Gastor (El)
+3059;2;Gata 
+3060;12;Gata
+3061;50;Gatika
+3062;49;Gatón de Campos
+3063;32;Gaucín
+3064;50;Gauteguiz de Arteaga
+3065;48;Gavarda
+3066;29;Gavet de la Conca
+3067;6;Gavilanes
+3068;9;Gavà
+3069;22;Gaztelu
+3070;46;Gea de Albarracín
+3071;41;Gejuelo del Barro
+3072;15;Geldo
+3073;9;Gelida
+3074;52;Gelsa
+3075;43;Gelves
+3076;51;Gema
+3077;6;Gemuño
+3078;32;Genalguacil
+3079;35;Genevilla
+3080;48;Genovés
+3081;19;Ger
+3082;43;Gerena
+3083;49;Geria
+3084;47;Gerindote
+3085;50;Gernika-Lumo
+3086;48;Gestalgar
+3087;31;Getafe
+3088;22;Getaria
+3089;50;Getxo
+3090;23;Gibraleón
+3091;37;Gijón
+3092;6;Gil García
+3093;6;Gilbuena
+3094;43;Gilena
+3095;48;Gilet
+3096;29;Gimenells i el Pla de la Font
+3097;6;Gimialcón
+3098;26;Gimileo
+3099;46;Ginebrosa (La)
+3100;43;Gines
+3101;45;Ginestar
+3102;4;Gineta (La)
+3103;19;Girona
+3104;9;Gironella
+3105;9;Gisclareny
+3106;24;Gistaín
+3107;20;Gobernador
+3108;45;Godall
+3109;48;Godella
+3110;48;Godelleta
+3111;52;Godojos
+3112;35;Goizueta
+3113;44;Golmayo
+3114;29;Golmés
+3115;4;Golosalvo
+3116;41;Golpejas
+3117;19;Gombrèn
+3118;41;Gomecello
+3119;36;Gomesende
+3120;42;Gomezserracín
+3121;39;Gondomar
+3122;20;Gor
+3123;20;Gorafe
+3124;28;Gordaliza del Pino
+3125;50;Gordexola
+3126;12;Gordo (El)
+3127;28;Gordoncillo
+3128;2;Gorga
+3129;50;Gorliz
+3130;44;Gormaz
+3131;6;Gotarrendura
+3132;52;Gotor
+3133;37;Gozón
+3134;35;Goñi
+3135;28;Gradefes
+3136;24;Grado (El)
+3137;37;Grado
+3138;18;Graja de Campalbo
+3139;18;Graja de Iniesta
+3140;28;Grajal de Campos
+3141;42;Grajera
+3142;9;Granada (La)
+3143;23;Granada de Río Tinto (La)
+3144;20;Granada
+3145;29;Granadella (La)
+3146;40;Granadilla de Abona
+3147;23;Granado (El)
+3148;37;Grandas de Salime
+3149;6;Grandes y San Martín
+3150;9;Granera
+3151;12;Granja (La)
+3152;29;Granja d'Escarp (La)
+3153;51;Granja de Moreruela
+3154;2;Granja de Rocamora
+3155;7;Granja de Torrehermosa
+3156;48;Granja de la Costera (la)
+3157;17;Granjuela (La)
+3158;9;Granollers
+3159;51;Granucillo
+3160;29;Granyanella
+3161;29;Granyena de Segarra
+3162;29;Granyena de les Garrigues
+3163;11;Granátula de Calatrava
+3164;45;Gratallops
+3165;24;Graus
+3166;13;Grazalema
+3167;24;Grañén
+3168;26;Grañón
+3169;46;Griegos
+3170;10;Grijalba
+3171;38;Grijota
+3172;10;Grisaleña
+3173;52;Grisel
+3174;52;Grisén
+3175;31;Griñón
+3176;39;Grove (O)
+3177;26;Grávalos
+3178;20;Guadahortuna
+3179;21;Guadalajara
+3180;46;Guadalaviar
+3181;43;Guadalcanal
+3182;17;Guadalcázar
+3183;2;Guadalest
+3184;31;Guadalix de la Sierra
+3185;11;Guadalmez
+3186;12;Guadalupe
+3187;47;Guadamur
+3188;31;Guadarrama
+3189;48;Guadasequies
+3190;48;Guadassuar
+3191;20;Guadix
+3192;41;Guadramiro
+3193;20;Guajares (Los)
+3194;9;Gualba
+3195;20;Gualchos
+3196;19;Gualta
+3197;40;Guancha (La)
+3198;39;Guarda (A)
+3199;2;Guardamar del Segura
+3200;48;Guardamar
+3201;47;Guardia (La)
+3202;25;Guardia de Jaén (La)
+3203;9;Guardiola de Berguedà
+3204;38;Guardo
+3205;7;Guareña
+3206;32;Guaro
+3207;51;Guarrate
+3208;25;Guarromán
+3209;38;Guaza de Campos
+3210;36;Gudiña (A)
+3211;35;Guesálaz
+3212;45;Guiamets (Els)
+3213;17;Guijo (El)
+3214;41;Guijo de Avila
+3215;12;Guijo de Coria
+3216;12;Guijo de Galisteo
+3217;12;Guijo de Granadilla
+3218;12;Guijo de Santa Bárbara
+3219;41;Guijuelo
+3220;43;Guillena
+3221;19;Guils de Cerdanya
+3222;29;Guimerà
+3223;29;Guingueta d'Aneu (La)
+3224;35;Guirguillano
+3225;6;Guisando
+3226;29;Guissona
+3227;30;Guitiriz
+3228;29;Guixers
+3229;50;Guizaburuaga
+3230;10;Gumiel de Hizán
+3231;10;Gumiel de Mercado
+3232;30;Guntín
+3233;9;Gurb
+3234;14;Guriezo
+3235;24;Gurrea de Gállego
+3236;28;Gusendos de los Oteros
+3237;6;Gutierre-Muñoz
+3238;40;Guía de Isora
+3239;5;Gádor
+3240;27;Gáldar
+3241;47;Gálvez
+3242;15;Gátova
+3243;25;Génave
+3244;5;Gérgal
+3245;20;Gójar
+3246;44;Gómara
+3247;29;Gósol
+3248;46;Gúdar
+3249;35;Güesa
+3250;20;Güevéjar
+3251;50;Güeñes
+3252;20;Güéjar Sierra
+3253;40;Güímar
+3254;7;Haba (La)
+3255;10;Hacinas
+3256;26;Haro
+3257;27;Haría
+3258;10;Haza
+3259;14;Hazas de Cesto
+3260;7;Helechosa de los Montes
+3261;4;Hellín
+3262;18;Henarejos
+3263;21;Henche
+3264;21;Heras de Ayuso
+3265;15;Herbés
+3266;26;Herce
+3267;11;Herencia
+3268;47;Herencias (Las)
+3269;41;Herguijuela de Ciudad Rodrigo
+3270;41;Herguijuela de la Sierra
+3271;41;Herguijuela del Campo
+3272;12;Herguijuela
+3273;14;Hermandad de Campoo de Suso
+3274;40;Hermigua
+3275;51;Hermisende
+3276;22;Hernani
+3277;6;Hernansancho
+3278;22;Hernialde
+3279;12;Hernán-Pérez
+3280;6;Herradón de Pinares
+3281;26;Herramélluri
+3282;4;Herrera (La)
+3283;12;Herrera de Alcántara
+3284;38;Herrera de Pisuerga
+3285;44;Herrera de Soria
+3286;38;Herrera de Valdecañas
+3287;52;Herrera de los Navarros
+3288;7;Herrera del Duque
+3289;43;Herrera
+3290;6;Herreros de Suso
+3291;47;Herreruela de Oropesa
+3292;12;Herreruela
+3293;21;Herrería
+3294;14;Herrerías
+3295;18;Herrumblar (El)
+3296;49;Herrín de Campos
+3297;12;Hervás
+3298;26;Hervías
+3299;21;Hiendelaencina
+3300;25;Higuera de Arjona
+3301;25;Higuera de Calatrava
+3302;7;Higuera de Llerena
+3303;7;Higuera de Vargas
+3304;7;Higuera de la Serena
+3305;23;Higuera de la Sierra
+3306;6;Higuera de las Dueñas
+3307;7;Higuera la Real
+3308;12;Higuera
+3309;15;Higueras
+3310;4;Higueruela
+3311;48;Higueruelas
+3312;6;Hija de Dios (La)
+3313;21;Hijes
+3314;51;Hiniesta (La)
+3315;12;Hinojal
+3316;23;Hinojales
+3317;25;Hinojares
+3318;23;Hinojos
+3319;18;Hinojosa (La)
+3320;41;Hinojosa de Duero
+3321;46;Hinojosa de Jarque
+3322;47;Hinojosa de San Vicente
+3323;44;Hinojosa del Campo
+3324;17;Hinojosa del Duque
+3325;7;Hinojosa del Valle
+3326;11;Hinojosas de Calatrava
+3327;18;Hinojosos (Los)
+3328;35;Hiriberri/Villanueva de Aezkoa
+3329;31;Hiruela (La)
+3330;21;Hita
+3331;18;Hito (El)
+3332;12;Holguera
+3333;21;Hombrados
+3334;22;Hondarribia
+3335;2;Hondón de las Nieves
+3336;2;Hondón de los Frailes
+3337;42;Honrubia de la Cuesta
+3338;18;Honrubia
+3339;42;Hontalbilla
+3340;47;Hontanar
+3341;42;Hontanares de Eresma
+3342;10;Hontanas
+3343;18;Hontanaya
+3344;10;Hontangas
+3345;18;Hontecillas
+3346;21;Hontoba
+3347;38;Hontoria de Cerrato
+3348;10;Hontoria de Valdearados
+3349;10;Hontoria de la Cantera
+3350;10;Hontoria del Pinar
+3351;6;Horcajada (La)
+3352;41;Horcajo Medianero
+3353;41;Horcajo de Montemayor
+3354;18;Horcajo de Santiago
+3355;31;Horcajo de la Sierra
+3356;6;Horcajo de las Torres
+3357;11;Horcajo de los Montes
+3358;31;Horcajuelo de la Sierra
+3359;21;Horche
+3360;10;Hormazas (Las)
+3361;47;Hormigos
+3362;26;Hormilla
+3363;26;Hormilleja
+3364;7;Hornachos
+3365;17;Hornachuelos
+3366;6;Hornillo (El)
+3367;26;Hornillos de Cameros
+3368;38;Hornillos de Cerrato
+3369;49;Hornillos de Eresma
+3370;10;Hornillos del Camino
+3371;26;Hornos de Moncalvillo
+3372;25;Hornos
+3373;10;Horra (La)
+3374;45;Horta de Sant Joan
+3375;21;Hortezuela de Océn
+3376;10;Hortigüela
+3377;28;Hospital de Orbigo
+3378;9;Hospitalet de Llobregat (L')
+3379;9;Hostalets de Pierola (Els)
+3380;19;Hostalric
+3381;41;Hoya (La)
+3382;4;Hoya-Gonzalo
+3383;10;Hoyales de Roa
+3384;31;Hoyo de Manzanares
+3385;6;Hoyo de Pinares (El)
+3386;6;Hoyocasero
+3387;6;Hoyorredondo
+3388;6;Hoyos de Miguel Muñoz
+3389;6;Hoyos del Collado
+3390;6;Hoyos del Espino
+3391;12;Hoyos
+3392;24;Hoz de Jaca
+3393;46;Hoz de la Vieja (La)
+3394;24;Hoz y Costean
+3395;35;Huarte
+3396;47;Huecas
+3397;25;Huelma
+3398;23;Huelva
+3399;18;Huelves
+3400;21;Huerce (La)
+3401;10;Huerta de Arriba
+3402;47;Huerta de Valdecarábanos
+3403;18;Huerta de la Obispalía
+3404;18;Huerta del Marquesado
+3405;10;Huerta del Rey
+3406;41;Huerta
+3407;21;Huertahernando
+3408;24;Huerto
+3409;42;Huertos (Los)
+3410;46;Huesa del Común
+3411;25;Huesa
+3412;24;Huesca
+3413;18;Huete
+3414;21;Hueva
+3415;10;Humada
+3416;31;Humanes de Madrid
+3417;21;Humanes
+3418;32;Humilladero
+3419;10;Hurones
+3420;6;Hurtumpascual
+3421;38;Husillos
+3422;5;Huécija
+3423;12;Huélaga
+3424;20;Huélago
+3425;18;Huélamo
+3426;20;Huéneja
+3427;5;Huércal de Almería
+3428;5;Huércal-Overa
+3429;26;Huércanos
+3430;18;Huérguina
+3431;21;Huérmeces del Cerro
+3432;10;Huérmeces
+3433;20;Huéscar
+3434;20;Huétor Santillán
+3435;20;Huétor Tájar
+3436;20;Huétor Vega
+3437;43;Huévar
+3438;38;Hérmedes de Cerrato
+3439;46;Híjar
+3440;12;Ibahernando
+3441;35;Ibargoiti
+3442;22;Ibarra
+3443;50;Ibarrangelu
+3444;52;Ibdes
+3445;10;Ibeas de Juarros
+3446;2;Ibi
+3447;37;Ibias
+3448;24;Ibieca
+3449;10;Ibrillos
+3450;25;Ibros
+3451;40;Icod de los Vinos
+3452;22;Idiazabal
+3453;35;Igantzi
+3454;26;Igea
+3455;10;Iglesiarrubia
+3456;10;Iglesias
+3457;47;Iglesuela (La)
+3458;46;Iglesuela del Cid (La)
+3459;50;Igorre
+3460;24;Igriés
+3461;9;Igualada
+3462;32;Igualeja
+3463;35;Igúzquiza
+3464;28;Igüeña
+3465;22;Ikaztegieta
+3466;24;Ilche
+3467;21;Illana
+3468;37;Illano
+3469;5;Illar
+3470;37;Illas
+3471;47;Illescas
+3472;20;Illora
+3473;52;Illueca
+3474;47;Illán de Vacas
+3475;35;Imotz
+3476;8;Inca
+3477;30;Incio (O)
+3478;27;Ingenio
+3479;18;Iniesta
+3480;21;Iniéstola
+3481;5;Instinción
+3482;21;Inviernas (Las)
+3483;35;Irañeta
+3484;36;Irixo (O)
+3485;1;Irixoa
+3486;25;Iruela (La)
+3487;41;Iruelos
+3488;21;Irueste
+3489;22;Irun
+3490;22;Irura
+3491;3;Iruraiz-Gauna
+3492;35;Irurtzun
+3493;3;Iruña de Oca
+3494;35;Isaba
+3495;10;Isar
+3496;49;Iscar
+3497;23;Isla Cristina
+3498;29;Isona i Conca Dellà
+3499;50;Ispaster
+3500;32;Istán
+3501;52;Isuerre
+3502;24;Isábena
+3503;19;Isòvol
+3504;38;Itero de la Vega
+3505;10;Itero del Castillo
+3506;20;Itrabo
+3507;22;Itsasondo
+3508;41;Ituero de Azaba
+3509;42;Ituero y Lama
+3510;35;Ituren
+3511;35;Iturmendi
+3512;50;Iurreta
+3513;29;Ivars d'Urgell
+3514;29;Ivars de Noguera
+3515;29;Ivorra
+3516;35;Iza
+3517;35;Izagaondoa
+3518;28;Izagre
+3519;35;Izalzu
+3520;20;Iznalloz
+3521;32;Iznate
+3522;25;Iznatoraf
+3523;17;Iznájar
+3524;50;Izurza
+3525;46;Jabaloyas
+3526;25;Jabalquinto
+3527;23;Jabugo
+3528;24;Jaca
+3529;2;Jacarilla
+3530;21;Jadraque
+3531;19;Jafre
+3532;48;Jalance
+3533;26;Jalón de Cameros
+3534;51;Jambrina
+3535;25;Jamilena
+3536;15;Jana (la)
+3537;52;Jaraba
+3538;48;Jarafuel
+3539;12;Jaraicejo
+3540;10;Jaramillo Quemado
+3541;10;Jaramillo de la Fuente
+3542;12;Jarandilla de la Vera
+3543;12;Jaraíz de la Vera
+3544;12;Jarilla
+3545;46;Jarque de la Val
+3546;52;Jarque
+3547;24;Jasa
+3548;46;Jatiel
+3549;52;Jaulín
+3550;35;Jaurrieta
+3551;35;Javier
+3552;20;Jayena
+3553;25;Jaén
+3554;13;Jerez de la Frontera
+3555;7;Jerez de los Caballeros
+3556;20;Jerez del Marquesado
+3557;12;Jerte
+3558;20;Jete
+3559;13;Jimena de la Frontera
+3560;25;Jimena
+3561;32;Jimera de Líbar
+3562;21;Jirueque
+3563;28;Joarilla de las Matas
+3564;19;Jonquera (La)
+3565;9;Jorba
+3566;46;Jorcas
+3567;4;Jorquera
+3568;29;Josa i Tuixén
+3569;46;Josa
+3570;52;Joyosa (La)
+3571;42;Juarros de Riomoros
+3572;42;Juarros de Voltoya
+3573;32;Jubrique
+3574;19;Juià
+3575;34;Jumilla
+3576;20;Jun
+3577;6;Junciana
+3578;29;Juncosa
+3579;29;Juneda
+3580;10;Junta de Traslaloma
+3581;10;Junta de Villalba de Losa
+3582;10;Jurisdicción de Lara
+3583;10;Jurisdicción de San Zadornil
+3584;35;Juslapeña
+3585;51;Justel
+3586;20;Juviles
+3587;41;Juzbado
+3588;15;Jérica
+3589;25;Jódar
+3590;32;Júzcar
+3591;50;Kortezubi
+3592;42;Labajos
+3593;3;Labastida
+3594;11;Labores (Las)
+3595;24;Labuerda
+3596;12;Ladrillar
+3597;47;Lagartera
+3598;38;Lagartos
+3599;52;Lagata
+3600;3;Lagrán
+3601;3;Laguardia
+3602;46;Lagueruela
+3603;40;Laguna (La)
+3604;28;Laguna Dalga
+3605;26;Laguna de Cameros
+3606;42;Laguna de Contreras
+3607;49;Laguna de Duero
+3608;28;Laguna de Negrillos
+3609;18;Laguna del Marquesado
+3610;18;Lagunaseca
+3611;26;Lagunilla del Jubera
+3612;41;Lagunilla
+3613;35;Lakuntza
+3614;24;Laluenga
+3615;24;Lalueza
+3616;39;Lalín
+3617;39;Lama (A)
+3618;14;Lamasón
+3619;35;Lana
+3620;24;Lanaja
+3621;3;Lanciego
+3622;18;Landete
+3623;50;Lanestosa
+3624;44;Langa de Duero
+3625;52;Langa del Castillo
+3626;6;Langa
+3627;49;Langayo
+3628;37;Langreo
+3629;42;Languilla
+3630;20;Lanjarón
+3631;38;Lantadilla
+3632;3;Lantarón
+3633;20;Lanteira
+3634;43;Lantejuela (La)
+3635;35;Lantz
+3636;6;Lanzahíta
+3637;46;Lanzuela
+3638;7;Lapa (La)
+3639;24;Laperdiguera
+3640;35;Lapoblación
+3641;3;Lapuebla de Labarca
+3642;1;Laracha
+3643;26;Lardero
+3644;14;Laredo
+3645;36;Larouco
+3646;5;Laroya
+3647;50;Larrabetzu
+3648;35;Larraga
+3649;35;Larraona
+3650;22;Larraul
+3651;35;Larraun
+3652;41;Larrodrigo
+3653;25;Larva
+3654;22;Lasarte-Oria
+3655;24;Lascellas-Ponzano
+3656;24;Lascuarre
+3657;24;Laspaúles
+3658;24;Laspuña
+3659;42;Lastras de Cuéllar
+3660;42;Lastras del Pozo
+3661;42;Lastrilla (La)
+3662;5;Laujar de Andarax
+3663;50;Laukiz
+3664;37;Laviana
+3665;1;Laxe
+3666;52;Layana
+3667;47;Layos
+3668;36;Laza
+3669;35;Lazagurría
+3670;22;Lazkao
+3671;22;Leaburu-Gaztelu
+3672;35;Leache
+3673;43;Lebrija
+3674;52;Lechón
+3675;52;Leciñena
+3676;20;Lecrín
+3677;21;Ledanca
+3678;18;Ledaña
+3679;26;Ledesma de la Cogolla
+3680;41;Ledesma
+3681;38;Ledigos
+3682;41;Ledrada
+3683;18;Leganiel
+3684;31;Leganés
+3685;35;Legarda
+3686;35;Legaria
+3687;22;Legazpi
+3688;22;Legorreta
+3689;3;Legutiano
+3690;22;Leintz-Gatzaga
+3691;50;Leioa
+3692;36;Leiro
+3693;35;Leitza
+3694;26;Leiva
+3695;50;Lekeitio
+3696;50;Lemoa
+3697;50;Lemoiz
+3698;37;Lena
+3699;20;Lentegí
+3700;35;Leoz
+3701;23;Lepe
+3702;35;Lerga
+3703;10;Lerma
+3704;35;Lerín
+3705;29;Les
+3706;35;Lesaka
+3707;4;Letur
+3708;52;Letux
+3709;26;Leza de Río Leza
+3710;3;Leza
+3711;50;Lezama
+3712;22;Lezo
+3713;4;Lezuza
+3714;35;Lezáun
+3715;28;León
+3716;34;Librilla
+3717;46;Libros
+3718;44;Liceras
+3719;46;Lidón
+3720;14;Liendo
+3721;47;Lillo
+3722;14;Limpias
+3723;46;Linares de Mora
+3724;41;Linares de Riofrío
+3725;23;Linares de la Sierra
+3726;25;Linares
+3727;29;Linyola
+3728;52;Litago
+3729;52;Lituénigo
+3730;22;Lizartza
+3731;35;Lizoáin
+3732;35;Liédena
+3733;14;Liérganes
+3734;4;Liétor
+3735;9;Llacuna (La)
+3736;29;Lladorre
+3737;29;Lladurs
+3738;19;Lladó
+3739;9;Llagosta (La)
+3740;19;Llagostera
+3741;28;Llamas de la Ribera
+3742;19;Llambilles
+3743;19;Llanars
+3744;48;Llanera de Ranes
+3745;37;Llanera
+3746;37;Llanes
+3747;10;Llano de Bureba
+3748;49;Llano de Olmedo
+3749;40;Llanos de Aridane (Los)
+3750;6;Llanos de Tormes (Los)
+3751;19;Llançà
+3752;29;Llardecans
+3753;48;Llaurí
+3754;29;Llavorsí
+3755;46;Lledó
+3756;29;Lleida
+3757;7;Llera
+3758;7;Llerena
+3759;19;Llers
+3760;29;Lles de Cerdanya
+3761;29;Llimiana
+3762;9;Llinars del Vallès
+3763;9;Lliçà d'Amunt
+3764;9;Lliçà de Vall
+3765;45;Lloar (El)
+3766;29;Llobera
+3767;48;Llocnou d'en Fenollet
+3768;48;Llocnou de Sant Jeroni
+3769;48;Llocnou de la Corona
+3770;3;Llodio
+3771;48;Llombai
+3772;45;Llorac
+3773;45;Llorenç del Penedès
+3774;19;Lloret de Mar
+3775;8;Lloret de Vista Alegre
+3776;15;Llosa (la)
+3777;48;Llosa de Ranes
+3778;8;Lloseta
+3779;19;Llosses (Les)
+3780;8;Llubí
+3781;15;Llucena 
+3782;8;Llucmajor
+3783;48;Llutxent
+3784;9;Lluçà
+3785;2;Llíber
+3786;48;Llíria
+3787;19;Llívia
+3788;24;Loarre
+3789;36;Lobeira
+3790;52;Lobera de Onsella
+3791;36;Lobios
+3792;20;Lobras
+3793;7;Lobón
+3794;35;Lodosa
+3795;31;Loeches
+3796;12;Logrosán
+3797;26;Logroño
+3798;50;Loiu
+3799;20;Loja
+3800;38;Loma de Ucieza
+3801;38;Lomas
+3802;47;Lominchar
+3803;49;Lomoviejo
+3804;52;Longares
+3805;52;Longás
+3806;25;Lopera
+3807;24;Loporzano
+3808;43;Lora de Estepa
+3809;43;Lora del Río
+3810;21;Loranca de Tajuña
+3811;34;Lorca
+3812;48;Loriguilla
+3813;34;Lorquí
+3814;42;Losa (La)
+3815;48;Losa del Obispo
+3816;51;Losacino
+3817;51;Losacio
+3818;12;Losar de la Vera
+3819;6;Losar del Barco (El)
+3820;24;Loscorrales
+3821;46;Loscos
+3822;44;Losilla (La)
+3823;30;Lourenzá
+3824;1;Lousame
+3825;31;Lozoya
+3826;31;Lozoyuela-Navas-Sieteiglesias
+3827;51;Lubián
+3828;5;Lubrín
+3829;5;Lucainena de las Torres
+3830;52;Lucena de Jalón
+3831;23;Lucena del Puerto
+3832;17;Lucena
+3833;52;Luceni
+3834;11;Luciana
+3835;28;Lucillo
+3836;47;Lucillos
+3837;15;Ludiente
+3838;51;Luelmo
+3839;14;Luena
+3840;52;Luesia
+3841;52;Luesma
+3842;30;Lugo
+3843;20;Lugros
+3844;43;Luisiana (La)
+3845;35;Lumbier
+3846;41;Lumbrales
+3847;26;Lumbreras
+3848;52;Lumpiaque
+3849;52;Luna
+3850;21;Lupiana
+3851;24;Lupiñén-Ortilla
+3852;25;Lupión
+3853;17;Luque
+3854;35;Luquin
+3855;28;Luyego
+3856;21;Luzaga
+3857;35;Luzaide/Valcarlos
+3858;21;Luzón
+3859;20;Láchar
+3860;30;Láncara
+3861;52;Lécera
+3862;5;Líjar
+3863;13;Línea de la Concepción (La)
+3864;35;Lónguida
+3865;5;Lúcar
+3866;20;Lújar
+3867;5;Macael
+3868;48;Macastre
+3869;36;Maceda
+3870;41;Machacón
+3871;32;Macharaviaya
+3872;41;Macotera
+3873;31;Madarcos
+3874;51;Maderal (El)
+3875;42;Maderuelo
+3876;19;Madremanya
+3877;31;Madrid
+3878;51;Madridanos
+3879;47;Madridejos
+3880;12;Madrigal de la Vera
+3881;6;Madrigal de las Altas Torres
+3882;10;Madrigal del Monte
+3883;10;Madrigalejo del Monte
+3884;12;Madrigalejo
+3885;4;Madrigueras
+3886;41;Madroñal
+3887;12;Madroñera
+3888;43;Madroño (El)
+3889;52;Maella
+3890;6;Maello
+3891;7;Magacela
+3892;52;Magallón
+3893;28;Magaz de Cepeda
+3894;38;Magaz de Pisuerga
+3895;44;Magaña
+3896;7;Maguilla
+3897;47;Magán
+3898;10;Mahamud
+3899;51;Mahide
+3900;4;Mahora
+3901;29;Maials
+3902;46;Maicas
+3903;52;Mainar
+3904;51;Maire de Castroponce
+3905;43;Mairena del Alcor
+3906;43;Mairena del Aljarafe
+3907;19;Maià de Montcal
+3908;31;Majadahonda
+3909;18;Majadas (Las)
+3910;12;Majadas
+3911;21;Majaelrayo
+3912;44;Maján
+3913;21;Malaguilla
+3914;11;Malagón
+3915;20;Malahá (La)
+3916;52;Malanquilla
+3917;7;Malcocinado
+3918;29;Maldà
+3919;52;Maleján
+3920;9;Malgrat de Mar
+3921;9;Malla
+3922;50;Mallabia
+3923;52;Mallén
+3924;6;Malpartida de Corneja
+3925;12;Malpartida de Cáceres
+3926;12;Malpartida de Plasencia
+3927;7;Malpartida de la Serena
+3928;41;Malpartida
+3929;1;Malpica de Bergantiños
+3930;47;Malpica de Tajo
+3931;52;Maluenda
+3932;51;Malva
+3933;52;Malón
+3934;6;Mamblas
+3935;10;Mambrilla de Castrejón
+3936;10;Mambrillas de Lara
+3937;10;Mamolar
+3938;8;Manacor
+3939;41;Mancera de Abajo
+3940;6;Mancera de Arriba
+3941;25;Mancha Real
+3942;7;Manchita
+3943;52;Manchones
+3944;10;Manciles
+3945;8;Mancor de la Vall
+3946;21;Mandayona
+3947;51;Manganeses de la Lampreana
+3948;51;Manganeses de la Polvorosa
+3949;32;Manilva
+3950;48;Manises
+3951;6;Manjabálago
+3952;26;Manjarrés
+3953;9;Manlleu
+3954;38;Manquillos
+3955;9;Manresa
+3956;28;Mansilla Mayor
+3957;26;Mansilla de la Sierra
+3958;28;Mansilla de las Mulas
+3959;21;Mantiel
+3960;38;Mantinos
+3961;48;Manuel
+3962;51;Manzanal de Arriba
+3963;51;Manzanal de los Infantes
+3964;51;Manzanal del Barco
+3965;26;Manzanares de Rioja
+3966;31;Manzanares el Real
+3967;11;Manzanares
+3968;36;Manzaneda
+3969;47;Manzaneque
+3970;46;Manzanera
+3971;23;Manzanilla
+3972;49;Manzanillo
+3973;41;Manzano (El)
+3974;47;Maqueda
+3975;52;Mara
+3976;20;Maracena
+3977;21;Maranchón
+3978;42;Marazoleja
+3979;42;Marazuela
+3980;28;Maraña
+3981;35;Marañón
+3982;32;Marbella
+3983;12;Marchagaz
+3984;20;Marchal
+3985;43;Marchena
+3986;38;Marcilla de Campos
+3987;35;Marcilla
+3988;45;Margalef
+3989;9;Marganell
+3990;18;Mariana
+3991;14;Marina de Cudeyo
+3992;43;Marinaleda
+3993;23;Marines (Los)
+3994;48;Marines
+3995;47;Marjaliza
+3996;50;Markina-Xemein
+3997;6;Marlín
+3998;25;Marmolejo
+3999;8;Marratxi
+4000;47;Marrupe
+4001;41;Martiago
+4002;6;Martiherrero
+4003;41;Martinamor
+4004;9;Martorell
+4005;9;Martorelles
+4006;25;Martos
+4007;42;Martín Miguel
+4008;42;Martín Muñoz de la Dehesa
+4009;42;Martín Muñoz de las Posadas
+4010;41;Martín de Yeltes
+4011;43;Martín de la Jara
+4012;46;Martín del Río
+4013;6;Martínez
+4014;42;Marugán
+4015;50;Maruri
+4016;49;Marzales
+4017;45;Marçà
+4018;52;María de Huerva
+4019;8;María de la Salud
+4020;5;María
+4021;39;Marín
+4022;45;Mas de Barberans
+4023;46;Mas de las Matas
+4024;48;Masalavés
+4025;19;Masarac
+4026;47;Mascaraque
+4027;45;Masdenverge
+4028;18;Masegosa
+4029;21;Masegoso de Tajuña
+4030;4;Masegoso
+4031;36;Maside
+4032;9;Masies de Roda (Les)
+4033;9;Masies de Voltregà (Les)
+4034;45;Masllorenç
+4035;9;Masnou (El)
+4036;45;Maspujols
+4037;9;Masquefa
+4038;45;Masroig (El)
+4039;29;Massalcoreig
+4040;48;Massalfassar
+4041;48;Massamagrell
+4042;48;Massanassa
+4043;19;Massanes
+4044;29;Massoteres
+4045;41;Masueco
+4046;45;Masó (La)
+4047;47;Mata (La)
+4048;12;Mata de Alcántara
+4049;42;Mata de Cuéllar
+4050;41;Mata de Ledesma (La)
+4051;15;Mata de Morella (la)
+4052;46;Mata de los Olmos (La)
+4053;42;Matabuena
+4054;9;Matadepera
+4055;28;Matadeón de los Oteros
+4056;44;Matalebreras
+4057;28;Matallana de Torío
+4058;44;Matamala de Almazán
+4059;40;Matanza de Acentejo (La)
+4060;28;Matanza
+4061;49;Matapozuelos
+4062;21;Matarrubia
+4063;9;Mataró
+4064;15;Matet
+4065;42;Matilla (La)
+4066;51;Matilla de Arzón
+4067;41;Matilla de los Caños del Río
+4068;49;Matilla de los Caños
+4069;51;Matilla la Seca
+4070;21;Matillas
+4071;26;Matute
+4072;41;Maya (La)
+4073;51;Mayalde
+4074;49;Mayorga
+4075;46;Mazaleón
+4076;47;Mazarambroz
+4077;21;Mazarete
+4078;1;Mazaricos
+4079;38;Mazariegos
+4080;34;Mazarrón
+4081;14;Mazcuerras
+4082;38;Mazuecos de Valdeginate
+4083;21;Mazuecos
+4084;10;Mazuela
+4085;19;Maçanet de Cabrenys
+4086;19;Maçanet de la Selva
+4087;41;Maíllo (El)
+4088;50;Mañaria
+4089;35;Mañeru
+4090;1;Mañón
+4091;8;Maó
+4092;39;Meaño
+4093;10;Mecerreyes
+4094;31;Meco
+4095;7;Medellín
+4096;52;Mediana de Aragón
+4097;6;Mediana de Voltoya
+4098;10;Medina de Pomar
+4099;49;Medina de Rioseco
+4100;7;Medina de las Torres
+4101;49;Medina del Campo
+4102;13;Medina-Sidonia
+4103;44;Medinaceli
+4104;6;Medinilla
+4105;14;Medio Cudeyo
+4106;9;Mediona
+4107;21;Medranda
+4108;26;Medrano
+4109;49;Megeces
+4110;21;Megina
+4111;30;Meira
+4112;39;Meis
+4113;31;Mejorada del Campo
+4114;47;Mejorada
+4115;49;Melgar de Abajo
+4116;49;Melgar de Arriba
+4117;10;Melgar de Fernamental
+4118;51;Melgar de Tera
+4119;38;Melgar de Yuso
+4120;48;Meliana
+4121;1;Melide
+4122;33;Melilla
+4123;42;Melque de Cercos
+4124;36;Melón
+4125;42;Membibre de la Hoz
+4126;41;Membribe de la Sierra
+4127;11;Membrilla
+4128;21;Membrillera
+4129;12;Membrío
+4130;47;Menasalbas
+4131;22;Mendaro
+4132;50;Mendata
+4133;35;Mendavia
+4134;35;Mendaza
+4135;50;Mendexa
+4136;35;Mendigorría
+4137;38;Meneses de Campos
+4138;7;Mengabril
+4139;6;Mengamuñoz
+4140;25;Mengíbar
+4141;29;Menàrguens
+4142;52;Mequinenza
+4143;19;Meranges
+4144;36;Merca (A)
+4145;8;Mercadal (Es)
+4146;10;Merindad de Cuesta-Urria
+4147;10;Merindad de Montija
+4148;10;Merindad de Río Ubierna
+4149;10;Merindad de Sotoscueva
+4150;10;Merindad de Valdeporres
+4151;10;Merindad de Valdivielso
+4152;14;Meruelo
+4153;18;Mesas (Las)
+4154;12;Mesas de Ibor
+4155;6;Mesegar de Corneja
+4156;47;Mesegar de Tajo
+4157;52;Mesones de Isuela
+4158;11;Mestanza
+4159;1;Mesía
+4160;35;Metauten
+4161;52;Mezalocha
+4162;36;Mezquita (A)
+4163;46;Mezquita de Jarque
+4164;50;Meñaka
+4165;12;Miajadas
+4166;52;Mianos
+4167;51;Micereces de Tera
+4168;38;Micieces de Ojeda
+4169;52;Miedes de Aragón
+4170;21;Miedes de Atienza
+4171;14;Miengo
+4172;14;Miera
+4173;19;Mieres
+4174;37;Mieres
+4175;21;Mierla (La)
+4176;41;Mieza
+4177;8;Migjorn Gran (Es)
+4178;47;Miguel Esteban
+4179;11;Miguelturra
+4180;42;Migueláñez
+4181;6;Mijares
+4182;32;Mijas
+4183;35;Milagro
+4184;10;Milagros
+4185;41;Milano (El)
+4186;21;Millana
+4187;12;Millanes
+4188;48;Millares
+4189;2;Millena
+4190;51;Milles de la Polvorosa
+4191;21;Milmarcos
+4192;45;Milà (El)
+4193;23;Minas de Riotinto
+4194;4;Minaya
+4195;18;Minglanilla
+4196;6;Mingorría
+4197;18;Mira
+4198;12;Mirabel
+4199;21;Mirabueno
+4200;31;Miraflores de la Sierra
+4201;35;Mirafuentes
+4202;29;Miralcamp
+4203;21;Miralrío
+4204;48;Miramar
+4205;46;Mirambel
+4206;35;Miranda de Arga
+4207;41;Miranda de Azán
+4208;10;Miranda de Ebro
+4209;41;Miranda del Castañar
+4210;7;Mirandilla
+4211;10;Miraveche
+4212;45;Miravet
+4213;46;Miravete de la Sierra
+4214;6;Mironcillo
+4215;6;Mirueña de los Infanzones
+4216;6;Mirón (El)
+4217;48;Mislata
+4218;44;Miño de Medinaceli
+4219;44;Miño de San Esteban
+4220;1;Miño
+4221;21;Miñosa (La)
+4222;39;Moaña
+4223;47;Mocejón
+4224;21;Mochales
+4225;32;Moclinejo
+4226;20;Moclín
+4227;10;Modúbar de la Emparedada
+4228;1;Moeche
+4229;41;Mogarraz
+4230;23;Moguer
+4231;27;Mogán
+4232;12;Mohedas de Granadilla
+4233;47;Mohedas de la Jara
+4234;21;Mohernando
+4235;48;Moixent
+4236;9;Moià
+4237;49;Mojados
+4238;5;Mojonera (La)
+4239;5;Mojácar
+4240;51;Molacillos
+4241;31;Molar (El)
+4242;45;Molar (El)
+4243;43;Molares (Los)
+4244;51;Molezuelas de la Carballeda
+4245;21;Molina de Aragón
+4246;34;Molina de Segura
+4247;28;Molinaseca
+4248;4;Molinicos
+4249;41;Molinillo
+4250;31;Molinos (Los)
+4251;44;Molinos de Duero
+4252;46;Molinos
+4253;9;Molins de Rei
+4254;14;Molledo
+4255;29;Mollerussa
+4256;19;Mollet de Peralada
+4257;9;Mollet del Vallès
+4258;32;Mollina
+4259;19;Molló
+4260;29;Molsosa (La)
+4261;20;Molvízar
+4262;6;Mombeltrán
+4263;44;Momblona
+4264;51;Mombuey
+4265;20;Monachil
+4266;10;Monasterio de Rodilla
+4267;49;Monasterio de Vega
+4268;10;Monasterio de la Sierra
+4269;21;Monasterio
+4270;48;Moncada
+4271;10;Moncalvillo
+4272;15;Moncofa
+4273;32;Monda
+4274;39;Mondariz-Balneario
+4275;39;Mondariz
+4276;30;Mondoñedo
+4277;21;Mondéjar
+4278;52;Monegrillo
+4279;24;Monesma y Cajigar
+4280;7;Monesterio
+4281;52;Moneva
+4282;51;Monfarracinos
+4283;1;Monfero
+4284;24;Monflorite-Lascasas
+4285;30;Monforte de Lemos
+4286;46;Monforte de Moyuela
+4287;41;Monforte de la Sierra
+4288;2;Monforte del Cid
+4289;9;Monistrol de Calders
+4290;9;Monistrol de Montserrat
+4291;41;Monleras
+4292;41;Monleón
+4293;52;Monreal de Ariza
+4294;46;Monreal del Campo
+4295;18;Monreal del Llano
+4296;35;Monreal
+4297;12;Monroy
+4298;46;Monroyo
+4299;41;Monsagro
+4300;6;Monsalupe
+4301;45;Mont-ral
+4302;19;Mont-ras
+4303;45;Mont-roig del Camp
+4304;48;Montaberner
+4305;19;Montagut
+4306;18;Montalbanejo
+4307;18;Montalbo
+4308;17;Montalbán de Córdoba
+4309;46;Montalbán
+4310;4;Montalvos
+4311;51;Montamarta
+4312;15;Montanejos
+4313;24;Montanuy
+4314;21;Montarrón
+4315;45;Montblanc
+4316;45;Montbrió del Camp
+4317;9;Montcada i Reixac
+4318;9;Montclar
+4319;18;Monteagudo de las Salinas
+4320;44;Monteagudo de las Vicarías
+4321;46;Monteagudo del Castillo
+4322;35;Monteagudo
+4323;49;Montealegre de Campos
+4324;4;Montealegre del Castillo
+4325;47;Montearagón
+4326;36;Montederramo
+4327;20;Montefrío
+4328;12;Montehermoso
+4329;32;Montejaque
+4330;42;Montejo de Arévalo
+4331;44;Montejo de Tiermes
+4332;31;Montejo de la Sierra
+4333;42;Montejo de la Vega de la Serrezuela
+4334;41;Montejo
+4335;20;Montejícar
+4336;43;Montellano
+4337;29;Montellà i Martinet
+4338;49;Montemayor de Pililla
+4339;41;Montemayor del Río
+4340;17;Montemayor
+4341;7;Montemolín
+4342;44;Montenegro de Cameros
+4343;46;Monterde de Albarracín
+4344;52;Monterde
+4345;36;Monterrei
+4346;30;Monterroso
+4347;41;Monterrubio de Armuña
+4348;10;Monterrubio de la Demanda
+4349;7;Monterrubio de la Serena
+4350;41;Monterrubio de la Sierra
+4351;42;Monterrubio
+4352;48;Montesa
+4353;47;Montesclaros
+4354;2;Montesinos (Los)
+4355;9;Montesquiu
+4356;29;Montferrer i Castellbò
+4357;45;Montferri
+4358;29;Montgai
+4359;9;Montgat
+4360;48;Montichelvo
+4361;11;Montiel
+4362;7;Montijo
+4363;17;Montilla
+4364;20;Montillana
+4365;25;Montizón
+4366;9;Montmajor
+4367;9;Montmaneu
+4368;45;Montmell (El)
+4369;9;Montmeló
+4370;29;Montoliu de Lleida
+4371;29;Montoliu de Segarra
+4372;10;Montorio
+4373;29;Montornès de Segarra
+4374;9;Montornès del Vallès
+4375;17;Montoro
+4376;48;Montroy
+4377;9;Montseny
+4378;48;Montserrat
+4379;17;Monturque
+4380;8;Montuïri
+4381;15;Montán
+4382;12;Montánchez
+4383;52;Montón
+4384;38;Monzón de Campos
+4385;24;Monzón
+4386;2;Monòver
+4387;46;Mora de Rubielos
+4388;47;Mora
+4389;10;Moradillo de Roa
+4390;11;Moral de Calatrava
+4391;42;Moral de Hornuez
+4392;51;Moral de Sayago
+4393;49;Moral de la Reina
+4394;20;Moraleda de Zafayona
+4395;31;Moraleja de Enmedio
+4396;6;Moraleja de Matacabras
+4397;51;Moraleja de Sayago
+4398;49;Moraleja de las Panaderas
+4399;51;Moraleja del Vino
+4400;12;Moraleja
+4401;49;Morales de Campos
+4402;51;Morales de Rey
+4403;51;Morales de Toro
+4404;51;Morales de Valverde
+4405;51;Morales del Vino
+4406;51;Moralina
+4407;31;Moralzarzal
+4408;41;Morasverdes
+4409;52;Morata de Jalón
+4410;52;Morata de Jiloca
+4411;31;Morata de Tajuña
+4412;34;Moratalla
+4413;21;Moratilla de los Meleros
+4414;38;Moratinos
+4415;39;Moraña
+4416;12;Morcillo
+4417;37;Morcín
+4418;3;Moreda de Alava 
+4419;45;Morell (El)
+4420;15;Morella
+4421;20;Morelábor
+4422;21;Morenilla
+4423;35;Morentin
+4424;7;Morera (La)
+4425;45;Morera de Montsant (La)
+4426;51;Moreruela de Tábara
+4427;51;Moreruela de los Infanzones
+4428;50;Morga
+4429;17;Moriles
+4430;41;Morille
+4431;41;Moriscos
+4432;41;Moronta
+4433;52;Moros
+4434;52;Morés
+4435;41;Moríñigo
+4436;44;Morón de Almazán
+4437;43;Morón de la Frontera
+4438;39;Mos
+4439;46;Moscardón
+4440;46;Mosqueruela
+4441;18;Mota de Altarejos
+4442;18;Mota del Cuervo
+4443;49;Mota del Marqués
+4444;18;Motilla del Palancar
+4445;4;Motilleja
+4446;20;Motril
+4447;18;Moya
+4448;27;Moya
+4449;52;Moyuela
+4450;42;Mozoncillo
+4451;52;Mozota
+4452;41;Mozárbez
+4453;49;Mucientes
+4454;49;Mudarra (La)
+4455;21;Muduex
+4456;38;Mudá
+4457;52;Muel
+4458;52;Muela (La)
+4459;51;Muelas de los Caballeros
+4460;51;Muelas del Pan
+4461;35;Mues
+4462;51;Muga de Sayago
+4463;1;Mugardos
+4464;34;Mula
+4465;50;Mundaka
+4466;4;Munera
+4467;50;Mungia
+4468;46;Muniesa
+4469;26;Munilla
+4470;50;Munitibar-Arbatzegi Gerrikaitz
+4471;9;Muntanyola
+4472;52;Munébrega
+4473;9;Mura
+4474;30;Muras
+4475;35;Murchante
+4476;34;Murcia
+4477;52;Murero
+4478;28;Murias de Paredes
+4479;44;Muriel Viejo
+4480;44;Muriel de la Fuente
+4481;49;Muriel
+4482;35;Murieta
+4483;52;Murillo de Gállego
+4484;26;Murillo de Río Leza
+4485;35;Murillo el Cuende
+4486;35;Murillo el Fruto
+4487;2;Murla
+4488;26;Muro de Aguas
+4489;2;Muro del Comtat
+4490;26;Muro en Cameros
+4491;8;Muro
+4492;37;Muros de Nalón
+4493;1;Muros
+4494;20;Murtas
+4495;50;Murueta
+4496;35;Muruzábal
+4497;48;Museros
+4498;50;Muskiz
+4499;22;Mutiloa
+4500;22;Mutriku
+4501;2;Mutxamel
+4502;50;Muxika
+4503;1;Muxía
+4504;36;Muíños
+4505;6;Muñana
+4506;6;Muñico
+4507;6;Muñogalindo
+4508;6;Muñogrande
+4509;6;Muñomer del Peco
+4510;42;Muñopedro
+4511;6;Muñopepe
+4512;6;Muñosancho
+4513;6;Muñotello
+4514;42;Muñoveros
+4515;21;Málaga del Fresno
+4516;32;Málaga
+4517;35;Mélida
+4518;47;Méntrida
+4519;7;Mérida
+4520;45;Móra d'Ebre
+4521;45;Móra la Nova
+4522;31;Móstoles
+4523;50;Nabarniz
+4524;5;Nacimiento
+4525;44;Nafría de Ucero
+4526;26;Nalda
+4527;29;Nalec
+4528;47;Nambroca
+4529;18;Narboneta
+4530;6;Narrillos del Alamo
+4531;6;Narrillos del Rebollar
+4532;41;Narros de Matalayegua
+4533;6;Narros de Saldueña
+4534;6;Narros del Castillo
+4535;6;Narros del Puerto
+4536;44;Narros
+4537;1;Narón
+4538;29;Naut Aran
+4539;23;Nava (La)
+4540;6;Nava de Arévalo
+4541;41;Nava de Béjar
+4542;41;Nava de Francia
+4543;47;Nava de Ricomalillo (La)
+4544;10;Nava de Roa
+4545;7;Nava de Santiago (La)
+4546;41;Nava de Sotrobal
+4547;42;Nava de la Asunción
+4548;6;Nava del Barco
+4549;49;Nava del Rey
+4550;37;Nava
+4551;41;Navacarros
+4552;6;Navacepedilla de Corneja
+4553;31;Navacerrada
+4554;12;Navaconcejo
+4555;6;Navadijos
+4556;6;Navaescurial
+4557;42;Navafría
+4558;47;Navahermosa
+4559;6;Navahondilla
+4560;15;Navajas
+4561;26;Navajún
+4562;24;Naval
+4563;6;Navalacruz
+4564;31;Navalafuente
+4565;31;Navalagamella
+4566;31;Navalcarnero
+4567;47;Navalcán
+4568;44;Navaleno
+4569;41;Navales
+4570;42;Navalilla
+4571;42;Navalmanzano
+4572;41;Navalmoral de Béjar
+4573;12;Navalmoral de la Mata
+4574;6;Navalmoral
+4575;47;Navalmoralejo
+4576;47;Navalmorales (Los)
+4577;6;Navalonguilla
+4578;6;Navalosa
+4579;6;Navalperal de Pinares
+4580;6;Navalperal de Tormes
+4581;11;Navalpino
+4582;47;Navalucillos (Los)
+4583;6;Navaluenga
+4584;12;Navalvillar de Ibor
+4585;7;Navalvillar de Pela
+4586;41;Navamorales
+4587;47;Navamorcuende
+4588;6;Navaquesera
+4589;9;Navarcles
+4590;52;Navardún
+4591;42;Navares de Ayuso
+4592;42;Navares de Enmedio
+4593;42;Navares de las Cuevas
+4594;3;Navaridas
+4595;6;Navarredonda de Gredos
+4596;41;Navarredonda de la Rinconada
+4597;31;Navarredonda
+4598;6;Navarredondilla
+4599;26;Navarrete
+4600;6;Navarrevisca
+4601;48;Navarrés
+4602;10;Navas de Bureba
+4603;11;Navas de Estena
+4604;21;Navas de Jadraque (Las)
+4605;4;Navas de Jorquera
+4606;42;Navas de Oro
+4607;42;Navas de Riofrío
+4608;42;Navas de San Antonio
+4609;25;Navas de San Juan
+4610;43;Navas de la Concepción (Las)
+4611;12;Navas del Madroño
+4612;6;Navas del Marqués (Las)
+4613;31;Navas del Rey
+4614;35;Navascués
+4615;41;Navasfrías
+4616;19;Navata
+4617;6;Navatalgordo
+4618;6;Navatejares
+4619;12;Navezuelas
+4620;30;Navia de Suarna
+4621;37;Navia
+4622;51;Navianos de Valverde
+4623;9;Navàs
+4624;29;Navès
+4625;35;Nazar
+4626;10;Nebreda
+4627;1;Neda
+4628;21;Negredo
+4629;1;Negreira
+4630;41;Negrilla de Palencia
+4631;30;Negueira de Muñiz
+4632;6;Neila de San Miguel
+4633;10;Neila
+4634;44;Nepas
+4635;32;Nerja
+4636;4;Nerpio
+4637;23;Nerva
+4638;26;Nestares
+4639;20;Nevada
+4640;39;Neves (As)
+4641;23;Niebla
+4642;26;Nieva de Cameros
+4643;42;Nieva
+4644;39;Nigrán
+4645;20;Nigüelas
+4646;52;Nigüella
+4647;6;Niharra
+4648;25;Noalejo
+4649;47;Noblejas
+4650;28;Noceda
+4651;47;Noez
+4652;30;Nogais (As)
+4653;38;Nogal de las Huertas
+4654;7;Nogales
+4655;36;Nogueira de Ramuín
+4656;46;Noguera
+4657;46;Nogueras
+4658;46;Nogueruelas
+4659;1;Noia
+4660;14;Noja
+4661;44;Nolay
+4662;47;Nombela
+4663;52;Nombrevilla
+4664;52;Nonaspe
+4665;37;Noreña
+4666;9;Nou de Berguedà (La)
+4667;45;Nou de Gaià (La)
+4668;24;Novales
+4669;52;Novallas
+4670;2;Novelda
+4671;48;Novetlè
+4672;44;Noviercas
+4673;52;Novillas
+4674;47;Novés
+4675;2;Nucia (la)
+4676;24;Nueno
+4677;17;Nueva Carteya
+4678;49;Nueva Villa de las Torres
+4679;31;Nuevo Baztán
+4680;52;Nuez de Ebro
+4681;15;Nules
+4682;45;Nulles
+4683;47;Numancia de la Sagra
+4684;52;Nuévalos
+4685;47;Nuño Gómez
+4686;12;Nuñomoral
+4687;26;Nájera
+4688;48;Náquera
+4689;5;Níjar
+4690;20;Nívar
+4691;35;Obanos
+4692;17;Obejo
+4693;46;Obón
+4694;47;Ocaña
+4695;21;Ocentejo
+4696;35;Ochagavía
+4697;26;Ochánduri
+4698;35;Oco
+4699;26;Ocón
+4700;9;Odena
+4701;35;Odieta
+4702;29;Odèn
+4703;46;Odón
+4704;28;Oencia
+4705;19;Ogassa
+4706;20;Ogíjares
+4707;5;Ohanes
+4708;39;Oia
+4709;22;Oiartzun
+4710;35;Oitz
+4711;26;Ojacastro
+4712;46;Ojos Negros
+4713;6;Ojos-Albos
+4714;32;Ojén
+4715;34;Ojós
+4716;3;Okondo
+4717;22;Olaberria
+4718;35;Olaibar
+4719;35;Olazti/Olazagutía
+4720;46;Olba
+4721;38;Olea de Boedo
+4722;1;Oleiros
+4723;35;Olejua
+4724;9;Olesa de Bonesvalls
+4725;9;Olesa de Montserrat
+4726;29;Oliana
+4727;46;Oliete
+4728;29;Oliola
+4729;35;Olite
+4730;29;Olius
+4731;27;Oliva (La)
+4732;7;Oliva de Mérida
+4733;12;Oliva de Plasencia
+4734;7;Oliva de la Frontera
+4735;48;Oliva
+4736;21;Olivar (El)
+4737;49;Olivares de Duero
+4738;18;Olivares de Júcar
+4739;43;Olivares
+4740;9;Olivella
+4741;7;Olivenza
+4742;26;Ollauri
+4743;48;Olleria (l')
+4744;35;Ollo
+4745;21;Olmeda de Cobeta
+4746;21;Olmeda de Jadraque (La)
+4747;18;Olmeda de la Cuesta
+4748;31;Olmeda de las Fuentes
+4749;18;Olmeda del Rey
+4750;18;Olmedilla de Alarcón
+4751;18;Olmedilla de Eliz
+4752;10;Olmedillo de Roa
+4753;41;Olmedo de Camaces
+4754;49;Olmedo
+4755;51;Olmillos de Castro
+4756;10;Olmillos de Muñó
+4757;46;Olmos (Los)
+4758;49;Olmos de Esgueva
+4759;38;Olmos de Ojeda
+4760;49;Olmos de Peñafiel
+4761;15;Olocau del Rey
+4762;48;Olocau
+4763;42;Olombrada
+4764;9;Olost
+4765;19;Olot
+4766;29;Oluges (Les)
+4767;5;Olula de Castro
+4768;5;Olula del Río
+4769;9;Olvan
+4770;44;Olvega
+4771;24;Olvena
+4772;13;Olvera
+4773;52;Olvés
+4774;35;Olza
+4775;9;Olèrdola
+4776;47;Olías del Rey
+4777;35;Olóriz
+4778;28;Omañas (Las)
+4779;29;Omellons (Els)
+4780;29;Omells de na Gaia (Els)
+4781;44;Oncala
+4782;15;Onda
+4783;2;Ondara
+4784;50;Ondarroa
+4785;2;Onil
+4786;48;Ontinyent
+4787;24;Ontiñena
+4788;4;Ontur
+4789;47;Ontígola
+4790;28;Onzonilla
+4791;37;Onís
+4792;10;Oquillas
+4793;2;Orba
+4794;41;Orbada (La)
+4795;35;Orbaitzeta
+4796;10;Orbaneja Riopico
+4797;35;Orbara
+4798;6;Orbita
+4799;52;Orcajo
+4800;20;Orce
+4801;25;Orcera
+4802;35;Orcoyen
+4803;1;Ordes
+4804;21;Ordial (El)
+4805;19;Ordis
+4806;22;Ordizia
+4807;50;Orduña
+4808;21;Orea
+4809;42;Orejana
+4810;7;Orellana de la Sierra
+4811;7;Orellana la Vieja
+4812;22;Orendain
+4813;52;Orera
+4814;22;Orexa
+4815;29;Organyà
+4816;47;Orgaz
+4817;20;Orgiva
+4818;5;Oria
+4819;46;Orihuela del Tremedal
+4820;2;Orihuela
+4821;22;Orio
+4822;9;Oristà
+4823;22;Ormaiztegi
+4824;35;Oronz
+4825;15;Oropesa 
+4826;47;Oropesa
+4827;1;Oroso
+4828;40;Orotava (La)
+4829;35;Oroz-Betelu
+4830;50;Orozko
+4831;9;Orpí
+4832;35;Orreaga/Roncesvalles
+4833;46;Orrios
+4834;9;Orrius
+4835;26;Ortigosa de Cameros
+4836;42;Ortigosa de Pestaño
+4837;42;Ortigosa del Monte
+4838;1;Ortigueira
+4839;50;Ortuella
+4840;31;Orusco de Tajuña
+4841;2;Orxa (l')
+4842;2;Orxeta
+4843;52;Orés
+4844;9;Orís
+4845;35;Orísoain
+4846;29;Os de Balaguer
+4847;18;Osa de la Vega
+4848;28;Oseja de Sajambre
+4849;52;Oseja
+4850;52;Osera de Ebro
+4851;6;Oso (El)
+4852;19;Osor
+4853;38;Osornillo
+4854;38;Osorno la Mayor
+4855;4;Ossa de Montiel
+4856;24;Osso de Cinca
+4857;29;Ossó de Sió
+4858;43;Osuna
+4859;35;Oteiza
+4860;51;Otero de Bodas
+4861;42;Otero de Herreros
+4862;47;Otero
+4863;48;Otos
+4864;20;Otura
+4865;50;Otxandio
+4866;10;Otxate
+4867;20;Otívar
+4868;36;Ourense
+4869;30;Ourol
+4870;30;Outeiro de Rei
+4871;1;Outes
+4872;37;Oviedo
+4873;3;Oyón/Oion
+4874;1;Oza dos Ríos
+4875;36;Oímbra
+4876;10;Oña
+4877;22;Oñati
+4878;9;Pacs del Penedès
+4879;36;Paderne de Allariz
+4880;1;Paderne
+4881;6;Padiernos
+4882;10;Padilla de Abajo
+4883;10;Padilla de Arriba
+4884;36;Padrenda
+4885;10;Padrones de Bureba
+4886;1;Padrón
+4887;20;Padul
+4888;5;Padules
+4889;48;Paiporta
+4890;42;Pajarejos
+4891;6;Pajares de Adaja
+4892;41;Pajares de la Laguna
+4893;51;Pajares de la Lampreana
+4894;28;Pajares de los Oteros
+4895;18;Pajaroncillo
+4896;18;Pajarón
+4897;6;Palacios de Goda
+4898;10;Palacios de Riopisuerga
+4899;51;Palacios de Sanabria
+4900;10;Palacios de la Sierra
+4901;28;Palacios de la Valduerna
+4902;41;Palacios del Arzobispo
+4903;51;Palacios del Pan
+4904;28;Palacios del Sil
+4905;43;Palacios y Villafranca (Los)
+4906;41;Palaciosrubios
+4907;9;Palafolls
+4908;19;Palafrugell
+4909;19;Palamós
+4910;15;Palanques
+4911;30;Palas de Rei
+4912;29;Palau d'Anglesola (El)
+4913;9;Palau de Plegamans
+4914;19;Palau de Santa Eulàlia
+4915;19;Palau-sator
+4916;19;Palau-saverdera
+4917;49;Palazuelo de Vedija
+4918;42;Palazuelos de Eresma
+4919;10;Palazuelos de Muñó
+4920;10;Palazuelos de la Sierra
+4921;41;Palencia de Negrilla
+4922;38;Palencia
+4923;17;Palenciana
+4924;38;Palenzuela
+4925;45;Pallaresos (Els)
+4926;29;Pallars Jussà
+4927;9;Pallejà
+4928;45;Palma d'Ebre (La)
+4929;48;Palma de Gandía
+4930;8;Palma de Mallorca
+4931;23;Palma del Condado (La)
+4932;17;Palma del Río
+4933;27;Palmas de Gran Canaria (Las)
+4934;48;Palmera
+4935;24;Palo
+4936;19;Palol de Revardit
+4937;46;Palomar de Arroyos
+4938;48;Palomar
+4939;18;Palomares del Campo
+4940;43;Palomares del Río
+4941;7;Palomas
+4942;47;Palomeque
+4943;18;Palomera
+4944;12;Palomero
+4945;23;Palos de la Frontera
+4946;19;Pals
+4947;20;Pampaneira
+4948;10;Pampliega
+4949;35;Pamplona/Iruña
+4950;10;Pancorvo
+4951;46;Pancrudo
+4952;52;Paniza
+4953;24;Panticosa
+4954;47;Pantoja
+4955;30;Pantón
+4956;6;Papatrigo
+4957;9;Papiol (El)
+4958;31;Paracuellos de Jarama
+4959;52;Paracuellos de Jiloca
+4960;52;Paracuellos de la Ribera
+4961;18;Paracuellos
+4962;41;Parada de Arriba
+4963;41;Parada de Rubiales
+4964;36;Parada de Sil
+4965;43;Paradas
+4966;30;Paradela
+4967;41;Paradinas de San Juan
+4968;32;Parauta
+4969;2;Parcent
+4970;10;Pardilla
+4971;19;Pardines
+4972;21;Pardos
+4973;47;Paredes de Escalona
+4974;38;Paredes de Nava
+4975;21;Paredes de Sigüenza
+4976;18;Paredes
+4977;21;Pareja
+4978;9;Parets del Vallès
+4979;31;Parla
+4980;19;Parlavà
+4981;7;Parra (La)
+4982;18;Parra de las Vegas (La)
+4983;6;Parral (El)
+4984;46;Parras de Castellote (Las)
+4985;37;Parres
+4986;49;Parrilla (La)
+4987;47;Parrillas
+4988;5;Partaloa
+4989;10;Partido de la Sierra en Tobalina
+4990;22;Pasaia
+4991;12;Pasarón de la Vera
+4992;6;Pascualcobo
+4993;40;Paso (El)
+4994;45;Passanant
+4995;41;Pastores
+4996;30;Pastoriza (A)
+4997;21;Pastrana
+4998;52;Pastriz
+4999;13;Paterna de Rivera
+5000;23;Paterna del Campo
+5001;4;Paterna del Madera
+5002;5;Paterna del Río
+5003;48;Paterna
+5004;31;Patones
+5005;19;Pau
+5006;15;Pavías
+5007;23;Paymogo
+5008;41;Payo (El)
+5009;38;Payo de Ojeda
+5010;39;Pazos de Borbén
+5011;26;Pazuengos
+5012;45;Paüls
+5013;25;Peal de Becerro
+5014;5;Pechina
+5015;18;Pedernoso (El)
+5016;30;Pedrafita do Cebreiro
+5017;49;Pedraja de Portillo (La)
+5018;49;Pedrajas de San Esteban
+5019;51;Pedralba de la Pradería
+5020;48;Pedralba
+5021;41;Pedraza de Alba
+5022;38;Pedraza de Campos
+5023;42;Pedraza
+5024;21;Pedregal (El)
+5025;2;Pedreguer
+5026;43;Pedrera
+5027;19;Pedret i Marzà
+5028;31;Pedrezuela
+5029;17;Pedro Abad
+5030;6;Pedro Bernardo
+5031;20;Pedro Martínez
+5032;11;Pedro Muñoz
+5033;6;Pedro-Rodríguez
+5034;17;Pedroche
+5035;52;Pedrola
+5036;10;Pedrosa de Duero
+5037;10;Pedrosa de Río Urbel
+5038;38;Pedrosa de la Vega
+5039;10;Pedrosa del Príncipe
+5040;10;Pedrosa del Páramo
+5041;28;Pedrosa del Rey
+5042;49;Pedrosa del Rey
+5043;52;Pedrosas (Las)
+5044;41;Pedrosillo de Alba
+5045;41;Pedrosillo de los Aires
+5046;41;Pedrosillo el Ralo
+5047;43;Pedroso (El)
+5048;12;Pedroso de Acim
+5049;41;Pedroso de la Armuña (El)
+5050;26;Pedroso
+5051;18;Pedroñeras (Las)
+5052;25;Pegalajar
+5053;51;Pego (El)
+5054;2;Pego
+5055;6;Peguerinos
+5056;41;Pelabravo
+5057;47;Pelahustán
+5058;41;Pelarrodríguez
+5059;31;Pelayos de la Presa
+5060;42;Pelayos del Arroyo
+5061;41;Pelayos
+5062;51;Peleagonzalo
+5063;51;Peleas de Abajo
+5064;20;Peligros
+5065;14;Penagos
+5066;29;Penelles
+5067;2;Penàguila
+5068;15;Peníscola
+5069;47;Pepino
+5070;51;Peque
+5071;19;Pera (La)
+5072;46;Peracense
+5073;9;Perafita
+5074;45;Perafort
+5075;18;Peral (El)
+5076;10;Peral de Arlanza
+5077;19;Peralada
+5078;12;Peraleda de San Román
+5079;12;Peraleda de la Mata
+5080;7;Peraleda del Zaucejo
+5081;18;Peraleja (La)
+5082;41;Peralejos de Abajo
+5083;41;Peralejos de Arriba
+5084;21;Peralejos de las Truchas
+5085;46;Peralejos
+5086;31;Perales de Tajuña
+5087;46;Perales del Alfambra
+5088;12;Perales del Puerto
+5089;38;Perales
+5090;24;Peralta de Alcofea
+5091;24;Peralta de Calasanz
+5092;35;Peralta
+5093;24;Peraltilla
+5094;21;Peralveche
+5095;29;Peramola
+5096;28;Peranzanes
+5097;24;Perarrúa
+5098;52;Perdiguera
+5099;51;Perdigón (El)
+5100;36;Pereiro de Aguiar
+5101;45;Perelló (El)
+5102;51;Pereruela
+5103;41;Pereña de la Ribera
+5104;32;Periana
+5105;51;Perilla de Castro
+5106;38;Pernía (La)
+5107;41;Peromingo
+5108;42;Perosillo
+5109;36;Peroxa (A)
+5110;24;Pertusa
+5111;14;Pesaguero
+5112;12;Pescueza
+5113;12;Pesga (La)
+5114;37;Pesoz
+5115;18;Pesquera (La)
+5116;49;Pesquera de Duero
+5117;14;Pesquera
+5118;35;Petilla de Aragón
+5119;8;Petra
+5120;2;Petrer
+5121;48;Petrés
+5122;36;Petín
+5123;20;Peza (La)
+5124;31;Pezuela de las Torres
+5125;41;Peña (La)
+5126;41;Peñacaballera
+5127;3;Peñacerrada
+5128;49;Peñafiel
+5129;49;Peñaflor de Hornija
+5130;43;Peñaflor
+5131;6;Peñalba de Avila
+5132;24;Peñalba
+5133;7;Peñalsordo
+5134;21;Peñalver
+5135;21;Peñalén
+5136;37;Peñamellera Alta
+5137;37;Peñamellera Baja
+5138;41;Peñaparda
+5139;41;Peñaranda de Bracamonte
+5140;10;Peñaranda de Duero
+5141;41;Peñarandilla
+5142;46;Peñarroya de Tastavins
+5143;17;Peñarroya-Pueblonuevo
+5144;14;Peñarrubia
+5145;24;Peñas de Riglos (Las)
+5146;4;Peñas de San Pedro
+5147;4;Peñascosa
+5148;51;Peñausende
+5149;48;Picanya
+5150;48;Picassent
+5151;18;Picazo (El)
+5152;11;Picón
+5153;11;Piedrabuena
+5154;51;Piedrahita de Castro
+5155;6;Piedrahíta
+5156;6;Piedralaves
+5157;35;Piedramillera
+5158;12;Piedras Albas
+5159;52;Piedratajada
+5160;9;Piera
+5161;2;Pilar de la Horadada
+5162;43;Pilas
+5163;45;Piles (Les)
+5164;48;Piles
+5165;37;Piloña
+5166;52;Pina de Ebro
+5167;15;Pina de Montalgrao
+5168;20;Pinar (El)
+5169;18;Pinarejo
+5170;42;Pinarejos
+5171;42;Pinarnegrillo
+5172;18;Pineda de Gigüela
+5173;9;Pineda de Mar
+5174;10;Pineda de la Sierra
+5175;10;Pineda-Trasmonte
+5176;41;Pinedas
+5177;45;Pinell de Brai (El)
+5178;29;Pinell de Solsonès
+5179;48;Pinet
+5180;21;Pinilla de Jadraque
+5181;21;Pinilla de Molina
+5182;51;Pinilla de Toro
+5183;10;Pinilla de los Barruecos
+5184;10;Pinilla de los Moros
+5185;44;Pinilla del Campo
+5186;31;Pinilla del Valle
+5187;10;Pinilla-Trasmonte
+5188;26;Pinillos
+5189;1;Pino (O)
+5190;41;Pino de Tormes (El)
+5191;38;Pino del Río
+5192;51;Pino
+5193;12;Pinofranqueado
+5194;20;Pinos Genil
+5195;20;Pinos Puente
+5196;2;Pinoso
+5197;52;Pinseque
+5198;52;Pintanos (Los)
+5199;31;Pinto
+5200;29;Pinós
+5201;12;Piornal
+5202;21;Pioz
+5203;18;Piqueras del Castillo
+5204;21;Piqueras
+5205;45;Pira
+5206;24;Piracés
+5207;46;Pitarque
+5208;41;Pitiegua
+5209;35;Pitillas
+5210;32;Pizarra
+5211;41;Pizarral
+5212;14;Piélagos
+5213;10;Piérnigas
+5214;38;Piña de Campos
+5215;49;Piña de Esgueva
+5216;49;Piñel de Abajo
+5217;49;Piñel de Arriba
+5218;51;Piñero (El)
+5219;36;Piñor
+5220;31;Piñuécar
+5221;45;Pla de Santa Maria (El)
+5222;9;Pla del Penedès (El)
+5223;24;Plan
+5224;19;Planes d'Hostoles (Les)
+5225;2;Planes
+5226;19;Planoles
+5227;29;Plans de Sió (Els)
+5228;52;Plasencia de Jalón
+5229;12;Plasencia
+5230;12;Plasenzuela
+5231;52;Pleitas
+5232;52;Plenas
+5233;50;Plentzia
+5234;34;Pliego
+5235;46;Plou
+5236;29;Poal (El)
+5237;8;Pobla (Sa)
+5238;48;Pobla Llarga (la)
+5239;15;Pobla Tornesa (la)
+5240;15;Pobla de Benifassà (la)
+5241;9;Pobla de Claramunt (La)
+5242;29;Pobla de Cérvoles (La)
+5243;48;Pobla de Farnals (la)
+5244;9;Pobla de Lillet (La)
+5245;45;Pobla de Mafumet (La)
+5246;45;Pobla de Massaluca (La)
+5247;45;Pobla de Montornès (La)
+5248;29;Pobla de Segur (La)
+5249;48;Pobla de Vallbona (la)
+5250;48;Pobla del Duc (la)
+5251;38;Población de Arroyo
+5252;38;Población de Campos
+5253;38;Población de Cerrato
+5254;28;Pobladura de Pelayo García
+5255;51;Pobladura de Valderaduey
+5256;51;Pobladura del Valle
+5257;2;Poble Nou de Benitatxell (El)
+5258;11;Poblete
+5259;2;Poblets (els)
+5260;46;Pobo (El)
+5261;21;Pobo de Dueñas (El)
+5262;45;Poboleda
+5263;30;Pobra de Brollón (A)
+5264;36;Pobra de Trives (A)
+5265;1;Pobra do Caramiñal (A)
+5266;39;Poio
+5267;30;Pol
+5268;28;Pola de Gordón (La)
+5269;14;Polaciones
+5270;14;Polanco
+5271;38;Polentinos
+5272;24;Poleñino
+5273;48;Polinyà de Xúquer
+5274;9;Polinyà
+5275;8;Pollença
+5276;49;Pollos
+5277;2;Polop
+5278;20;Polopos
+5279;47;Polán
+5280;20;Polícar
+5281;38;Pomar de Valdivia
+5282;52;Pomer
+5283;28;Ponferrada
+5284;37;Ponga
+5285;45;Pont d'Armentera (El)
+5286;29;Pont de Bar (El)
+5287;19;Pont de Molins
+5288;29;Pont de Suert (El)
+5289;9;Pont de Vilomara i Rocafort (El)
+5290;39;Ponte-Caldelas
+5291;39;Ponteareas
+5292;1;Ponteceso
+5293;39;Pontecesures
+5294;1;Pontedeume
+5295;36;Pontedeva
+5296;30;Pontenova (A)
+5297;1;Pontes de García Rodríguez (As)
+5298;39;Pontevedra
+5299;9;Pontons
+5300;29;Ponts
+5301;19;Pontós
+5302;25;Porcuna
+5303;36;Porqueira
+5304;19;Porqueres
+5305;45;Porrera
+5306;8;Porreres
+5307;39;Porriño (O)
+5308;19;Port de la Selva (El)
+5309;12;Portaje
+5310;18;Portalrubio de Guadamajud
+5311;39;Portas
+5312;19;Portbou
+5313;15;Portell de Morella
+5314;29;Portella (La)
+5315;46;Portellada (La)
+5316;12;Portezuelo
+5317;18;Portilla
+5318;44;Portillo de Soria
+5319;47;Portillo de Toledo
+5320;49;Portillo
+5321;1;Porto do Son
+5322;51;Porto
+5323;30;Portomarín
+5324;50;Portugalete
+5325;11;Porzuna
+5326;28;Posada de Valdeón
+5327;17;Posadas
+5328;14;Potes
+5329;48;Potríes
+5330;21;Poveda de la Sierra
+5331;41;Poveda de las Cintas
+5332;6;Poveda
+5333;4;Povedilla
+5334;6;Poyales del Hoyo
+5335;18;Poyatos
+5336;10;Poza de la Sal
+5337;38;Poza de la Vega
+5338;49;Pozal de Gallinas
+5339;49;Pozaldez
+5340;44;Pozalmuro
+5341;6;Pozanco
+5342;25;Pozo Alcón
+5343;21;Pozo de Almoguera
+5344;21;Pozo de Guadalajara
+5345;38;Pozo de Urama
+5346;4;Pozo-Lorente
+5347;18;Pozoamargo
+5348;51;Pozoantiguo
+5349;17;Pozoblanco
+5350;4;Pozohondo
+5351;46;Pozondón
+5352;18;Pozorrubielos de la Mancha
+5353;18;Pozorrubio de Santiago
+5354;41;Pozos de Hinojo
+5355;52;Pozuel de Ariza
+5356;46;Pozuel del Campo
+5357;18;Pozuelo (El)
+5358;31;Pozuelo de Alarcón
+5359;52;Pozuelo de Aragón
+5360;11;Pozuelo de Calatrava
+5361;51;Pozuelo de Tábara
+5362;12;Pozuelo de Zarzón
+5363;49;Pozuelo de la Orden
+5364;28;Pozuelo del Páramo
+5365;31;Pozuelo del Rey
+5366;4;Pozuelo
+5367;11;Pozuelos de Calatrava (Los)
+5368;24;Pozán de Vero
+5369;42;Pradales
+5370;26;Pradejón
+5371;45;Pradell de la Teixeta
+5372;45;Prades
+5373;52;Pradilla de Ebro
+5374;26;Pradillo
+5375;28;Prado de la Guzpeña
+5376;13;Prado del Rey
+5377;51;Prado
+5378;10;Pradoluengo
+5379;21;Prados Redondos
+5380;6;Pradosegar
+5381;45;Prat de Comte
+5382;9;Prat de Llobregat (El)
+5383;45;Pratdip
+5384;9;Prats de Lluçanès
+5385;9;Prats de Rei (Els)
+5386;29;Prats i Sansor
+5387;37;Pravia
+5388;29;Preixana
+5389;29;Preixens
+5390;9;Premià de Dalt
+5391;9;Premià de Mar
+5392;10;Presencio
+5393;19;Preses (Les)
+5394;28;Priaranza del Bierzo
+5395;17;Priego de Córdoba
+5396;18;Priego
+5397;28;Prioro
+5398;37;Proaza
+5399;18;Provencio (El)
+5400;29;Prullans
+5401;43;Pruna
+5402;10;Prádanos de Bureba
+5403;38;Prádanos de Ojeda
+5404;21;Prádena de Atienza
+5405;31;Prádena del Rincón
+5406;42;Prádena
+5407;26;Préjano
+5408;52;Puebla de Albortón
+5409;7;Puebla de Alcocer
+5410;52;Puebla de Alfindén
+5411;18;Puebla de Almenara
+5412;47;Puebla de Almoradiel (La)
+5413;15;Puebla de Arenoso
+5414;10;Puebla de Arganzón (La)
+5415;41;Puebla de Azaba
+5416;21;Puebla de Beleña
+5417;24;Puebla de Castro (La)
+5418;43;Puebla de Cazalla (La)
+5419;20;Puebla de Don Fadrique
+5420;18;Puebla de Don Francisco
+5421;11;Puebla de Don Rodrigo
+5422;23;Puebla de Guzmán
+5423;46;Puebla de Híjar (La)
+5424;28;Puebla de Lillo
+5425;47;Puebla de Montalbán (La)
+5426;7;Puebla de Obando
+5427;42;Puebla de Pedraza
+5428;41;Puebla de San Medel
+5429;48;Puebla de San Miguel
+5430;51;Puebla de Sanabria
+5431;7;Puebla de Sancho Pérez
+5432;38;Puebla de Valdavia (La)
+5433;21;Puebla de Valles
+5434;46;Puebla de Valverde (La)
+5435;41;Puebla de Yeltes
+5436;7;Puebla de la Calzada
+5437;7;Puebla de la Reina
+5438;31;Puebla de la Sierra
+5439;43;Puebla de los Infantes (La)
+5440;7;Puebla del Maestre
+5441;7;Puebla del Prior
+5442;11;Puebla del Príncipe
+5443;43;Puebla del Río (La)
+5444;18;Puebla del Salvador
+5445;47;Pueblanueva (La)
+5446;51;Pueblica de Valverde
+5447;52;Puendeluna
+5448;17;Puente Genil
+5449;14;Puente Viesgo
+5450;28;Puente de Domingo Flórez
+5451;25;Puente de Génave
+5452;24;Puente de Montañana
+5453;47;Puente del Arzobispo (El)
+5454;41;Puente del Congosto
+5455;24;Puente la Reina de Jaca
+5456;35;Puente la Reina/Gares
+5457;10;Puentedura
+5458;31;Puentes Viejas
+5459;25;Puerta de Segura (La)
+5460;41;Puertas
+5461;6;Puerto Castilla
+5462;34;Puerto Lumbreras
+5463;11;Puerto Lápice
+5464;23;Puerto Moral
+5465;13;Puerto Real
+5466;41;Puerto Seguro
+5467;13;Puerto Serrano
+5468;41;Puerto de Béjar
+5469;47;Puerto de San Vicente
+5470;12;Puerto de Santa Cruz
+5471;13;Puerto de Santa María (El)
+5472;40;Puerto de la Cruz
+5473;27;Puerto del Rosario
+5474;11;Puertollano
+5475;46;Puertomingalvo
+5476;24;Pueyo de Araguás (El)
+5477;24;Pueyo de Santa Cruz
+5478;35;Pueyo
+5479;9;Puig-reig
+5480;48;Puig
+5481;19;Puigcerdà
+5482;9;Puigdàlber
+5483;29;Puiggròs
+5484;45;Puigpelat
+5485;8;Puigpunyent
+5486;29;Puigverd d'Agramunt
+5487;29;Puigverd de Lleida
+5488;9;Pujalt
+5489;32;Pujerra
+5490;47;Pulgar
+5491;20;Pulianas
+5492;5;Pulpí
+5493;23;Punta Umbría
+5494;40;Puntagorda
+5495;40;Puntallana
+5496;36;Punxín
+5497;49;Puras
+5498;5;Purchena
+5499;52;Purujosa
+5500;20;Purullena
+5501;48;Puçol
+5502;24;Puértolas
+5503;27;Pájara
+5504;21;Pálmaces de Jadraque
+5505;30;Páramo (O)
+5506;38;Páramo de Boedo
+5507;28;Páramo del Sil
+5508;4;Pétrola
+5509;51;Pías
+5510;20;Píñar
+5511;20;Pórtugos
+5512;44;Póveda de Soria (La)
+5513;9;Quar (La)
+5514;48;Quart de Poblet
+5515;48;Quart de les Valls
+5516;19;Quart
+5517;48;Quartell
+5518;48;Quatretonda
+5519;2;Quatretondeta
+5520;26;Quel
+5521;10;Quemada
+5522;21;Quer
+5523;19;Queralbs
+5524;47;Quero
+5525;45;Querol
+5526;48;Quesa
+5527;25;Quesada
+5528;24;Quicena
+5529;31;Quijorna
+5530;44;Quintana Redonda
+5531;7;Quintana de la Serena
+5532;28;Quintana del Castillo
+5533;28;Quintana del Marco
+5534;10;Quintana del Pidio
+5535;38;Quintana del Puente
+5536;28;Quintana y Congosto
+5537;10;Quintanabureba
+5538;10;Quintanaortuño
+5539;10;Quintanapalla
+5540;47;Quintanar de la Orden
+5541;10;Quintanar de la Sierra
+5542;18;Quintanar del Rey
+5543;44;Quintanas de Gormaz
+5544;10;Quintanavides
+5545;10;Quintanaélez
+5546;10;Quintanilla San García
+5547;10;Quintanilla Vivar
+5548;49;Quintanilla de Arriba
+5549;38;Quintanilla de Onsoña
+5550;49;Quintanilla de Onésimo
+5551;49;Quintanilla de Trigueros
+5552;51;Quintanilla de Urz
+5553;10;Quintanilla de la Mata
+5554;10;Quintanilla del Coco
+5555;49;Quintanilla del Molar
+5556;51;Quintanilla del Monte
+5557;51;Quintanilla del Olmo
+5558;10;Quintanilla-Tordueles
+5559;10;Quintanillas (Las)
+5560;36;Quintela de Leirado
+5561;52;Quinto
+5562;30;Quiroga
+5563;51;Quiruelas de Vidriales
+5564;37;Quirós
+5565;47;Quismondo
+5566;44;Quiñonería
+5567;20;Quéntar
+5568;51;Rabanales
+5569;10;Rabanera del Pinar
+5570;26;Rabanera
+5571;10;Rabé de las Calzadas
+5572;19;Rabós
+5573;18;Rada de Haro
+5574;2;Rafal
+5575;48;Rafelbunyol
+5576;48;Rafelcofer
+5577;48;Rafelguaraf
+5578;36;Rairiz de Veiga
+5579;9;Rajadell
+5580;14;Ramales de la Victoria
+5581;17;Rambla (La)
+5582;49;Ramiro
+5583;36;Ramirás
+5584;42;Rapariegos
+5585;31;Rascafría
+5586;26;Rasillo de Cameros (El)
+5587;14;Rasines
+5588;45;Rasquera
+5589;6;Rasueros
+5590;48;Real de Gandía
+5591;48;Real de Montroi
+5592;47;Real de San Vicente (El)
+5593;43;Real de la Jara (El)
+5594;40;Realejos (Los)
+5595;12;Rebollar
+5596;44;Rebollar
+5597;10;Rebolledo de la Torre
+5598;42;Rebollo
+5599;21;Rebollosa de Jadraque
+5600;47;Recas
+5601;4;Recueja (La)
+5602;21;Recuenco (El)
+5603;44;Recuerda
+5604;26;Redal (El)
+5605;10;Redecilla del Camino
+5606;10;Redecilla del Campo
+5607;41;Redonda (La)
+5608;39;Redondela
+5609;2;Redován
+5610;31;Redueña
+5611;19;Regencós
+5612;37;Regueras (Las)
+5613;28;Regueras de Arriba
+5614;10;Regumiel de la Sierra
+5615;7;Reina
+5616;14;Reinosa
+5617;38;Reinoso de Cerrato
+5618;10;Reinoso
+5619;2;Relleu
+5620;9;Rellinars
+5621;44;Rello
+5622;52;Remolinos
+5623;42;Remondo
+5624;7;Rena
+5625;45;Renau
+5626;49;Renedo de Esgueva
+5627;38;Renedo de la Vega
+5628;21;Renera
+5629;44;Renieblas
+5630;22;Rentería
+5631;14;Reocín
+5632;51;Requejo
+5633;38;Requena de Campos
+5634;48;Requena
+5635;38;Respenda de la Peña
+5636;7;Retamal de Llerena
+5637;47;Retamoso
+5638;52;Retascón
+5639;21;Retiendas
+5640;44;Retortillo de Soria
+5641;41;Retortillo
+5642;11;Retuerta del Bullaque
+5643;10;Retuerta
+5644;45;Reus
+5645;51;Revellinos
+5646;38;Revenga de Campos
+5647;10;Revilla (La)
+5648;38;Revilla de Collazos
+5649;10;Revilla del Campo
+5650;10;Revilla-Vallegera
+5651;10;Revillarruz
+5652;28;Reyero
+5653;10;Rezmondo
+5654;44;Reznos
+5655;18;Reíllo
+5656;42;Riaguas de San Bartolomé
+5657;29;Rialp
+5658;1;Rianxo
+5659;42;Riaza
+5660;28;Riaño
+5661;45;Riba (La)
+5662;44;Riba de Escalote (La)
+5663;21;Riba de Saelices
+5664;45;Riba-roja d'Ebre
+5665;48;Riba-roja de Túria
+5666;36;Ribadavia
+5667;37;Ribadedeva
+5668;30;Ribadeo
+5669;37;Ribadesella
+5670;39;Ribadumia
+5671;35;Ribaforada
+5672;26;Ribafrecha
+5673;14;Ribamontán al Mar
+5674;14;Ribamontán al Monte
+5675;38;Ribas de Campos
+5676;30;Ribas de Sil
+5677;31;Ribatejada
+5678;30;Ribeira de Piquín
+5679;1;Ribeira
+5680;3;Ribera Alta
+5681;3;Ribera Baja
+5682;29;Ribera d'Ondara
+5683;29;Ribera d'Urgellet
+5684;37;Ribera de Arriba
+5685;7;Ribera del Fresno
+5686;38;Riberos de la Cueza
+5687;19;Ribes de Freser
+5688;15;Ribesalbes
+5689;42;Ribota
+5690;52;Ricla
+5691;34;Ricote
+5692;28;Riego de la Vega
+5693;28;Riello
+5694;19;Riells i Viabrea
+5695;47;Rielves
+5696;45;Riera de Gaià (La)
+5697;21;Rillo de Gallo
+5698;46;Rillo
+5699;43;Rinconada (La)
+5700;41;Rinconada de la Sierra (La)
+5701;26;Rincón de Soto
+5702;32;Rincón de la Victoria
+5703;29;Riner
+5704;6;Riocabado
+5705;10;Riocavado de la Sierra
+5706;46;Riodeva
+5707;51;Riofrío de Aliste
+5708;42;Riofrío de Riaza
+5709;21;Riofrío del Llano
+5710;6;Riofrío
+5711;32;Riogordo
+5712;5;Rioja
+5713;48;Riola
+5714;12;Riolobos
+5715;14;Rionansa
+5716;51;Rionegro del Puente
+5717;37;Riosa
+5718;44;Rioseco de Soria
+5719;28;Rioseco de Tapia
+5720;30;Riotorto
+5721;14;Riotuerto
+5722;19;Ripoll
+5723;9;Ripollet
+5724;7;Risco
+5725;19;Riudarenes
+5726;19;Riudaura
+5727;45;Riudecanyes
+5728;45;Riudecols
+5729;19;Riudellots de la Selva
+5730;45;Riudoms
+5731;19;Riumors
+5732;31;Rivas-Vaciamadrid
+5733;6;Rivilla de Barajas
+5734;4;Riópar
+5735;36;Riós
+5736;10;Roa
+5737;49;Roales de Campos
+5738;51;Roales
+5739;28;Robla (La)
+5740;49;Robladillo
+5741;51;Robleda-Cervantes
+5742;41;Robleda
+5743;12;Robledillo de Gata
+5744;21;Robledillo de Mohernando
+5745;12;Robledillo de Trujillo
+5746;31;Robledillo de la Jara
+5747;12;Robledillo de la Vera
+5748;11;Robledo (El)
+5749;31;Robledo de Chavela
+5750;21;Robledo de Corpes
+5751;47;Robledo del Mazo
+5752;4;Robledo
+5753;12;Robledollano
+5754;41;Robliza de Cojos
+5755;31;Robregordo
+5756;26;Robres del Castillo
+5757;24;Robres
+5758;7;Roca de la Sierra (La)
+5759;9;Roca del Vallès (La)
+5760;45;Rocafort de Queralt
+5761;48;Rocafort
+5762;23;Rociana del Condado
+5763;4;Roda (La)
+5764;43;Roda de Andalucía (La)
+5765;45;Roda de Barà
+5766;42;Roda de Eresma
+5767;9;Roda de Ter
+5768;39;Rodeiro
+5769;26;Rodezno
+5770;45;Rodonyà
+5771;51;Roelos
+5772;1;Rois
+5773;2;Rojales
+5774;10;Rojas
+5775;44;Rollamienta
+5776;41;Rollán
+5777;2;Romana (la)
+5778;12;Romangordo
+5779;21;Romanillos de Atienza
+5780;21;Romanones
+5781;52;Romanos
+5782;35;Romanzado
+5783;47;Romeral (El)
+5784;35;Roncal
+5785;32;Ronda
+5786;43;Ronquillo (El)
+5787;28;Roperuelos del Páramo
+5788;5;Roquetas de Mar
+5789;45;Roquetes
+5790;39;Rosal (O)
+5791;23;Rosal de la Frontera
+5792;12;Rosalejo
+5793;40;Rosario (El)
+5794;19;Roses
+5795;51;Rosinos de la Requejada
+5796;15;Rossell
+5797;29;Rosselló
+5798;13;Rota
+5799;48;Rotglà i Corbera
+5800;49;Roturas
+5801;45;Rourell (El)
+5802;44;Royo (El)
+5803;10;Royuela de Río Franco
+5804;46;Royuela
+5805;18;Rozalén del Monte
+5806;31;Rozas de Madrid (Las)
+5807;31;Rozas de Puerto Real
+5808;14;Rozas de Valdearrollo (Las)
+5809;12;Ruanes
+5810;10;Rubena
+5811;46;Rubiales
+5812;46;Rubielos de Mora
+5813;46;Rubielos de la Cérida
+5814;43;Rubio (El)
+5815;20;Rubite
+5816;36;Rubiá
+5817;9;Rubió
+5818;10;Rublacedo de Abajo
+5819;49;Rubí de Bracamonte
+5820;9;Rubí
+5821;10;Rucandio
+5822;52;Rueda de Jalón
+5823;21;Rueda de la Sierra
+5824;49;Rueda
+5825;14;Ruente
+5826;52;Ruesca
+5827;14;Ruesga
+5828;48;Rugat
+5829;11;Ruidera
+5830;14;Ruiloba
+5831;9;Rupit i Pruit
+5832;19;Rupià
+5833;25;Rus
+5834;17;Rute
+5835;30;Rábade
+5836;51;Rábano de Aliste
+5837;49;Rábano
+5838;44;Rábanos (Los)
+5839;10;Rábanos
+5840;46;Ráfales
+5841;2;Ráfol de Almunia
+5842;48;Ráfol de Salem
+5843;41;Rágama
+5844;5;Rágol
+5845;36;Río
+5846;46;Ródenas
+5847;48;Rótova
+5848;36;Rúa (A)
+5849;9;Sabadell
+5850;28;Sabero
+5851;25;Sabiote
+5852;52;Sabiñán
+5853;24;Sabiñánigo
+5854;15;Sacañet
+5855;21;Sacecorbo
+5856;18;Saceda-Trasierra
+5857;21;Sacedón
+5858;11;Saceruela
+5859;42;Sacramenia
+5860;1;Sada
+5861;35;Sada
+5862;49;Saelices de Mayorga
+5863;21;Saelices de la Sal
+5864;41;Saelices el Chico
+5865;18;Saelices
+5866;2;Sagra
+5867;41;Sagrada (La)
+5868;48;Sagunt
+5869;9;Sagàs
+5870;28;Sahagún
+5871;41;Sahugo (El)
+5872;24;Sahún
+5873;26;Sajazarra
+5874;41;Salamanca
+5875;20;Salar
+5876;32;Salares
+5877;24;Salas Altas
+5878;24;Salas Bajas
+5879;10;Salas de Bureba
+5880;10;Salas de los Infantes
+5881;37;Salas
+5882;51;Salce
+5883;39;Salceda de Caselas
+5884;46;Salcedillo
+5885;10;Saldaña de Burgos
+5886;38;Saldaña
+5887;41;Saldeana
+5888;9;Saldes
+5889;44;Salduero
+5890;35;Saldías
+5891;46;Saldón
+5892;48;Salem
+5893;19;Sales de Llierca
+5894;52;Salillas de Jalón
+5895;24;Salillas
+5896;3;Salinas de Añana
+5897;35;Salinas de Oro
+5898;38;Salinas de Pisuerga
+5899;18;Salinas del Manzano
+5900;2;Salinas
+5901;8;Salines (Ses)
+5902;10;Salinillas de Bureba
+5903;24;Sallent de Gállego
+5904;9;Sallent
+5905;18;Salmeroncillos
+5906;21;Salmerón
+5907;41;Salmoral
+5908;6;Salobral
+5909;4;Salobre
+5910;20;Salobreña
+5911;45;Salomó
+5912;12;Salorino
+5913;45;Salou
+5914;19;Salt
+5915;43;Salteras
+5916;18;Salvacañete
+5917;6;Salvadiós
+5918;49;Salvador de Zapardiel
+5919;7;Salvaleón
+5920;39;Salvaterra de Miño
+5921;52;Salvatierra de Esca
+5922;12;Salvatierra de Santiago
+5923;41;Salvatierra de Tormes
+5924;7;Salvatierra de los Barros
+5925;3;Salvatierra
+5926;15;Salzedella (la)
+5927;29;Salàs de Pallars
+5928;3;Samaniego
+5929;42;Samboal
+5930;51;Samir de los Caños
+5931;30;Samos
+5932;46;Samper de Calanda
+5933;52;Samper del Salz
+5934;10;San Adrián de Juarros
+5935;28;San Adrián del Valle
+5936;35;San Adrián
+5937;31;San Agustín de Guadalix
+5938;51;San Agustín del Pozo
+5939;46;San Agustín
+5940;36;San Amaro
+5941;21;San Andrés del Congosto
+5942;28;San Andrés del Rabanedo
+5943;21;San Andrés del Rey
+5944;40;San Andrés y Sauces
+5945;26;San Asensio
+5946;6;San Bartolomé de Béjar
+5947;6;San Bartolomé de Corneja
+5948;6;San Bartolomé de Pinares
+5949;27;San Bartolomé de Tirajana
+5950;23;San Bartolomé de la Torre
+5951;47;San Bartolomé de las Abiertas
+5952;27;San Bartolomé
+5953;11;San Carlos del Valle
+5954;38;San Cebrián de Campos
+5955;51;San Cebrián de Castro
+5956;49;San Cebrián de Mazote
+5957;38;San Cebrián de Mudá
+5958;36;San Cibrao das Viñas
+5959;18;San Clemente
+5960;36;San Cristovo de Cea
+5961;38;San Cristóbal de Boedo
+5962;42;San Cristóbal de Cuéllar
+5963;51;San Cristóbal de Entreviñas
+5964;41;San Cristóbal de la Cuesta
+5965;28;San Cristóbal de la Polantera
+5966;42;San Cristóbal de la Vega
+5967;28;San Emiliano
+5968;44;San Esteban de Gormaz
+5969;24;San Esteban de Litera
+5970;28;San Esteban de Nogales
+5971;6;San Esteban de Zapardiel
+5972;41;San Esteban de la Sierra
+5973;6;San Esteban de los Patos
+5974;51;San Esteban del Molar
+5975;6;San Esteban del Valle
+5976;14;San Felices de Buelna
+5977;41;San Felices de los Gallegos
+5978;44;San Felices
+5979;31;San Fernando de Henares
+5980;13;San Fernando
+5981;2;San Fulgencio
+5982;6;San García de Ingelmos
+5983;42;San Ildefonso
+5984;2;San Isidro
+5985;34;San Javier
+5986;43;San Juan de Aznalfarache
+5987;48;San Juan de Enova
+5988;6;San Juan de Gredos
+5989;15;San Juan de Moró
+5990;24;San Juan de Plan
+5991;6;San Juan de la Encinilla
+5992;6;San Juan de la Nava
+5993;40;San Juan de la Rambla
+5994;6;San Juan del Molinillo
+5995;10;San Juan del Monte
+5996;6;San Juan del Olmo
+5997;23;San Juan del Puerto
+5998;28;San Justo de la Vega
+5999;51;San Justo
+6000;44;San Leonardo de Yagüe
+6001;49;San Llorente
+6002;11;San Lorenzo de Calatrava
+6003;31;San Lorenzo de El Escorial
+6004;6;San Lorenzo de Tormes
+6005;18;San Lorenzo de la Parrilla
+6006;10;San Mamés de Burgos
+6007;38;San Mamés de Campos
+6008;18;San Martín de Boniches
+6009;47;San Martín de Montalbán
+6010;37;San Martín de Oscos
+6011;47;San Martín de Pusa
+6012;10;San Martín de Rubiales
+6013;12;San Martín de Trevejo
+6014;35;San Martín de Unx
+6015;31;San Martín de Valdeiglesias
+6016;51;San Martín de Valderaduey
+6017;49;San Martín de Valvení
+6018;6;San Martín de la Vega del Alberche
+6019;31;San Martín de la Vega
+6020;52;San Martín de la Virgen de Moncayo
+6021;41;San Martín del Castañar
+6022;6;San Martín del Pimpollar
+6023;37;San Martín del Rey Aurelio
+6024;46;San Martín del Río
+6025;42;San Martín y Mudrián
+6026;52;San Mateo de Gállego
+6027;14;San Miguel de Aguayo
+6028;42;San Miguel de Bernuy
+6029;6;San Miguel de Corneja
+6030;2;San Miguel de Salinas
+6031;6;San Miguel de Serrezuela
+6032;41;San Miguel de Valero
+6033;51;San Miguel de la Ribera
+6034;49;San Miguel del Arroyo
+6035;24;San Miguel del Cinca
+6036;49;San Miguel del Pino
+6037;41;San Miguel del Robledo
+6038;51;San Miguel del Valle
+6039;40;San Miguel
+6040;10;San Millán de Lara
+6041;26;San Millán de Yécora
+6042;26;San Millán de la Cogolla
+6043;28;San Millán de los Caballeros
+6044;3;San Millán
+6045;41;San Morales
+6046;41;San Muñoz
+6047;27;San Nicolás de Tolentino
+6048;43;San Nicolás del Puerto
+6049;49;San Pablo de la Moraleja
+6050;47;San Pablo de los Montes
+6051;6;San Pascual
+6052;28;San Pedro Bercianos
+6053;44;San Pedro Manrique
+6054;18;San Pedro Palmiches
+6055;51;San Pedro de Ceque
+6056;42;San Pedro de Gaíllos
+6057;49;San Pedro de Latarce
+6058;7;San Pedro de Mérida
+6059;41;San Pedro de Rozados
+6060;51;San Pedro de la Nave-Almendra
+6061;6;San Pedro del Arroyo
+6062;34;San Pedro del Pinatar
+6063;14;San Pedro del Romeral
+6064;41;San Pedro del Valle
+6065;4;San Pedro
+6066;41;San Pelayo de Guareña
+6067;49;San Pelayo
+6068;26;San Román de Cameros
+6069;49;San Román de Hornija
+6070;38;San Román de la Cuba
+6071;47;San Román de los Montes
+6072;14;San Roque de Riomiera
+6073;13;San Roque
+6074;1;San Sadurniño
+6075;49;San Salvador
+6076;40;San Sebastián de la Gomera
+6077;17;San Sebastián de los Ballesteros
+6078;31;San Sebastián de los Reyes
+6079;23;San Silvestre de Guzmán
+6080;37;San Tirso de Abres
+6081;26;San Torcuato
+6082;7;San Vicente de Alcántara
+6083;6;San Vicente de Arévalo
+6084;14;San Vicente de la Barquera
+6085;51;San Vicente de la Cabeza
+6086;26;San Vicente de la Sonsierra
+6087;49;San Vicente del Palacio
+6088;10;San Vicente del Valle
+6089;51;San Vitero
+6090;29;Sanaüja
+6091;28;Sancedo
+6092;6;Sanchidrián
+6093;42;Sanchonuño
+6094;6;Sanchorreja
+6095;41;Sanchotello
+6096;41;Sanchón de la Ribera
+6097;41;Sanchón de la Sagrada
+6098;41;Sancti-Spíritus
+6099;7;Sancti-Spíritus
+6100;36;Sandiás
+6101;41;Sando
+6102;2;Sanet i Negrals
+6103;42;Sangarcía
+6104;24;Sangarrén
+6105;35;Sangüesa
+6106;13;Sanlúcar de Barrameda
+6107;23;Sanlúcar de Guadiana
+6108;43;Sanlúcar la Mayor
+6109;35;Sansol
+6110;9;Sant Adrià de Besòs
+6111;9;Sant Agustí de Lluçanès
+6112;19;Sant Andreu Salou
+6113;9;Sant Andreu de Llavaneres
+6114;9;Sant Andreu de la Barca
+6115;19;Sant Aniol de Finestres
+6116;8;Sant Antoni de Portmany
+6117;9;Sant Antoni de Vilamajor
+6118;9;Sant Bartomeu del Grau
+6119;9;Sant Boi de Llobregat
+6120;9;Sant Boi de Lluçanès
+6121;45;Sant Carles de la Ràpita
+6122;9;Sant Cebrià de Vallalta
+6123;9;Sant Celoni
+6124;19;Sant Climent Sescebes
+6125;9;Sant Climent de Llobregat
+6126;9;Sant Cugat Sesgarrigues
+6127;9;Sant Cugat del Vallès
+6128;9;Sant Esteve Sesrovires
+6129;9;Sant Esteve de Palautordera
+6130;29;Sant Esteve de la Sarga
+6131;9;Sant Feliu Sasserra
+6132;19;Sant Feliu de Buixalleu
+6133;9;Sant Feliu de Codines
+6134;19;Sant Feliu de Guíxols
+6135;9;Sant Feliu de Llobregat
+6136;19;Sant Feliu de Pallerols
+6137;19;Sant Ferriol
+6138;9;Sant Fost de Campsentelles
+6139;9;Sant Fruitós de Bages
+6140;19;Sant Gregori
+6141;29;Sant Guim de Freixenet
+6142;29;Sant Guim de la Plana
+6143;19;Sant Hilari Sacalm
+6144;9;Sant Hipòlit de Voltregà
+6145;9;Sant Iscle de Vallalta
+6146;45;Sant Jaume d'Enveja
+6147;9;Sant Jaume de Frontanyà
+6148;19;Sant Jaume de Llierca
+6149;45;Sant Jaume dels Domenys
+6150;9;Sant Joan Despí
+6151;2;Sant Joan d' Alacant
+6152;8;Sant Joan de Labritja
+6153;19;Sant Joan de Mollet
+6154;9;Sant Joan de Vilatorrada
+6155;19;Sant Joan de les Abadesses
+6156;19;Sant Joan les Fonts
+6157;8;Sant Joan
+6158;19;Sant Jordi Desvalls
+6159;15;Sant Jordi
+6160;8;Sant Josep
+6161;9;Sant Julià de Cerdanyola
+6162;19;Sant Julià de Ramis
+6163;9;Sant Julià de Vilatorta
+6164;19;Sant Julià del Llor i Bonmatí
+6165;9;Sant Just Desvern
+6166;9;Sant Llorenç Savall
+6167;9;Sant Llorenç d'Hortons
+6168;29;Sant Llorenç de Morunys
+6169;19;Sant Llorenç de la Muga
+6170;8;Sant Llorenç des Cardassar
+6171;8;Sant Lluís
+6172;9;Sant Martí Sarroca
+6173;9;Sant Martí Sesgueioles
+6174;19;Sant Martí Vell
+6175;9;Sant Martí d'Albars
+6176;9;Sant Martí de Centelles
+6177;19;Sant Martí de Llémena
+6178;29;Sant Martí de Riucorb
+6179;9;Sant Martí de Tous
+6180;9;Sant Mateu de Bages
+6181;15;Sant Mateu
+6182;19;Sant Miquel de Campmajor
+6183;19;Sant Miquel de Fluvià
+6184;19;Sant Mori
+6185;19;Sant Pau de Segúries
+6186;19;Sant Pere Pescador
+6187;9;Sant Pere Sallavinera
+6188;9;Sant Pere de Ribes
+6189;9;Sant Pere de Riudebitlles
+6190;9;Sant Pere de Torelló
+6191;9;Sant Pere de Vilamajor
+6192;9;Sant Pol de Mar
+6193;9;Sant Quintí de Mediona
+6194;9;Sant Quirze Safaja
+6195;9;Sant Quirze de Besora
+6196;9;Sant Quirze del Vallès
+6197;15;Sant Rafael del Riu
+6198;29;Sant Ramon
+6199;9;Sant Sadurní d'Anoia
+6200;9;Sant Sadurní d'Osormort
+6201;9;Sant Salvador de Guardiola
+6202;2;Sant Vicent del Raspeig
+6203;9;Sant Vicenç de Castellet
+6204;9;Sant Vicenç de Montalt
+6205;9;Sant Vicenç de Torelló
+6206;9;Sant Vicenç dels Horts
+6207;7;Santa Amalia
+6208;47;Santa Ana de Pusa
+6209;23;Santa Ana la Real
+6210;12;Santa Ana
+6211;27;Santa Brígida
+6212;45;Santa Bàrbara
+6213;23;Santa Bárbara de Casa
+6214;38;Santa Cecilia del Alcor
+6215;10;Santa Cecilia
+6216;9;Santa Cecília de Voltregà
+6217;24;Santa Cilia de Jaca
+6218;51;Santa Clara de Avedillo
+6219;9;Santa Coloma de Cervelló
+6220;19;Santa Coloma de Farners
+6221;9;Santa Coloma de Gramenet
+6222;45;Santa Coloma de Queralt
+6223;26;Santa Coloma
+6224;28;Santa Colomba de Curueño
+6225;28;Santa Colomba de Somoza
+6226;51;Santa Colomba de las Monjas
+6227;1;Santa Comba
+6228;19;Santa Cristina d'Aro
+6229;28;Santa Cristina de Valmadrigal
+6230;51;Santa Cristina de la Polvorosa
+6231;51;Santa Croya de Tera
+6232;14;Santa Cruz de Bezana
+6233;38;Santa Cruz de Boedo
+6234;52;Santa Cruz de Grío
+6235;5;Santa Cruz de Marchena
+6236;52;Santa Cruz de Moncayo
+6237;18;Santa Cruz de Moya
+6238;11;Santa Cruz de Mudela
+6239;46;Santa Cruz de Nogueras
+6240;12;Santa Cruz de Paniagua
+6241;6;Santa Cruz de Pinares
+6242;40;Santa Cruz de Tenerife
+6243;44;Santa Cruz de Yanguas
+6244;40;Santa Cruz de la Palma
+6245;10;Santa Cruz de la Salceda
+6246;24;Santa Cruz de la Serós
+6247;12;Santa Cruz de la Sierra
+6248;47;Santa Cruz de la Zarza
+6249;11;Santa Cruz de los Cáñamos
+6250;20;Santa Cruz del Comercio
+6251;47;Santa Cruz del Retamar
+6252;10;Santa Cruz del Valle Urbión
+6253;6;Santa Cruz del Valle
+6254;28;Santa Elena de Jamuz
+6255;25;Santa Elena
+6256;26;Santa Engracia del Jubera
+6257;49;Santa Eufemia del Arroyo
+6258;51;Santa Eufemia del Barco
+6259;17;Santa Eufemia
+6260;9;Santa Eugènia de Berga
+6261;8;Santa Eugènia
+6262;26;Santa Eulalia Bajera
+6263;52;Santa Eulalia de Gállego
+6264;37;Santa Eulalia de Oscos
+6265;46;Santa Eulalia
+6266;8;Santa Eulalia
+6267;9;Santa Eulàlia de Riuprimer
+6268;9;Santa Eulàlia de Ronçana
+6269;5;Santa Fe de Mondújar
+6270;9;Santa Fe del Penedès
+6271;20;Santa Fe
+6272;10;Santa Gadea del Cid
+6273;10;Santa Inés
+6274;19;Santa Llogaia d'Alguema
+6275;27;Santa Lucía
+6276;15;Santa Magdalena de Polpis
+6277;8;Santa Margalida
+6278;9;Santa Margarida de Montbui
+6279;9;Santa Margarida i els Monjos
+6280;9;Santa Maria d'Oló
+6281;9;Santa Maria de Besora
+6282;9;Santa Maria de Corcó
+6283;9;Santa Maria de Martorelles
+6284;9;Santa Maria de Merlès
+6285;9;Santa Maria de Miralles
+6286;9;Santa Maria de Palautordera
+6287;28;Santa Marina del Rey
+6288;12;Santa Marta de Magasca
+6289;41;Santa Marta de Tormes
+6290;42;Santa Marta del Cerro
+6291;7;Santa Marta
+6292;10;Santa María Rivarredonda
+6293;14;Santa María de Cayón
+6294;24;Santa María de Dulcis
+6295;27;Santa María de Guía de Gran Canaria
+6296;44;Santa María de Huerta
+6297;28;Santa María de Ordás
+6298;41;Santa María de Sando
+6299;51;Santa María de Valverde
+6300;31;Santa María de la Alameda
+6301;28;Santa María de la Isla
+6302;51;Santa María de la Vega
+6303;44;Santa María de las Hoyas
+6304;6;Santa María de los Caballeros
+6305;18;Santa María de los Llanos
+6306;6;Santa María del Arroyo
+6307;6;Santa María del Berrocal
+6308;18;Santa María del Campo Rus
+6309;10;Santa María del Campo
+6310;8;Santa María del Camí
+6311;6;Santa María del Cubillo
+6312;10;Santa María del Invierno
+6313;10;Santa María del Mercadillo
+6314;28;Santa María del Monte de Cea
+6315;28;Santa María del Páramo
+6316;6;Santa María del Tiétar
+6317;18;Santa María del Val
+6318;42;Santa María la Real de Nieva
+6319;10;Santa Olalla de Bureba
+6320;23;Santa Olalla del Cala
+6321;47;Santa Olalla
+6322;45;Santa Oliva
+6323;19;Santa Pau
+6324;45;Santa Perpètua de Gaià
+6325;9;Santa Perpètua de Mogoda
+6326;2;Santa Pola
+6327;9;Santa Susanna
+6328;40;Santa Ursula
+6329;35;Santacara
+6330;17;Santaella
+6331;24;Santaliestra y San Quílez
+6332;14;Santander
+6333;8;Santanyí
+6334;28;Santas Martas
+6335;52;Santed
+6336;49;Santervás de Campos
+6337;38;Santervás de la Vega
+6338;28;Santiago Millas
+6339;12;Santiago de Alcántara
+6340;25;Santiago de Calatrava
+6341;1;Santiago de Compostela
+6342;6;Santiago de Tormes
+6343;41;Santiago de la Puebla
+6344;12;Santiago del Campo
+6345;6;Santiago del Collado
+6346;40;Santiago del Teide
+6347;25;Santiago-Pontones
+6348;41;Santibáñez de Béjar
+6349;38;Santibáñez de Ecla
+6350;10;Santibáñez de Esgueva
+6351;51;Santibáñez de Tera
+6352;49;Santibáñez de Valcorba
+6353;51;Santibáñez de Vidriales
+6354;38;Santibáñez de la Peña
+6355;41;Santibáñez de la Sierra
+6356;10;Santibáñez del Val
+6357;12;Santibáñez el Alto
+6358;12;Santibáñez el Bajo
+6359;14;Santillana del Mar
+6360;43;Santiponce
+6361;1;Santiso
+6362;25;Santisteban del Puerto
+6363;14;Santiurde de Reinosa
+6364;14;Santiurde de Toranzo
+6365;42;Santiuste de Pedraza
+6366;42;Santiuste de San Juan Bautista
+6367;21;Santiuste
+6368;41;Santiz
+6369;37;Santo Adriano
+6370;42;Santo Domingo de Pirón
+6371;10;Santo Domingo de Silos
+6372;26;Santo Domingo de la Calzada
+6373;6;Santo Domingo de las Posadas
+6374;47;Santo Domingo-Caudilla
+6375;6;Santo Tomé de Zabarcos
+6376;42;Santo Tomé del Puerto
+6377;25;Santo Tomé
+6378;34;Santomera
+6379;31;Santorcaz
+6380;41;Santos (Los)
+6381;7;Santos de Maimona (Los)
+6382;31;Santos de la Humosa (Los)
+6383;49;Santovenia de Pisuerga
+6384;28;Santovenia de la Valdoncina
+6385;51;Santovenia
+6386;38;Santoyo
+6387;14;Santoña
+6388;9;Santpedor
+6389;26;Santurde de Rioja
+6390;26;Santurdejo
+6391;50;Santurtzi
+6392;39;Sanxenxo
+6393;51;Sanzoles
+6394;49;Sardón de Duero
+6395;41;Sardón de los Frailes
+6396;10;Sargentes de la Lora
+6397;37;Sariego
+6398;28;Sariegos
+6399;24;Sariñena
+6400;14;Saro
+6401;10;Sarracín
+6402;45;Sarral
+6403;36;Sarreaus
+6404;30;Sarria
+6405;19;Sarrià de Ter
+6406;35;Sarriés
+6407;46;Sarrión
+6408;29;Sarroca de Bellera
+6409;29;Sarroca de Lleida
+6410;35;Sartaguda
+6411;47;Sartajada
+6412;10;Sasamón
+6413;12;Saucedilla
+6414;43;Saucejo (El)
+6415;41;Saucelle
+6416;42;Sauquillo de Cabezas
+6417;19;Saus
+6418;40;Sauzal (El)
+6419;45;Savallà del Comtat
+6420;30;Saviñao (O)
+6421;2;Sax
+6422;32;Sayalonga
+6423;21;Sayatón
+6424;21;Saúca
+6425;42;Sebúlcor
+6426;49;Seca (La)
+6427;24;Secastilla
+6428;45;Secuita (La)
+6429;48;Sedaví
+6430;32;Sedella
+6431;52;Sediles
+6432;48;Segart
+6433;15;Segorbe
+6434;42;Segovia
+6435;7;Segura de León
+6436;12;Segura de Toro
+6437;25;Segura de la Sierra
+6438;46;Segura de los Baños
+6439;22;Segura
+6440;47;Segurilla
+6441;24;Seira
+6442;21;Selas
+6443;14;Selaya
+6444;2;Sella
+6445;48;Sellent
+6446;19;Selva de Mar (La)
+6447;45;Selva del Camp (La)
+6448;8;Selva
+6449;21;Semillas
+6450;48;Sempere
+6451;28;Sena de Luna
+6452;24;Sena
+6453;45;Senan
+6454;8;Sencelles
+6455;2;Senija
+6456;46;Seno
+6457;29;Senterada
+6458;29;Sentiu de Sió (La)
+6459;9;Sentmenat
+6460;48;Senyera
+6461;24;Senés de Alcubierre
+6462;5;Senés
+6463;41;Sepulcro Hilario
+6464;42;Sepúlveda
+6465;42;Sequera de Fresno
+6466;10;Sequera de Haza (La)
+6467;41;Sequeros
+6468;19;Serinyà
+6469;38;Serna (La)
+6470;31;Serna del Monte (La)
+6471;15;Serra d en Garceran (la)
+6472;19;Serra de Daró
+6473;48;Serra
+6474;6;Serrada (La)
+6475;49;Serrada
+6476;41;Serradilla del Arroyo
+6477;41;Serradilla del Llano
+6478;12;Serradilla
+6479;31;Serranillos del Valle
+6480;6;Serranillos
+6481;15;Serratella (la)
+6482;12;Serrejón
+6483;29;Seròs
+6484;44;Serón de Nágima
+6485;5;Serón
+6486;24;Sesa
+6487;47;Seseña
+6488;35;Sesma
+6489;50;Sestao
+6490;52;Sestrica
+6491;24;Sesué
+6492;19;Setcases
+6493;13;Setenil de las Bodegas
+6494;21;Setiles
+6495;29;Seu d'Urgell (La)
+6496;9;Seva
+6497;31;Sevilla la Nueva
+6498;43;Sevilla
+6499;47;Sevilleja de la Jara
+6500;29;Sidamon
+6501;21;Sienes
+6502;37;Siero
+6503;41;Sierpe (La)
+6504;12;Sierra de Fuentes
+6505;52;Sierra de Luna
+6506;32;Sierra de Yeguas
+6507;5;Sierro
+6508;48;Siete Aguas
+6509;49;Siete Iglesias de Trabancos
+6510;41;Sieteiglesias de Tormes
+6511;6;Sigeres
+6512;21;Sigüenza
+6513;52;Sigüés
+6514;25;Siles
+6515;48;Silla
+6516;39;Silleda
+6517;40;Silos (Los)
+6518;19;Sils
+6519;49;Simancas
+6520;48;Simat de la Valldigna
+6521;48;Sinarcas
+6522;8;Sineu
+6523;46;Singra
+6524;6;Sinlabajos
+6525;7;Siruela
+6526;52;Sisamón
+6527;18;Sisante
+6528;9;Sitges
+6529;19;Siurana
+6530;24;Siétamo
+6531;14;Soba
+6532;30;Sober
+6533;52;Sobradiel
+6534;41;Sobradillo
+6535;1;Sobrado
+6536;28;Sobrado
+6537;9;Sobremunt
+6538;37;Sobrescobio
+6539;4;Socovos
+6540;11;Socuéllamos
+6541;26;Sojuela
+6542;11;Solana (La)
+6543;6;Solana de Avila
+6544;6;Solana de Rioalmar
+6545;7;Solana de los Barros
+6546;11;Solana del Pino
+6547;21;Solanillos del Extremo
+6548;10;Solarana
+6549;18;Solera de Gabaldón
+6550;29;Soleràs (El)
+6551;44;Soliedra
+6552;45;Solivella
+6553;48;Sollana
+6554;6;Solosancho
+6555;29;Solsona
+6556;14;Solórzano
+6557;37;Somiedo
+6558;21;Somolinos
+6559;5;Somontín
+6560;31;Somosierra
+6561;1;Somozas
+6562;8;Son Servera
+6563;50;Sondika
+6564;15;Soneja
+6565;47;Sonseca
+6566;24;Sopeira
+6567;50;Sopelana
+6568;20;Soportújar
+6569;50;Sopuerta
+6570;9;Sora
+6571;22;Soraluze/Placencia de las Armas
+6572;5;Sorbas
+6573;10;Sordillos
+6574;44;Soria
+6575;29;Soriguera
+6576;25;Sorihuela del Guadalimar
+6577;41;Sorihuela
+6578;15;Sorita 
+6579;35;Sorlada
+6580;29;Sort
+6581;20;Sorvilán
+6582;26;Sorzano
+6583;52;Sos del Rey Católico
+6584;29;Soses
+6585;48;Sot de Chera
+6586;15;Sot de Ferrer
+6587;6;Sotalvo
+6588;21;Sotillo (El)
+6589;6;Sotillo de la Adrada
+6590;10;Sotillo de la Ribera
+6591;47;Sotillo de las Palomas
+6592;44;Sotillo del Rincón
+6593;42;Sotillo
+6594;38;Soto de Cerrato
+6595;28;Soto de la Vega
+6596;37;Soto del Barco
+6597;31;Soto del Real
+6598;26;Soto en Cameros
+6599;28;Soto y Amío
+6600;38;Sotobañado y Priorato
+6601;21;Sotodosos
+6602;24;Sotonera (La)
+6603;18;Sotorribas
+6604;42;Sotosalbos
+6605;41;Sotoserrano
+6606;10;Sotragero
+6607;10;Sotresgudo
+6608;26;Sotés
+6609;39;Soutomaior
+6610;14;Suances
+6611;9;Subirats
+6612;29;Sudanell
+6613;48;Sueca
+6614;44;Suellacabras
+6615;15;Suera
+6616;5;Suflí
+6617;50;Sukarrieta
+6618;48;Sumacàrcer
+6619;35;Sunbilla
+6620;29;Sunyer
+6621;10;Susinos del Páramo
+6622;19;Susqueda
+6623;52;Sádaba
+6624;52;Sástago
+6625;45;Sénia (La)
+6626;8;Sóller
+6627;9;Súria
+6628;38;Tabanera de Cerrato
+6629;38;Tabanera de Valdavia
+6630;42;Tabanera la Luenga
+6631;41;Tabera de Abajo
+6632;5;Tabernas
+6633;5;Taberno
+6634;30;Taboada
+6635;36;Taboadela
+6636;52;Tabuenca
+6637;40;Tacoronte
+6638;35;Tafalla
+6639;9;Tagamanent
+6640;20;Taha (La)
+6641;5;Tahal
+6642;44;Tajahuerce
+6643;44;Tajueco
+6644;41;Tala (La)
+6645;31;Talamanca de Jarama
+6646;9;Talamanca
+6647;52;Talamantes
+6648;29;Talarn
+6649;7;Talarrubias
+6650;47;Talavera de la Reina
+6651;7;Talavera la Real
+6652;29;Talavera
+6653;12;Talaveruela de la Vera
+6654;12;Talaván
+6655;12;Talayuela
+6656;18;Talayuelas
+6657;15;Tales
+6658;19;Tallada d'Empordà (La)
+6659;44;Talveila
+6660;21;Tamajón
+6661;41;Tamames
+6662;24;Tamarite de Litera
+6663;49;Tamariz de Campos
+6664;10;Tamarón
+6665;7;Tamurejo
+6666;40;Tanque (El)
+6667;37;Tapia de Casariego
+6668;51;Tapioles
+6669;9;Taradell
+6670;21;Taragudo
+6671;37;Taramundi
+6672;18;Tarancón
+6673;21;Taravilla
+6674;41;Tarazona de Guareña
+6675;4;Tarazona de la Mancha
+6676;52;Tarazona
+6677;10;Tardajos
+6678;44;Tardelcuende
+6679;24;Tardienta
+6680;41;Tardáguila
+6681;38;Tariego de Cerrato
+6682;13;Tarifa
+6683;44;Taroda
+6684;45;Tarragona
+6685;29;Tarroja de Segarra
+6686;29;Tarrés
+6687;21;Tartanedo
+6688;52;Tauste
+6689;48;Tavernes Blanques
+6690;48;Tavernes de la Valldigna
+6691;9;Tavertet
+6692;9;Tavèrnoles
+6693;40;Tazacorte
+6694;32;Teba
+6695;40;Tegueste
+6696;27;Teguise
+6697;36;Teixeira (A)
+6698;9;Teià
+6699;10;Tejada
+6700;18;Tejadillos
+6701;41;Tejado (El)
+6702;44;Tejado
+6703;12;Tejeda de Tiétar
+6704;41;Tejeda y Segoyuela
+6705;27;Tejeda
+6706;27;Telde
+6707;24;Tella-Sin
+6708;47;Tembleque
+6709;21;Tendilla
+6710;41;Tenebrón
+6711;1;Teo
+6712;48;Teresa de Cofrentes
+6713;15;Teresa
+6714;27;Teror
+6715;5;Terque
+6716;19;Terrades
+6717;10;Terradillos de Esgueva
+6718;41;Terradillos
+6719;9;Terrassa
+6720;48;Terrateig
+6721;52;Terrer
+6722;46;Terriente
+6723;11;Terrinches
+6724;26;Terroba
+6725;46;Teruel
+6726;21;Terzaga
+6727;2;Teulada
+6728;37;Teverga
+6729;9;Tiana
+6730;2;Tibi
+6731;35;Tiebas-Muruarte de Reta
+6732;49;Tiedra
+6733;31;Tielmes
+6734;6;Tiemblo (El)
+6735;52;Tierga
+6736;24;Tierz
+6737;21;Tierzo
+6738;40;Tijarafe
+6739;18;Tinajas
+6740;27;Tinajo
+6741;37;Tineo
+6742;10;Tinieblas de la Sierra
+6743;35;Tirapu
+6744;26;Tirgo
+6745;48;Titaguas
+6746;31;Titulcia
+6747;29;Tiurana
+6748;45;Tivenys
+6749;45;Tivissa
+6750;6;Tiñosillos
+6751;21;Toba (La)
+6752;10;Tobar
+6753;4;Tobarra
+6754;52;Tobed
+6755;47;Toboso (El)
+6756;26;Tobía
+6757;43;Tocina
+6758;15;Todolella
+6759;15;Toga
+6760;14;Tojos (Los)
+6761;6;Tolbaños
+6762;47;Toledo
+6763;2;Tollos
+6764;42;Tolocirio
+6765;22;Tolosa
+6766;32;Tolox
+6767;24;Tolva
+6768;43;Tomares
+6769;11;Tomelloso
+6770;39;Tomiño
+6771;9;Tona
+6772;41;Topas
+6773;1;Toques
+6774;28;Toral de los Guzmanes
+6775;49;Tordehumos
+6776;21;Tordellego
+6777;21;Tordelrábano
+6778;9;Tordera
+6779;49;Tordesillas
+6780;21;Tordesilos
+6781;41;Tordillos
+6782;1;Tordoia
+6783;10;Tordómar
+6784;9;Torelló
+6785;28;Toreno
+6786;21;Torija
+6787;46;Toril y Masegoso
+6788;12;Toril
+6789;24;Torla
+6790;44;Torlengua
+6791;26;Tormantos
+6792;6;Tormellas
+6793;2;Tormos
+6794;29;Torms (Els)
+6795;46;Tormón
+6796;29;Tornabous
+6797;41;Tornadizo (El)
+6798;6;Tornadizos de Avila
+6799;12;Tornavacas
+6800;12;Torno (El)
+6801;46;Tornos
+6802;15;Toro (El)
+6803;51;Toro
+6804;38;Torquemada
+6805;24;Torralba de Aragón
+6806;11;Torralba de Calatrava
+6807;47;Torralba de Oropesa
+6808;52;Torralba de Ribota
+6809;52;Torralba de los Frailes
+6810;46;Torralba de los Sisones
+6811;15;Torralba del Pinar
+6812;35;Torralba del Río
+6813;18;Torralba
+6814;52;Torralbilla
+6815;6;Torre (La)
+6816;15;Torre Endoménech
+6817;42;Torre Val de San Pedro
+6818;15;Torre d'En Besora (la)
+6819;46;Torre de Arcas
+6820;29;Torre de Cabdella (La)
+6821;9;Torre de Claramunt (La)
+6822;12;Torre de Don Miguel
+6823;49;Torre de Esgueva
+6824;47;Torre de Esteban Hambrán (La)
+6825;45;Torre de Fontaubella (La)
+6826;11;Torre de Juan Abad
+6827;7;Torre de Miguel Sesmero
+6828;49;Torre de Peñafiel
+6829;12;Torre de Santa María
+6830;45;Torre de l'Espanyol (La)
+6831;46;Torre de las Arcas
+6832;2;Torre de les Maçanes (la)
+6833;28;Torre del Bierzo
+6834;21;Torre del Burgo
+6835;46;Torre del Compte
+6836;51;Torre del Valle (La)
+6837;26;Torre en Cameros
+6838;24;Torre la Ribera
+6839;46;Torre los Negros
+6840;13;Torre-Alháquime
+6841;20;Torre-Cardela
+6842;34;Torre-Pacheco
+6843;29;Torre-serona
+6844;42;Torreadrada
+6845;48;Torrebaja
+6846;29;Torrebesses
+6847;44;Torreblacos
+6848;15;Torreblanca
+6849;25;Torreblascopedro
+6850;42;Torrecaballeros
+6851;17;Torrecampo
+6852;15;Torrechiva
+6853;46;Torrecilla de Alcañiz
+6854;49;Torrecilla de la Abadesa
+6855;47;Torrecilla de la Jara
+6856;49;Torrecilla de la Orden
+6857;49;Torrecilla de la Torre
+6858;12;Torrecilla de los Angeles
+6859;10;Torrecilla del Monte
+6860;42;Torrecilla del Pinar
+6861;46;Torrecilla del Rebollar
+6862;26;Torrecilla en Cameros
+6863;26;Torrecilla sobre Alesanco
+6864;12;Torrecillas de la Tiesa
+6865;21;Torrecuadrada de Molina
+6866;21;Torrecuadradilla
+6867;25;Torredelcampo
+6868;45;Torredembarra
+6869;25;Torredonjimeno
+6870;29;Torrefarrera
+6871;29;Torrefeta i Florejacs
+6872;10;Torregalindo
+6873;51;Torregamones
+6874;29;Torregrossa
+6875;52;Torrehermosa
+6876;42;Torreiglesias
+6877;18;Torrejoncillo del Rey
+6878;12;Torrejoncillo
+6879;31;Torrejón de Ardoz
+6880;31;Torrejón de Velasco
+6881;31;Torrejón de la Calzada
+6882;21;Torrejón del Rey
+6883;12;Torrejón el Rubio
+6884;46;Torrelacárcel
+6885;31;Torrelaguna
+6886;29;Torrelameu
+6887;52;Torrelapaja
+6888;10;Torrelara
+6889;14;Torrelavega
+6890;9;Torrelavit
+6891;48;Torrella
+6892;52;Torrellas
+6893;9;Torrelles de Foix
+6894;9;Torrelles de Llobregat
+6895;49;Torrelobatón
+6896;31;Torrelodones
+6897;7;Torremayor
+6898;7;Torremejía
+6899;12;Torremenga
+6900;21;Torremocha de Jadraque
+6901;31;Torremocha de Jarama
+6902;46;Torremocha de Jiloca
+6903;21;Torremocha del Campo
+6904;21;Torremocha del Pinar
+6905;12;Torremocha
+6906;21;Torremochuela
+6907;32;Torremolinos
+6908;26;Torremontalbo
+6909;38;Torremormojón
+6910;19;Torrent
+6911;48;Torrent
+6912;24;Torrente de Cinca
+6913;11;Torrenueva
+6914;12;Torreorgaz
+6915;10;Torrepadre
+6916;25;Torreperogil
+6917;12;Torrequemada
+6918;48;Torres Torres
+6919;25;Torres de Albanchez
+6920;46;Torres de Albarracín
+6921;24;Torres de Alcanadre
+6922;24;Torres de Barbués
+6923;52;Torres de Berrellén
+6924;34;Torres de Cotillas (Las)
+6925;29;Torres de Segre
+6926;31;Torres de la Alameda
+6927;51;Torres del Carrizal
+6928;35;Torres del Río
+6929;25;Torres
+6930;10;Torresandino
+6931;49;Torrescárcela
+6932;41;Torresmenudas
+6933;46;Torrevelilla
+6934;2;Torrevieja
+6935;47;Torrico
+6936;46;Torrijas
+6937;52;Torrijo de la Cañada
+6938;46;Torrijo del Campo
+6939;47;Torrijos
+6940;19;Torroella de Fluvià
+6941;19;Torroella de Montgrí
+6942;45;Torroja del Priorat
+6943;32;Torrox
+6944;44;Torrubia de Soria
+6945;18;Torrubia del Campo
+6946;18;Torrubia del Castillo
+6947;21;Torrubia
+6948;19;Tortellà
+6949;45;Tortosa
+6950;21;Tortuera
+6951;21;Tortuero
+6952;20;Torvizcón
+6953;29;Torà
+6954;15;Torás
+6955;10;Tosantos
+6956;19;Toses
+6957;52;Tosos
+6958;19;Tossa de Mar
+6959;32;Totalán
+6960;34;Totana
+6961;47;Totanés
+6962;1;Touro
+6963;48;Tous
+6964;36;Toén
+6965;30;Trabada
+6966;28;Trabadelo
+6967;41;Trabanca
+6968;51;Trabazos
+6969;18;Tragacete
+6970;21;Traid
+6971;15;Traiguera
+6972;46;Tramacastiel
+6973;46;Tramacastilla
+6974;24;Tramaced
+6975;7;Trasierra
+6976;36;Trasmiras
+6977;52;Trasmoz
+6978;52;Trasobares
+6979;49;Traspinedo
+6980;1;Trazo
+6981;13;Trebujena
+6982;51;Trefacio
+6983;41;Tremedal de Tormes
+6984;29;Tremp
+6985;31;Tres Cantos
+6986;5;Tres Villas (Las)
+6987;42;Trescasas
+6988;18;Tresjuncos
+6989;10;Trespaderne
+6990;14;Tresviso
+6991;26;Treviana
+6992;20;Trevélez
+6993;30;Triacastela
+6994;18;Tribaldos
+6995;26;Tricio
+6996;49;Trigueros del Valle
+6997;23;Trigueros
+6998;21;Trijueque
+6999;21;Trillo
+7000;38;Triollo
+7001;46;Tronchón
+7002;28;Truchas
+7003;50;Trucios
+7004;7;Trujillanos
+7005;12;Trujillo
+7006;44;Trévago
+7007;10;Tubilla del Agua
+7008;10;Tubilla del Lago
+7009;14;Tudanca
+7010;49;Tudela de Duero
+7011;35;Tudela
+7012;26;Tudelilla
+7013;39;Tui
+7014;27;Tuineje
+7015;35;Tulebras
+7016;28;Turcia
+7017;47;Turleque
+7018;5;Turre
+7019;5;Turrillas
+7020;42;Turégano
+7021;48;Turís
+7022;20;Turón
+7023;48;Tuéjar
+7024;29;Tàrrega
+7025;51;Tábara
+7026;7;Táliga
+7027;38;Támara de Campos
+7028;2;Tárbena
+7029;18;Tébar
+7030;29;Térmens
+7031;27;Tías
+7032;5;Tíjola
+7033;15;Tírig
+7034;29;Tírvia
+7035;21;Tórtola de Henares
+7036;10;Tórtoles de Esgueva
+7037;6;Tórtoles
+7038;25;Ubeda
+7039;50;Ubidea
+7040;13;Ubrique
+7041;35;Ucar
+7042;21;Uceda
+7043;44;Ucero
+7044;18;Uclés
+7045;14;Udías
+7046;50;Ugao-Miraballes
+7047;47;Ugena
+7048;20;Ugíjar
+7049;35;Uharte-Arakil
+7050;21;Ujados
+7051;35;Ujué
+7052;34;Ulea
+7053;5;Uleila del Campo
+7054;9;Ullastrell
+7055;19;Ullastret
+7056;45;Ulldecona
+7057;45;Ulldemolins
+7058;19;Ullà
+7059;19;Ultramort
+7060;35;Ultzama
+7061;43;Umbrete
+7062;6;Umbrías
+7063;52;Uncastillo
+7064;35;Unciti
+7065;52;Undués de Lerda
+7066;34;Unión (La)
+7067;49;Unión de Campos (La)
+7068;35;Unzué
+7069;10;Urbel del Castillo
+7070;3;Urcabustaiz
+7071;47;Urda
+7072;35;Urdazubi/Urdax
+7073;35;Urdiain
+7074;28;Urdiales del Páramo
+7075;50;Urduliz
+7076;22;Urnieta
+7077;49;Urones de Castroponce
+7078;35;Urraul Alto
+7079;35;Urraul Bajo
+7080;46;Urrea de Gaén
+7081;52;Urrea de Jalón
+7082;22;Urretxu
+7083;52;Urriés
+7084;35;Urrotz
+7085;35;Urroz
+7086;5;Urrácal
+7087;49;Urueña
+7088;42;Urueñas
+7089;26;Uruñuela
+7090;35;Urzainqui
+7091;19;Urús
+7092;7;Usagre
+7093;52;Used
+7094;15;Useres (les)
+7095;22;Usurbil
+7096;21;Utande
+7097;52;Utebo
+7098;35;Uterga
+7099;48;Utiel
+7100;43;Utrera
+7101;46;Utrillas
+7102;35;Uztárroz
+7103;51;Uña de Quintana
+7104;18;Uña
+7105;9;Vacarisses
+7106;51;Vadillo de la Guareña
+7107;6;Vadillo de la Sierra
+7108;44;Vadillo
+7109;10;Vadocondes
+7110;19;Vajol (La)
+7111;28;Val de San Lorenzo
+7112;52;Val de San Martín
+7113;14;Val de San Vicente
+7114;1;Val do Dubra
+7115;46;Valacloche
+7116;30;Valadouro (O)
+7117;46;Valbona
+7118;49;Valbuena de Duero
+7119;38;Valbuena de Pisuerga
+7120;51;Valcabado
+7121;31;Valdaracete
+7122;21;Valdarachas
+7123;12;Valdastillas
+7124;38;Valde-Ucieza
+7125;46;Valdealgorfa
+7126;10;Valdeande
+7127;49;Valdearcos de la Vega
+7128;21;Valdearenas
+7129;44;Valdeavellano de Tera
+7130;21;Valdeavellano
+7131;31;Valdeavero
+7132;21;Valdeaveruelo
+7133;7;Valdecaballeros
+7134;41;Valdecarros
+7135;6;Valdecasa
+7136;12;Valdecañas de Tajo
+7137;18;Valdecolmenas (Los)
+7138;21;Valdeconcha
+7139;46;Valdecuenca
+7140;51;Valdefinjas
+7141;28;Valdefresno
+7142;41;Valdefuentes de Sangusín
+7143;28;Valdefuentes del Páramo
+7144;12;Valdefuentes
+7145;4;Valdeganga
+7146;44;Valdegeña
+7147;3;Valdegovía
+7148;21;Valdegrudas
+7149;41;Valdehijaderos
+7150;52;Valdehorna
+7151;12;Valdehúncar
+7152;7;Valdelacalzada
+7153;12;Valdelacasa de Tajo
+7154;41;Valdelacasa
+7155;41;Valdelageve
+7156;44;Valdelagua del Cerro
+7157;31;Valdelaguna
+7158;23;Valdelarco
+7159;21;Valdelcubo
+7160;46;Valdelinares
+7161;41;Valdelosa
+7162;46;Valdeltormo
+7163;28;Valdelugueros
+7164;26;Valdemadera
+7165;44;Valdemaluque
+7166;11;Valdemanco del Esteras
+7167;31;Valdemanco
+7168;31;Valdemaqueda
+7169;18;Valdemeca
+7170;41;Valdemierque
+7171;28;Valdemora
+7172;12;Valdemorales
+7173;18;Valdemorillo de la Sierra
+7174;31;Valdemorillo
+7175;18;Valdemoro-Sierra
+7176;31;Valdemoro
+7177;49;Valdenebro de los Valles
+7178;44;Valdenebro
+7179;21;Valdenuño Fernández
+7180;12;Valdeobispo
+7181;14;Valdeolea
+7182;18;Valdeolivas
+7183;38;Valdeolmillos
+7184;31;Valdeolmos
+7185;25;Valdepeñas de Jaén
+7186;21;Valdepeñas de la Sierra
+7187;11;Valdepeñas
+7188;28;Valdepiélago
+7189;31;Valdepiélagos
+7190;28;Valdepolo
+7191;14;Valdeprado del Río
+7192;44;Valdeprado
+7193;42;Valdeprados
+7194;28;Valderas
+7195;21;Valderrebollo
+7196;14;Valderredible
+7197;28;Valderrey
+7198;46;Valderrobres
+7199;44;Valderrodilla
+7200;41;Valderrodrigo
+7201;28;Valderrueda
+7202;38;Valderrábano
+7203;28;Valdesamario
+7204;51;Valdescorriel
+7205;21;Valdesotos
+7206;49;Valdestillas
+7207;31;Valdetorres de Jarama
+7208;7;Valdetorres
+7209;18;Valdetórtola
+7210;42;Valdevacas de Montejo
+7211;42;Valdevacas y Guijar
+7212;47;Valdeverdeja
+7213;28;Valdevimbre
+7214;10;Valdezate
+7215;31;Valdilecha
+7216;10;Valdorros
+7217;1;Valdoviño
+7218;41;Valdunciel
+7219;49;Valdunquillo
+7220;14;Valdáliga
+7221;37;Valdés
+7222;12;Valencia de Alcántara
+7223;28;Valencia de Don Juan
+7224;7;Valencia de las Torres
+7225;7;Valencia del Mombuey
+7226;7;Valencia del Ventoso
+7227;43;Valencina de la Concepción
+7228;11;Valenzuela de Calatrava
+7229;17;Valenzuela
+7230;18;Valeras (Las)
+7231;41;Valero
+7232;24;Valfarta
+7233;21;Valfermoso de Tajuña
+7234;39;Valga
+7235;26;Valgañón
+7236;18;Valhermoso de la Fuente
+7237;21;Valhermoso
+7238;46;Valjunquera
+7239;15;Vall d'Alba
+7240;2;Vall d'Alcalà (la)
+7241;15;Vall d'Uixó (la)
+7242;19;Vall d'en Bas (La)
+7243;15;Vall de Almonacid
+7244;19;Vall de Bianya (La)
+7245;29;Vall de Cardós
+7246;2;Vall de Ebo
+7247;2;Vall de Gallinera
+7248;2;Vall de Laguart
+7249;19;Vall-llobrega
+7250;48;Vallada
+7251;49;Valladolid
+7252;48;Vallanca
+7253;10;Vallarta de Bureba
+7254;15;Vallat
+7255;9;Vallbona d'Anoia
+7256;29;Vallbona de les Monges
+7257;9;Vallcebre
+7258;45;Vallclara
+7259;8;Valldemosa
+7260;20;Valle (El)
+7261;40;Valle Gran Rey
+7262;32;Valle de Abdalajís
+7263;3;Valle de Arana
+7264;24;Valle de Bardají
+7265;38;Valle de Cerrato
+7266;24;Valle de Hecho
+7267;24;Valle de Lierp
+7268;10;Valle de Losa
+7269;10;Valle de Manzanedo
+7270;7;Valle de Matamoros
+7271;10;Valle de Mena
+7272;10;Valle de Oca
+7273;7;Valle de Santa Ana
+7274;10;Valle de Santibáñez
+7275;10;Valle de Sedano
+7276;42;Valle de Tabladillo
+7277;10;Valle de Tobalina
+7278;50;Valle de Trápaga-Trapagaran
+7279;10;Valle de Valdebezana
+7280;10;Valle de Valdelaguna
+7281;10;Valle de Valdelucio
+7282;10;Valle de Zamanzas
+7283;7;Valle de la Serena
+7284;10;Valle de las Navas
+7285;38;Valle del Retortillo
+7286;20;Valle del Zalabí
+7287;46;Vallecillo (El)
+7288;28;Vallecillo
+7289;10;Vallegera
+7290;40;Vallehermoso
+7291;41;Vallejera de Riofrío
+7292;42;Vallelado
+7293;42;Valleruela de Pedraza
+7294;42;Valleruela de Sepúlveda
+7295;10;Valles de Palenzuela
+7296;51;Vallesa
+7297;27;Valleseco
+7298;29;Vallfogona de Balaguer
+7299;19;Vallfogona de Ripollès
+7300;45;Vallfogona de Riucorb
+7301;9;Vallgorguina
+7302;15;Vallibona
+7303;9;Vallirana
+7304;45;Vallmoll
+7305;9;Vallromanes
+7306;29;Valls d'Aguilar (Les)
+7307;29;Valls de Valira (Les)
+7308;45;Valls
+7309;10;Valluércanes
+7310;48;Vallés
+7311;52;Valmadrid
+7312;10;Valmala
+7313;47;Valmojado
+7314;49;Valoria la Buena
+7315;52;Valpalmas
+7316;41;Valsalabroso
+7317;18;Valsalobre
+7318;42;Valseca
+7319;27;Valsequillo de Gran Canaria
+7320;17;Valsequillo
+7321;21;Valtablado del Río
+7322;44;Valtajeros
+7323;42;Valtiendas
+7324;35;Valtierra
+7325;52;Valtorres
+7326;31;Valverde de Alcalá
+7327;7;Valverde de Burguillos
+7328;49;Valverde de Campos
+7329;18;Valverde de Júcar
+7330;7;Valverde de Leganés
+7331;7;Valverde de Llerena
+7332;7;Valverde de Mérida
+7333;41;Valverde de Valdelacasa
+7334;12;Valverde de la Vera
+7335;28;Valverde de la Virgen
+7336;21;Valverde de los Arroyos
+7337;23;Valverde del Camino
+7338;12;Valverde del Fresno
+7339;42;Valverde del Majano
+7340;28;Valverde-Enrique
+7341;40;Valverde
+7342;18;Valverdejo
+7343;41;Valverdón
+7344;48;València
+7345;45;Vandellòs i l'Hospitalet de l'Infant
+7346;29;Vansa i Fórnols (La)
+7347;18;Vara de Rey
+7348;9;Veciana
+7349;28;Vecilla (La)
+7350;41;Vecinos
+7351;1;Vedra
+7352;28;Vega de Espinareda
+7353;28;Vega de Infanzones
+7354;14;Vega de Liébana
+7355;14;Vega de Pas
+7356;49;Vega de Ruiponce
+7357;27;Vega de San Mateo
+7358;6;Vega de Santa María
+7359;51;Vega de Tera
+7360;41;Vega de Tirados
+7361;28;Vega de Valcarce
+7362;49;Vega de Valdetronco
+7363;51;Vega de Villalobos
+7364;18;Vega del Codorno
+7365;28;Vegacervera
+7366;37;Vegadeo
+7367;51;Vegalatrave
+7368;42;Veganzones
+7369;28;Vegaquemada
+7370;42;Vegas de Matute
+7371;28;Vegas del Condado
+7372;20;Vegas del Genil
+7373;41;Veguillas (Las)
+7374;46;Veguillas de la Sierra
+7375;36;Veiga (A)
+7376;13;Vejer de la Frontera
+7377;47;Velada
+7378;44;Velamazán
+7379;49;Velascálvaro
+7380;6;Velayos
+7381;5;Velefique
+7382;24;Velilla de Cinca
+7383;52;Velilla de Ebro
+7384;52;Velilla de Jiloca
+7385;31;Velilla de San Antonio
+7386;44;Velilla de la Sierra
+7387;44;Velilla de los Ajos
+7388;38;Velilla del Río Carrión
+7389;49;Velilla
+7390;18;Vellisca
+7391;49;Velliza
+7392;41;Vellés (La)
+7393;31;Vellón (El)
+7394;24;Vencillón
+7395;45;Vendrell (El)
+7396;51;Venialbo
+7397;38;Venta de Baños
+7398;48;Venta del Moro
+7399;19;Ventalló
+7400;47;Ventas con Peña Aguilera (Las)
+7401;20;Ventas de Huelma
+7402;47;Ventas de Retamosa (Las)
+7403;47;Ventas de San Julián (Las)
+7404;49;Ventosa de la Cuesta
+7405;41;Ventosa del Río Almar
+7406;26;Ventosa
+7407;42;Ventosilla y Tejadilla
+7408;26;Ventrosa
+7409;31;Venturada
+7410;52;Vera de Moncayo
+7411;5;Vera
+7412;24;Veracruz
+7413;29;Verdú
+7414;36;Verea
+7415;2;Verger (el)
+7416;19;Verges
+7417;38;Vertavillo
+7418;36;Verín
+7419;45;Vespella
+7420;51;Vezdemarbán
+7421;24;Viacamp y Litera
+7422;49;Viana de Cega
+7423;44;Viana de Duero
+7424;21;Viana de Jadraque
+7425;36;Viana do Bolo
+7426;35;Viana
+7427;12;Viandar de la Vera
+7428;4;Vianos
+7429;5;Viator
+7430;9;Vic
+7431;30;Vicedo (O)
+7432;24;Vicién
+7433;17;Victoria (La)
+7434;40;Victoria de Acentejo (La)
+7435;10;Vid de Bureba (La)
+7436;38;Vid de Ojeda (La)
+7437;10;Vid y Barrios (La)
+7438;35;Vidaurreta
+7439;51;Vidayanes
+7440;51;Videmala
+7441;19;Vidreres
+7442;19;Vidrà
+7443;35;Vidángoz
+7444;29;Vielha e Mijaran
+7445;52;Vierlas
+7446;39;Vigo
+7447;26;Viguera
+7448;2;Vila Joiosa (la)
+7449;39;Vila de Cruces
+7450;15;Vila-real
+7451;45;Vila-rodona
+7452;19;Vila-sacra
+7453;29;Vila-sana
+7454;45;Vila-seca i Salou
+7455;45;Vilabella
+7456;19;Vilabertran
+7457;19;Vilablareix
+7458;39;Vilaboa
+7459;9;Vilada
+7460;19;Viladamat
+7461;19;Viladasens
+7462;9;Viladecans
+7463;9;Viladecavalls
+7464;19;Vilademuls
+7465;19;Viladrau
+7466;15;Vilafamés
+7467;19;Vilafant
+7468;40;Vilaflor
+7469;8;Vilafranca de Bonany
+7470;15;Vilafranca del Maestrat
+7471;9;Vilafranca del Penedès
+7472;39;Vilagarcía de Arousa
+7473;29;Vilagrassa
+7474;19;Vilajuïga
+7475;9;Vilalba Sasserra
+7476;45;Vilalba dels Arcs
+7477;30;Vilalba
+7478;29;Vilaller
+7479;19;Vilallonga de Ter
+7480;45;Vilallonga del Camp
+7481;19;Vilamacolum
+7482;19;Vilamalla
+7483;19;Vilamaniscle
+7484;36;Vilamartín de Valdeorras
+7485;48;Vilamarxant
+7486;36;Vilamarín
+7487;29;Vilamòs
+7488;19;Vilanant
+7489;15;Vilanova d'Alcolea
+7490;45;Vilanova d'Escornalbou
+7491;39;Vilanova de Arousa
+7492;29;Vilanova de Bellpuig
+7493;29;Vilanova de Meià
+7494;45;Vilanova de Prades
+7495;9;Vilanova de Sau
+7496;29;Vilanova de Segrià
+7497;29;Vilanova de l'Aguda
+7498;29;Vilanova de la Barca
+7499;9;Vilanova del Camí
+7500;9;Vilanova del Vallès
+7501;9;Vilanova i la Geltrú
+7502;45;Vilaplana
+7503;36;Vilar de Barrio
+7504;15;Vilar de Canes
+7505;36;Vilar de Santos
+7506;36;Vilardevós
+7507;36;Vilariño de Conso
+7508;1;Vilarmaior
+7509;1;Vilasantar
+7510;9;Vilassar de Dalt
+7511;9;Vilassar de Mar
+7512;15;Vilavella (la)
+7513;45;Vilaverd
+7514;19;Vilaür
+7515;25;Vilches
+7516;45;Vilella Alta (La)
+7517;45;Vilella Baixa (La)
+7518;10;Vileña
+7519;47;Villa de Don Fadrique (La)
+7520;40;Villa de Mazo
+7521;4;Villa de Ves
+7522;12;Villa del Campo
+7523;31;Villa del Prado
+7524;12;Villa del Rey
+7525;17;Villa del Río
+7526;49;Villabaruz de Campos
+7527;38;Villabasta de Valdavia
+7528;23;Villablanca
+7529;28;Villablino
+7530;22;Villabona
+7531;28;Villabraz
+7532;49;Villabrágima
+7533;51;Villabrázaro
+7534;3;Villabuena de Alava 
+7535;51;Villabuena del Puente
+7536;49;Villabáñez
+7537;49;Villacarralón
+7538;14;Villacarriedo
+7539;25;Villacarrillo
+7540;42;Villacastín
+7541;47;Villacañas
+7542;49;Villacid de Campos
+7543;38;Villacidaler
+7544;44;Villaciervos
+7545;49;Villaco
+7546;38;Villaconancio
+7547;18;Villaconejos de Trabaque
+7548;31;Villaconejos
+7549;38;Villada
+7550;28;Villadangos del Páramo
+7551;28;Villadecanes
+7552;28;Villademor de la Vega
+7553;51;Villadepera
+7554;10;Villadiego
+7555;52;Villadoz
+7556;38;Villaeles de Valdavia
+7557;18;Villaescusa de Haro
+7558;10;Villaescusa de Roa
+7559;10;Villaescusa la Sombría
+7560;14;Villaescusa
+7561;51;Villaescusa
+7562;10;Villaespasa
+7563;52;Villafeliche
+7564;51;Villaferrueña
+7565;6;Villaflor
+7566;41;Villaflores
+7567;49;Villafrades de Campos
+7568;10;Villafranca Montes de Oca
+7569;17;Villafranca de Córdoba
+7570;49;Villafranca de Duero
+7571;52;Villafranca de Ebro
+7572;6;Villafranca de la Sierra
+7573;7;Villafranca de los Barros
+7574;47;Villafranca de los Caballeros
+7575;28;Villafranca del Bierzo
+7576;46;Villafranca del Campo
+7577;35;Villafranca
+7578;43;Villafranco del Guadalquivir
+7579;49;Villafrechós
+7580;10;Villafruela
+7581;49;Villafuerte
+7582;14;Villafufre
+7583;51;Villafáfila
+7584;10;Villagalijo
+7585;49;Villagarcía de Campos
+7586;7;Villagarcía de la Torre
+7587;18;Villagarcía del Llano
+7588;28;Villagatón
+7589;51;Villageriz
+7590;10;Villagonzalo Pedernales
+7591;41;Villagonzalo de Tormes
+7592;7;Villagonzalo
+7593;49;Villagómez la Nueva
+7594;17;Villaharta
+7595;46;Villahermosa del Campo
+7596;15;Villahermosa del Río
+7597;11;Villahermosa
+7598;38;Villaherreros
+7599;10;Villahoz
+7600;38;Villahán
+7601;38;Villalaco
+7602;49;Villalar de los Comuneros
+7603;51;Villalazán
+7604;10;Villalba de Duero
+7605;38;Villalba de Guardo
+7606;52;Villalba de Perejil
+7607;26;Villalba de Rioja
+7608;51;Villalba de la Lampreana
+7609;49;Villalba de la Loma
+7610;18;Villalba de la Sierra
+7611;49;Villalba de los Alcores
+7612;7;Villalba de los Barros
+7613;41;Villalba de los Llanos
+7614;23;Villalba del Alcor
+7615;18;Villalba del Rey
+7616;49;Villalbarba
+7617;10;Villalbilla de Burgos
+7618;10;Villalbilla de Gumiel
+7619;31;Villalbilla
+7620;51;Villalcampo
+7621;38;Villalcázar de Sirga
+7622;38;Villalcón
+7623;10;Villaldemiro
+7624;52;Villalengua
+7625;4;Villalgordo del Júcar
+7626;18;Villalgordo del Marquesado
+7627;10;Villalmanzo
+7628;26;Villalobar de Rioja
+7629;51;Villalobos
+7630;38;Villalobón
+7631;48;Villalonga
+7632;51;Villalonso
+7633;51;Villalpando
+7634;18;Villalpardo
+7635;51;Villalube
+7636;47;Villaluenga de la Sagra
+7637;38;Villaluenga de la Vega
+7638;13;Villaluenga del Rosario
+7639;49;Villalán de Campos
+7640;49;Villalón de Campos
+7641;4;Villamalea
+7642;15;Villamalur
+7643;28;Villamandos
+7644;31;Villamanrique de Tajo
+7645;43;Villamanrique de la Condesa
+7646;11;Villamanrique
+7647;31;Villamanta
+7648;31;Villamantilla
+7649;28;Villamanín
+7650;38;Villamartín de Campos
+7651;28;Villamartín de Don Sancho
+7652;13;Villamartín
+7653;11;Villamayor de Calatrava
+7654;51;Villamayor de Campos
+7655;35;Villamayor de Monjardín
+7656;18;Villamayor de Santiago
+7657;10;Villamayor de Treviño
+7658;10;Villamayor de los Montes
+7659;41;Villamayor
+7660;28;Villamañán
+7661;10;Villambistia
+7662;26;Villamediana de Iregua
+7663;38;Villamediana
+7664;10;Villamedianilla
+7665;28;Villamejil
+7666;20;Villamena
+7667;38;Villameriel
+7668;12;Villamesías
+7669;47;Villamiel de Toledo
+7670;10;Villamiel de la Sierra
+7671;12;Villamiel
+7672;47;Villaminaya
+7673;28;Villamol
+7674;28;Villamontán de la Valduerna
+7675;51;Villamor de los Escuderos
+7676;28;Villamoratiel de las Matas
+7677;38;Villamoronta
+7678;47;Villamuelas
+7679;38;Villamuera de la Cueza
+7680;49;Villamuriel de Campos
+7681;38;Villamuriel de Cerrato
+7682;10;Villangómez
+7683;24;Villanova
+7684;49;Villanubla
+7685;20;Villanueva Mesía
+7686;47;Villanueva de Alcardete
+7687;21;Villanueva de Alcorón
+7688;32;Villanueva de Algaidas
+7689;10;Villanueva de Argaño
+7690;21;Villanueva de Argecilla
+7691;6;Villanueva de Avila
+7692;51;Villanueva de Azoague
+7693;47;Villanueva de Bogas
+7694;26;Villanueva de Cameros
+7695;51;Villanueva de Campeán
+7696;10;Villanueva de Carazo
+7697;17;Villanueva de Córdoba
+7698;49;Villanueva de Duero
+7699;44;Villanueva de Gormaz
+7700;18;Villanueva de Guadamajud
+7701;10;Villanueva de Gumiel
+7702;52;Villanueva de Gállego
+7703;6;Villanueva de Gómez
+7704;52;Villanueva de Huerva
+7705;52;Villanueva de Jiloca
+7706;37;Villanueva de Oscos
+7707;31;Villanueva de Perales
+7708;11;Villanueva de San Carlos
+7709;43;Villanueva de San Juan
+7710;49;Villanueva de San Mancio
+7711;24;Villanueva de Sigena
+7712;32;Villanueva de Tapia
+7713;10;Villanueva de Teba
+7714;15;Villanueva de Viver
+7715;31;Villanueva de la Cañada
+7716;49;Villanueva de la Condesa
+7717;11;Villanueva de la Fuente
+7718;18;Villanueva de la Jara
+7719;25;Villanueva de la Reina
+7720;7;Villanueva de la Serena
+7721;12;Villanueva de la Sierra
+7722;21;Villanueva de la Torre
+7723;12;Villanueva de la Vera
+7724;23;Villanueva de las Cruces
+7725;28;Villanueva de las Manzanas
+7726;51;Villanueva de las Peras
+7727;20;Villanueva de las Torres
+7728;49;Villanueva de los Caballeros
+7729;23;Villanueva de los Castillejos
+7730;11;Villanueva de los Infantes
+7731;49;Villanueva de los Infantes
+7732;6;Villanueva del Aceral
+7733;43;Villanueva del Ariscal
+7734;25;Villanueva del Arzobispo
+7735;6;Villanueva del Campillo
+7736;51;Villanueva del Campo
+7737;41;Villanueva del Conde
+7738;17;Villanueva del Duque
+7739;7;Villanueva del Fresno
+7740;31;Villanueva del Pardillo
+7741;46;Villanueva del Rebollar de la Sierra
+7742;38;Villanueva del Rebollar
+7743;17;Villanueva del Rey
+7744;32;Villanueva del Rosario
+7745;34;Villanueva del Río Segura
+7746;43;Villanueva del Río y Minas
+7747;32;Villanueva del Trabuco
+7748;38;Villanuño de Valdavia
+7749;51;Villanázar
+7750;24;Villanúa
+7751;28;Villaobispo de Otero
+7752;28;Villaornate y Castro
+7753;4;Villapalacios
+7754;38;Villaprovedo
+7755;28;Villaquejida
+7756;28;Villaquilambre
+7757;10;Villaquirán de la Puebla
+7758;10;Villaquirán de los Infantes
+7759;41;Villar de Argañán
+7760;26;Villar de Arnedo (El)
+7761;18;Villar de Cañas
+7762;41;Villar de Ciervo
+7763;6;Villar de Corneja
+7764;18;Villar de Domingo García
+7765;41;Villar de Gallimazo
+7766;18;Villar de Olalla
+7767;41;Villar de Peralonso
+7768;12;Villar de Plasencia
+7769;7;Villar de Rena
+7770;41;Villar de Samaniego
+7771;26;Villar de Torre
+7772;18;Villar de la Encina
+7773;41;Villar de la Yegua
+7774;52;Villar de los Navarros
+7775;44;Villar del Ala
+7776;48;Villar del Arzobispo
+7777;51;Villar del Buey
+7778;44;Villar del Campo
+7779;46;Villar del Cobo
+7780;18;Villar del Humo
+7781;18;Villar del Infantado
+7782;31;Villar del Olmo
+7783;12;Villar del Pedroso
+7784;11;Villar del Pozo
+7785;7;Villar del Rey
+7786;44;Villar del Río
+7787;46;Villar del Salz
+7788;18;Villar y Velasco
+7789;51;Villaralbo
+7790;17;Villaralto
+7791;10;Villarcayo de Merindad de Castilla la Vi
+7792;51;Villardeciervos
+7793;51;Villardefallaves
+7794;49;Villardefrades
+7795;51;Villardiegua de la Ribera
+7796;25;Villardompardo
+7797;51;Villardondiego
+7798;18;Villarejo de Fuentes
+7799;47;Villarejo de Montalbán
+7800;28;Villarejo de Orbigo
+7801;31;Villarejo de Salvanés
+7802;18;Villarejo de la Peñuela
+7803;6;Villarejo del Valle
+7804;18;Villarejo-Periesteban
+7805;26;Villarejo
+7806;25;Villares (Los)
+7807;21;Villares de Jadraque
+7808;28;Villares de Orbigo
+7809;44;Villares de Soria (Los)
+7810;41;Villares de Yeltes
+7811;41;Villares de la Reina
+7812;18;Villares del Saz
+7813;48;Villargordo del Cabriel
+7814;10;Villariezo
+7815;41;Villarino de los Aires
+7816;46;Villarluengo
+7817;41;Villarmayor
+7818;38;Villarmentero de Campos
+7819;49;Villarmentero de Esgueva
+7820;41;Villarmuerto
+7821;46;Villarquemado
+7822;38;Villarrabé
+7823;38;Villarramiel
+7824;23;Villarrasa
+7825;52;Villarreal de Huerva
+7826;4;Villarrobledo
+7827;25;Villarrodrigo
+7828;52;Villarroya de la Sierra
+7829;46;Villarroya de los Pinares
+7830;52;Villarroya del Campo
+7831;26;Villarroya
+7832;47;Villarrubia de Santiago
+7833;11;Villarrubia de los Ojos
+7834;18;Villarrubio
+7835;51;Villarrín de Campos
+7836;11;Villarta de San Juan
+7837;7;Villarta de los Montes
+7838;26;Villarta-Quintana
+7839;18;Villarta
+7840;18;Villas de la Ventosa
+7841;28;Villasabariego
+7842;10;Villasandino
+7843;38;Villasarracino
+7844;44;Villasayas
+7845;12;Villasbuenas de Gata
+7846;41;Villasbuenas
+7847;41;Villasdardo
+7848;44;Villaseca de Arciel
+7849;21;Villaseca de Henares
+7850;21;Villaseca de Uceda
+7851;47;Villaseca de la Sagra
+7852;41;Villaseco de los Gamitos
+7853;41;Villaseco de los Reyes
+7854;51;Villaseco
+7855;28;Villaselán
+7856;47;Villasequilla
+7857;49;Villasexmir
+7858;38;Villasila de Valdavia
+7859;41;Villasrubias
+7860;46;Villastar
+7861;10;Villasur de Herreros
+7862;47;Villatobas
+7863;6;Villatoro
+7864;25;Villatorres
+7865;4;Villatoya
+7866;10;Villatuelda
+7867;35;Villatuerta
+7868;38;Villaturde
+7869;28;Villaturiel
+7870;38;Villaumbrales
+7871;35;Villava/Atarrabia
+7872;4;Villavaliente
+7873;49;Villavaquerín
+7874;26;Villavelayo
+7875;49;Villavellid
+7876;51;Villavendimio
+7877;4;Villaverde de Guadalimar
+7878;41;Villaverde de Guareña
+7879;42;Villaverde de Iscar
+7880;49;Villaverde de Medina
+7881;42;Villaverde de Montejo
+7882;26;Villaverde de Rioja
+7883;14;Villaverde de Trucíos
+7884;10;Villaverde del Monte
+7885;43;Villaverde del Río
+7886;18;Villaverde y Pasaconsol
+7887;10;Villaverde-Mogina
+7888;51;Villaveza de Valverde
+7889;51;Villaveza del Agua
+7890;49;Villavicencio de los Caballeros
+7891;17;Villaviciosa de Córdoba
+7892;31;Villaviciosa de Odón
+7893;37;Villaviciosa
+7894;41;Villavieja de Yeltes
+7895;31;Villavieja del Lozoya
+7896;38;Villaviudas
+7897;10;Villayerno Morquillas
+7898;37;Villayón
+7899;28;Villazala
+7900;28;Villazanzo de Valderaduey
+7901;10;Villazopeque
+7902;10;Villegas
+7903;42;Villeguillo
+7904;21;Villel de Mesa
+7905;46;Villel
+7906;2;Villena
+7907;38;Villerías de Campos
+7908;38;Villodre
+7909;38;Villodrigo
+7910;38;Villoldo
+7911;15;Villores
+7912;41;Villoria
+7913;10;Villoruebo
+7914;41;Villoruela
+7915;26;Villoslada de Cameros
+7916;38;Villota del Páramo
+7917;38;Villovieco
+7918;49;Villán de Tordesillas
+7919;51;Villárdiga
+7920;19;Vilobí d'Onyar
+7921;9;Vilobí del Penedès
+7922;19;Vilopriu
+7923;10;Viloria de Rioja
+7924;49;Viloria
+7925;29;Vilosell (El)
+7926;52;Vilueña (La)
+7927;41;Vilvestre
+7928;10;Vilviestre del Pinar
+7929;45;Vimbodí
+7930;1;Vimianzo
+7931;46;Vinaceite
+7932;29;Vinaixa
+7933;48;Vinalesa
+7934;1;Vinaro
+7935;15;Vinaròs
+7936;18;Vindel
+7937;45;Vinebre
+7938;26;Viniegra de Abajo
+7939;26;Viniegra de Arriba
+7940;44;Vinuesa
+7941;45;Vinyols i els Arcs
+7942;46;Visiedo
+7943;17;Viso (El)
+7944;47;Viso de San Juan (El)
+7945;43;Viso del Alcor (El)
+7946;11;Viso del Marqués
+7947;15;Vistabella del Maestrat
+7948;52;Vistabella
+7949;6;Vita
+7950;41;Vitigudino
+7951;3;Vitoria-Gasteiz
+7952;30;Viveiro
+7953;46;Vivel del Río Martín
+7954;9;Viver i Serrateix
+7955;15;Viver
+7956;4;Viveros
+7957;10;Vizcaínos
+7958;44;Vizmanos
+7959;51;Viñas
+7960;6;Viñegra de Moraña
+7961;32;Viñuela
+7962;21;Viñuelas
+7963;14;Voto
+7964;44;Vozmediano
+7965;20;Válor
+7966;20;Vélez de Benaudalla
+7967;5;Vélez-Blanco
+7968;32;Vélez-Málaga
+7969;5;Vélez-Rubio
+7970;5;Vícar
+7971;41;Vídola (La)
+7972;18;Víllora
+7973;20;Víznar
+7974;49;Wamba
+7975;2;Xaló
+7976;48;Xeraco
+7977;48;Xeresa
+7978;30;Xermade
+7979;15;Xert
+7980;45;Xerta
+7981;36;Xinzo de Limia
+7982;48;Xirivella
+7983;2;Xixona
+7984;15;Xodos
+7985;30;Xove
+7986;36;Xunqueira de Ambía
+7987;36;Xunqueira de Espadanedo
+7988;2;Xàbia
+7989;48;Xàtiva
+7990;27;Yaiza
+7991;42;Yanguas de Eresma
+7992;44;Yanguas
+7993;21;Yebes
+7994;24;Yebra de Basa
+7995;21;Yebra
+7996;41;Yecla de Yeltes
+7997;34;Yecla
+7998;47;Yeles
+7999;44;Yelo
+8000;47;Yepes
+8001;37;Yernes y Tameza
+8002;35;Yerri
+8003;48;Yesa (La)
+8004;35;Yesa
+8005;4;Yeste
+8006;47;Yuncler
+8007;47;Yunclillos
+8008;47;Yuncos
+8009;21;Yunquera de Henares
+8010;32;Yunquera
+8011;21;Yunta (La)
+8012;48;Yátova
+8013;47;Yébenes (Los)
+8014;3;Yécora
+8015;21;Yélamos de Abajo
+8016;21;Yélamos de Arriba
+8017;18;Yémeda
+8018;24;Yésero
+8019;35;Zabalza
+8020;10;Zael
+8021;20;Zafarraya
+8022;18;Zafra de Záncara
+8023;7;Zafra
+8024;18;Zafrilla
+8025;20;Zagra
+8026;13;Zahara
+8027;7;Zahínos
+8028;52;Zaida (La)
+8029;24;Zaidín
+8030;7;Zalamea de la Serena
+8031;23;Zalamea la Real
+8032;50;Zaldibar
+8033;22;Zaldibia
+8034;3;Zalduondo
+8035;50;Zalla
+8036;41;Zamarra
+8037;41;Zamayón
+8038;3;Zambrana
+8039;51;Zamora
+8040;50;Zamudio
+8041;21;Zaorejas
+8042;6;Zapardiel de la Cañada
+8043;6;Zapardiel de la Ribera
+8044;52;Zaragoza
+8045;41;Zarapicos
+8046;50;Zaratamo
+8047;49;Zaratán
+8048;22;Zarautz
+8049;48;Zarra
+8050;26;Zarratón
+8051;49;Zarza (La)
+8052;7;Zarza (La)
+8053;12;Zarza de Granadilla
+8054;12;Zarza de Montánchez
+8055;41;Zarza de Pumareda (La)
+8056;18;Zarza de Tajo
+8057;12;Zarza la Mayor
+8058;7;Zarza-Capilla
+8059;31;Zarzalejo
+8060;10;Zarzosa de Río Pisuerga
+8061;26;Zarzosa
+8062;21;Zarzuela de Jadraque
+8063;42;Zarzuela del Monte
+8064;42;Zarzuela del Pinar
+8065;18;Zarzuela
+8066;1;Zas
+8067;10;Zazuar
+8068;50;Zeanuri
+8069;50;Zeberio
+8070;22;Zegama
+8071;22;Zerain
+8072;22;Zestoa
+8073;35;Ziordia
+8074;35;Zizur Mayor/Zizur Nagusia
+8075;22;Zizurkil
+8076;46;Zoma (La)
+8077;41;Zorita de la Frontera
+8078;21;Zorita de los Canes
+8079;12;Zorita
+8080;26;Zorraquín
+8081;28;Zotes del Páramo
+8082;20;Zubia (La)
+8083;35;Zubieta
+8084;15;Zucaina
+8085;52;Zuera
+8086;23;Zufre
+8087;35;Zugarramurdi
+8088;17;Zuheros
+8089;22;Zumaia
+8090;22;Zumárraga
+8091;5;Zurgena
+8092;3;Zuya
+8093;10;Zuñeda
+8094;20;Zújar
+8095;35;Zúñiga

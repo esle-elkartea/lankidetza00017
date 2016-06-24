@@ -1,0 +1,26 @@
+.titulo
+{
+	display:table-cell;
+	float:left;
+	text-align:right;
+	font-family:Verdana,Serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#6A5C72;
+	border-left:#bbb solid 1px;
+	border-bottom:#bbb solid 1px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+     #titulo_Tipotareas, #titulo_Tipomateriales,#titulo_Clientes, #titulo_Trabajadores, #titulo_Categorias{
+      background:url("../img/right_both_1.gif") no-repeat right top;
+      }
+
+    #titulo_Materiales, #titulo_Tareas,#titulo_Trabajos, #titulo_Ordenestrabajo{
+      background:url("../img/right_both_1.gif") no-repeat right top;
+      }        
+
+    #titulo_Partes,#titulo_Lineasparte {
+      background:url("../img/right_both_1.gif") no-repeat right top;
+      }    

@@ -1,0 +1,52 @@
+1;A Coruña
+2;Alicante
+3;Araba
+4;Albacete
+5;Almeria
+6;Avila 
+7;Badajoz 
+8;Baleares 
+9;Barcelona 
+10;Burgos 
+11;C. Real 
+12;Cáceres 
+13;Cádiz 
+14;Cantabria
+15;Castelló 
+16;Ceuta
+17;Córdoba 
+18;Cuenca 
+19;Girona 
+20;Granada 
+21;Guadalajara 
+22;Gipuzkoa 
+23;Huelva 
+24;Huesca 
+25;Jaén 
+26;La Rioja 
+27;Las Palmas
+28;León 
+29;Lleida 
+30;Lugo
+31;Madrid
+32;Málaga
+33;Melilla
+34;Murcia
+35;Navarra
+36;Orense
+37;Oviedo
+38;Palencia
+39;Pontevedra
+40;S.C.Tenerife
+41;Salamanca
+42;Segovia
+43;Sevilla
+44;Soria
+45;Tarragona
+46;Teruel
+47;Toledo
+48;Valencia
+49;Valladolid
+50;Bizkaia
+51;Zamora
+52;Zaragoza

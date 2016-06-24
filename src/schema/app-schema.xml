@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+
+<!-- Generado desde Access a XML i+d toki -->
+<database name="INSTELEC-DB" defaultIdMethod="native">
+
+<table name="clientes" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idcliente" primaryKey="true" required="true" type="INTEGER" javaName="idcliente" />
+	<id-method-parameter name="seqName" value="clientes_idcliente_seq" />
+	<column name="cif" required="false"  type="VARCHAR" size="10" default=""/>
+	<column name="fechaalta" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="fechabaja" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="nombre" required="false"  type="VARCHAR" size="50" default=""/>
+	<column name="razonsocial" required="false"  type="VARCHAR" size="50" default=""/>
+	<column name="idlocalidad" required="false"  type="INTEGER" default="0"/>
+	<column name="direccion" required="false"  type="VARCHAR" size="50" default=""/>
+	<column name="cp" required="false"  type="VARCHAR" size="5" default=""/>
+	<column name="telefono" required="false"  type="VARCHAR" size="9" default=""/>
+	<column name="fax" required="false"  type="VARCHAR" size="9" default=""/>
+	<column name="movil" required="false"  type="VARCHAR" size="9" default=""/>
+	<column name="email" required="false"  type="VARCHAR" size="50" default=""/>
+	<column name="numerocuenta" required="false"  type="VARCHAR" size="20" default=""/>
+	<column name="observaciones" required="false"  type="VARCHAR" size="500" default=""/>
+	<foreign-key foreignTable="localidades">
+		<reference foreign="idlocalidad" local="idlocalidad"/>
+	</foreign-key>
+</table>
+
+<table name="trabajadores" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idtrabajador" primaryKey="true" required="true" type="INTEGER" javaName="idtrabajador" />
+	<id-method-parameter name="seqName" value="trabajadores_idtrabajador_seq" />
+	<column name="idcategoria" required="false"  type="INTEGER" default="0"/>
+	<column name="nif" required="false"  type="VARCHAR" size="10" default=""/>
+	<column name="nombre" required="false"  type="VARCHAR" size="50" default=""/>
+	<column name="apellidouno" required="false"  type="VARCHAR" size="50" default=""/>
+	<column name="apellidodos" required="false"  type="VARCHAR" size="50" default=""/>
+	<column name="fechaalta" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="fechabaja" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="numeross" required="false"  type="VARCHAR" size="20" default=""/>
+	<column name="direccion" required="false"  type="VARCHAR" size="50" default=""/>
+	<column name="cp" required="false"  type="VARCHAR" size="5" default=""/>
+	<column name="idlocalidad" required="false"  type="INTEGER" default="0"/>
+	<column name="telefono" required="false"  type="VARCHAR" size="9" default=""/>
+	<column name="movil" required="false"  type="VARCHAR" size="9" default=""/>
+	<column name="email" required="false"  type="VARCHAR" size="25" default=""/>
+	<column name="observaciones" required="false"  type="VARCHAR" size="500" default=""/>
+	<foreign-key foreignTable="categorias">
+		<reference foreign="idcategoria" local="idcategoria"/>
+	</foreign-key>
+	<foreign-key foreignTable="localidades">
+		<reference foreign="idlocalidad" local="idlocalidad"/>
+	</foreign-key>
+</table>
+
+<table name="partes" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idparte" primaryKey="true" required="true" type="INTEGER" javaName="idparte" />
+	<id-method-parameter name="seqName" value="partes_idparte_seq" />
+	<column name="idorden" required="false"  type="INTEGER" default="0"/>
+	<column name="idtrabajador" required="false"  type="INTEGER" default="0"/>
+	<column name="observaciones" required="false"  type="VARCHAR" size="500" default=""/>
+	<foreign-key foreignTable="trabajadores">
+		<reference foreign="idtrabajador" local="idtrabajador"/>
+	</foreign-key>
+	<foreign-key foreignTable="ordenestrabajo">
+		<reference foreign="idorden" local="idorden"/>
+	</foreign-key>
+</table>
+
+<table name="lineasparte" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idlineaparte" primaryKey="true" required="true" type="INTEGER" javaName="idlineaparte" />
+	<id-method-parameter name="seqName" value="lineasparte_idlineaparte_seq" />
+	<column name="idparte" required="false"  type="INTEGER" default="0"/>
+	<column name="fecha" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="horas" required="false"  type="FLOAT" default="0"/>
+	<column name="observaciones" required="false"  type="VARCHAR" size="500" default=""/>	
+	<foreign-key foreignTable="partes">
+		<reference foreign="idparte" local="idparte"/>
+	</foreign-key>
+</table>
+
+<table name="trabajos" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idtrabajo" primaryKey="true" required="true" type="INTEGER" javaName="idtrabajo" />
+	<id-method-parameter name="seqName" value="trabajos_idtrabajo_seq" />
+	<column name="idcliente" required="false"  type="INTEGER" default="0"/>
+	<column name="descripcion" required="false"  type="VARCHAR" size="300" default=""/>
+	<column name="fechaaviso" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="horaaviso" required="false"  type="VARCHAR" size="4" default=""/>
+	<column name="fechapresupuesto" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="fechafintrabajo" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="fechafactura" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="direccion" required="false"  type="VARCHAR" size="50" default=""/>
+	<column name="cp" required="false"  type="VARCHAR" size="5" default=""/>
+	<column name="telefono" required="false"  type="VARCHAR" size="9" default=""/>
+	<column name="estado" required="false"  type="INTEGER" default="0"/>
+	<column name="importe" required="false"  type="FLOAT" default="0"/>
+	<column name="observaciones" required="false"  type="VARCHAR" size="500" default=""/>
+	<column name="personacontacto" required="false"  type="VARCHAR" size="50" default=""/>
+	<column name="personarecibe" required="false"  type="VARCHAR" size="50" default=""/>
+	<foreign-key foreignTable="clientes">
+		<reference foreign="idcliente" local="idcliente"/>
+	</foreign-key>
+</table>
+
+<table name="ordenestrabajo" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idorden" primaryKey="true" required="true" type="INTEGER" javaName="idorden" />
+	<id-method-parameter name="seqName" value="ordenestrabajo_idorden_seq" />
+	<column name="fechainicio" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="fechafin" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="idtrabajo" required="false"  type="INTEGER" default="0"/>
+	<column name="descripcion" required="false"  type="VARCHAR" size="250" default=""/>
+	<column name="observaciones" required="false"  type="VARCHAR" size="250" default=""/>
+	<column name="tipomantenimiento" required="false"  type="INTEGER" default="0"/>
+	<column name="urgencia" required="false"  type="INTEGER" default="0"/>
+	<column name="sintomas" required="false"  type="VARCHAR" size="250" default=""/>
+	<column name="causas" required="false"  type="VARCHAR" size="250" default=""/>
+	<column name="importe" required="false"  type="FLOAT" default="0"/>		
+	<foreign-key foreignTable="trabajos">
+		<reference foreign="idtrabajo" local="idtrabajo"/>
+	</foreign-key>
+</table>
+
+<table name="tareas" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idtarea" primaryKey="true" required="true" type="INTEGER" javaName="idtarea" />
+	<id-method-parameter name="seqName" value="tareas_idtarea_seq" />
+	<column name="fechainicio" required="false"  type="VARCHAR" size="8" default=""/>
+	<column name="horas" required="false"  type="FLOAT" default="0"/>
+	<column name="idorden" required="false"  type="INTEGER" default="0"/>
+	<column name="idtipotarea" required="false"  type="INTEGER" default="0"/>
+	<column name="idcategoria" required="false"  type="INTEGER" default="0"/>
+	<column name="observaciones" required="false"  type="VARCHAR" size="500" default=""/>
+	<foreign-key foreignTable="ordenestrabajo">
+		<reference foreign="idorden" local="idorden"/>
+	</foreign-key>
+	<foreign-key foreignTable="tipotareas">
+		<reference foreign="idtipotarea" local="idtipotarea"/>
+	</foreign-key>
+	<foreign-key foreignTable="categorias">
+		<reference foreign="idcategoria" local="idcategoria"/>
+	</foreign-key>	
+</table>
+
+<table name="materiales" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idmaterial" primaryKey="true" required="true" type="INTEGER" javaName="idmaterial" />
+	<id-method-parameter name="seqName" value="materiales_idmaterial_seq" />
+	<column name="descripcion" required="false"  type="VARCHAR" size="250" default=""/>
+	<column name="cantidad" required="false"  type="FLOAT" default="0"/>
+	<column name="importe" required="false"  type="FLOAT" default="0"/>
+	<column name="idtarea" required="false"  type="INTEGER" default="0"/>
+	<column name="idtipomaterial" required="false"  type="INTEGER" default="0"/>
+	<foreign-key foreignTable="tareas">
+		<reference foreign="idtarea" local="idtarea"/>
+	</foreign-key>
+	<foreign-key foreignTable="tipomateriales">
+		<reference foreign="idtipomaterial" local="idtipomaterial"/>
+	</foreign-key>
+</table>
+
+<table name="tipomateriales" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idtipomaterial" primaryKey="true" required="true" type="INTEGER" javaName="idtipomaterial" />
+	<id-method-parameter name="seqName" value="tipomateriales_idtipomaterial_seq" />
+	<column name="descripcion" required="false"  type="VARCHAR" size="300" default=""/>
+</table>
+
+<table name="tipotareas" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idtipotarea" primaryKey="true" required="true" type="INTEGER" javaName="idtipotarea" />
+	<id-method-parameter name="seqName" value="tipotareas_idtipotarea_seq" />
+	<column name="descripcion" required="false"  type="VARCHAR" size="300" default=""/>
+</table>
+
+<table name="categorias" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idcategoria" primaryKey="true" required="true" type="INTEGER" javaName="idcategoria" />
+	<id-method-parameter name="seqName" value="categorias_idcategoria_seq" />
+	<column name="descripcion" required="false"  type="VARCHAR" size="300" default=""/>
+	<column name="coste" required="false"  type="FLOAT" default="0"/>
+</table>
+
+<table name="provincias" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idprovincia" primaryKey="true" required="true" type="INTEGER" javaName="idprovincia" />
+	<id-method-parameter name="seqName" value="provincias_idprovincia_seq" />
+	<column name="nombre" required="false"  type="VARCHAR" size="50" default=""/>
+</table>
+
+<table name="localidades" idMethod="native">
+	<column autoIncrement="true" default="-1" name="idlocalidad" primaryKey="true" required="true" type="INTEGER" javaName="idlocalidad" />
+	<id-method-parameter name="seqName" value="localidades_idlocalidad_seq" />
+	<column name="idprovincia" required="false"  type="INTEGER" default="0"/>
+	<column name="nombre" required="false"  type="VARCHAR" size="50" default=""/>
+	<foreign-key foreignTable="provincias">
+		<reference foreign="idprovincia" local="idprovincia"/>
+	</foreign-key>
+</table>
+
+</database>
+

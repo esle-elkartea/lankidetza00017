@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app id="WebApp_9" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+
+   <!-- General description of your web application -->
+   <display-name>${nombreApp}</display-name>
+   <description>
+    	descripcion del proyecto app
+   </description>
+
+	<filter>
+        <filter-name>router</filter-name>
+        <filter-class>net.idtoki.${nombreApp}.controller.AppRouter</filter-class>
+        <init-param>
+	      <param-name>rules</param-name>
+	      <param-value>/WEB-INF/config/rules</param-value>
+	   </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>router</filter-name>
+        <url-pattern>/*</url-pattern>
+        <dispatcher>REQUEST</dispatcher>
+    </filter-mapping>
+    
+   <!--listener para arrancar el motor del torque clase que implementa el listener para el deploy -->
+
+    <listener>
+     <listener-class>net.idtoki.${nombreApp}.app.event.OnStartUp</listener-class>
+    </listener>    
+
+    <servlet>
+        <servlet-name>Login</servlet-name>
+        <servlet-class>net.idtoki.${nombreApp}.controller.AppLoginController</servlet-class>
+    </servlet>
+
+
+#foreach ($tbla in $database.Tables)
+#set ($tblName = $tbla.JavaName)
+<servlet>
+        <servlet-name>${tblName}</servlet-name>
+        <servlet-class>net.idtoki.${nombreApp}.controller.${tblName}Controller</servlet-class>
+</servlet>
+#end 
+
+    <servlet-mapping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/login/*</url-pattern>
+    </servlet-mapping>
+
+#foreach ($tbla in $database.Tables)
+#set ($tblName = $tbla.JavaName)
+<servlet-mapping>
+        <servlet-name>${tblName}</servlet-name>
+        <url-pattern>/${tblName}/*</url-pattern>
+</servlet-mapping>
+#end 
+
+</web-app>

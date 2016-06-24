@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app id="WebApp_9" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+
+   <!-- General description of your web application -->
+   <display-name>instelec</display-name>
+   <description>
+    	descripcion del proyecto app
+   </description>
+
+	<filter>
+        <filter-name>router</filter-name>
+        <filter-class>net.idtoki.instelec.controller.AppRouter</filter-class>
+        <init-param>
+	      <param-name>rules</param-name>
+	      <param-value>/WEB-INF/config/rules</param-value>
+	   </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>router</filter-name>
+        <url-pattern>/*</url-pattern>
+        <dispatcher>REQUEST</dispatcher>
+    </filter-mapping>
+    
+   <!--listener para arrancar el motor del torque clase que implementa el listener para el deploy -->
+
+    <listener>
+     <listener-class>net.idtoki.instelec.app.event.OnStartUp</listener-class>
+    </listener>    
+
+    <servlet>
+        <servlet-name>Login</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.AppLoginController</servlet-class>
+    </servlet>
+
+
+<servlet>
+        <servlet-name>Clientes</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.ClientesController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Trabajadores</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.TrabajadoresController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Partes</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.PartesController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Lineasparte</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.LineasparteController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Trabajos</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.TrabajosController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Ordenestrabajo</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.OrdenestrabajoController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Tareas</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.TareasController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Materiales</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.MaterialesController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Tipomateriales</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.TipomaterialesController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Tipotareas</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.TipotareasController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Categorias</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.CategoriasController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Provincias</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.ProvinciasController</servlet-class>
+</servlet>
+<servlet>
+        <servlet-name>Localidades</servlet-name>
+        <servlet-class>net.idtoki.instelec.controller.LocalidadesController</servlet-class>
+</servlet>
+
+    <servlet-mapping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/login/*</url-pattern>
+    </servlet-mapping>
+
+<servlet-mapping>
+        <servlet-name>Clientes</servlet-name>
+        <url-pattern>/Clientes/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Trabajadores</servlet-name>
+        <url-pattern>/Trabajadores/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Partes</servlet-name>
+        <url-pattern>/Partes/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Lineasparte</servlet-name>
+        <url-pattern>/Lineasparte/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Trabajos</servlet-name>
+        <url-pattern>/Trabajos/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Ordenestrabajo</servlet-name>
+        <url-pattern>/Ordenestrabajo/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Tareas</servlet-name>
+        <url-pattern>/Tareas/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Materiales</servlet-name>
+        <url-pattern>/Materiales/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Tipomateriales</servlet-name>
+        <url-pattern>/Tipomateriales/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Tipotareas</servlet-name>
+        <url-pattern>/Tipotareas/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Categorias</servlet-name>
+        <url-pattern>/Categorias/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Provincias</servlet-name>
+        <url-pattern>/Provincias/*</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+        <servlet-name>Localidades</servlet-name>
+        <url-pattern>/Localidades/*</url-pattern>
+</servlet-mapping>
+
+</web-app>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<empresa>
+	<nombre>INSTELEC</nombre>
+	<direccion>Egaña, 17 2 Departamento 2 - 48010 Bilbao (Bizkaia)</direccion>
+	<telefono>965778455</telefono>
+	<fax>665722455</fax>
+	<email>a@b.com</email>
+	<numeroRegistro>25871002-F</numeroRegistro>
+	<imgurl>c:\\instelec-app\\xsl\\inicio.gif</imgurl>	
+</empresa>

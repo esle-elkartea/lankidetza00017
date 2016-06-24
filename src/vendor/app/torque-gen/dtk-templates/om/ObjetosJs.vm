@@ -1,0 +1,203 @@
+
+#foreach ($tbla in $database.Tables)
+#set ($tblName = $tbla.JavaName)
+#set ($tblNameLC = $tbla.JavaName.toLowerCase())
+#set ($pks = $tbla.PrimaryKey)
+#if ($pks.size() == 1)
+  #set ($pk = $pks.get(0))
+  #set ($pkUC = $pk.Name.toUpperCase() )
+#end 
+function ver${tblName}()
+{
+ objElemento.setiModoVisualizacion('0');
+ objElemento.setviewedRows('20');
+ objElemento.setstrTotalRegistros('0');
+ objElemento.setstrGap('0');
+ objElemento.setstrTableId('${tblName}');   
+ objElemento.setstrFunction('ver${tblName}()');
+ objElemento.setstrTituloLista('Lista de ${tblName}');
+ objElemento.setstrTituloForm('${tblName}');  
+ objElemento.settableContentServlet('/${nombreApp}/${tblName}/${tblName}TableContentServlet'); 
+ objElemento.setstrLinkAddServlet('/${nombreApp}/${tblName}/Add${tblName}Servlet');
+ objElemento.setstrLinkDeleteServlet('/${nombreApp}/${tblName}/Delete${tblName}Servlet'); 
+ objElemento.setstrLinkDuplicarServlet('');
+ objElemento.setstrLinkEditServlet('/${nombreApp}/${tblName}/${tblName}ElementServlet');  
+ objElemento.setstrLinkEditParam('${tblNameLC}.${pkUC}='); 
+#set ( $comma = "" )
+#set ( $strCampos = "")
+#set ( $strTipoEditor = "")
+#set ( $strCamposDec = "")
+#set ( $strCamposWidth = "")
+#set ( $strLinksUlContentServlet = "")
+#set ( $strMetodosController = "")
+#set ( $strLinksUpdateServlet = "")
+#set ( $strEsOrdenable = "")
+#set ( $strEventos = "")
+#set ( $strValidarColumnasGrid = "")
+#set ( $countColumns = 0 )
+#set ( $countColumnsRef = 0 )
+#foreach ($dummy in $tbla.Columns)
+#set ( $countColumns = $countColumns + 1 )
+#end
+#foreach ($dummy2 in $tbla.Referrers) 
+#set ( $countColumnsRef = $countColumnsRef + 1 )
+#end
+#foreach ($col in $tbla.Columns)
+#set ( $sValidate = "" )
+#if ($col.isNotNull() || $col.isPrimaryKey() || $col.isForeignKey())
+#set ($sValidate = "${sValidate} requerido-es")
+#end
+#if ($col.JavaName.toUpperCase().indexOf("FECHA")!=-1)
+#set ($sValidate = "${sValidate} validate-date-separador-es")
+#end
+#if (($col.Size) && ($col.JavaName.toUpperCase().indexOf("FECHA")==-1))
+#set ($sValidate = "${sValidate} validation-max-${col.Size}-es")
+#end
+#if (!$col.isPrimaryKey())
+#set ($strCampos = "${strCampos}${comma}${tblNameLC}.${col.JavaName.toUpperCase()}") 
+#set ($strCamposDec = "${strCamposDec}${comma}${col.JavaName}") 
+#set ($iVal = $countColumns - 1)
+#set ($iVal = (90-$countColumnsRef*5)/($iVal))
+#set ($strCamposWidth = "${strCamposWidth}${comma}$iVal%")
+#if ($col.isForeignKey())
+#set ($tblFKa = $tbla.Database.getTable($col.RelatedTableName) )
+#set ($tblFKName = $tblFKa.JavaName )
+#set ($strTipoEditor = "${strTipoEditor}${comma}AUTO")
+#set ($strLinksUlContentServlet = "${strLinksUlContentServlet}${comma}/${nombreApp}/${tblFKName}/${tblFKName}UlContentServlet")
+#elseif ($col.JavaName.toUpperCase().indexOf("FECHA")!=-1)
+#set ($strTipoEditor = "${strTipoEditor}${comma}DATE")
+#set ($strLinksUlContentServlet = "${strLinksUlContentServlet}${comma}")
+#else
+#set ($strTipoEditor = "${strTipoEditor}${comma}NORMAL")
+#set ($strLinksUlContentServlet = "${strLinksUlContentServlet}${comma}")
+#end 
+#set ($strMetodosController = "${strMetodosController}${comma}${col.JavaName}${tblName}Parsed")
+#set ($strLinksUpdateServlet = "${strLinksUpdateServlet}${comma}/${nombreApp}/${tblName}/Update${col.JavaName}Servlet")
+#set ($strEsOrdenable = "${strEsOrdenable}${comma}1")
+#set ($strEventos = "${strEventos}${comma}dblclick") 
+#set ($strValidarColumnasGrid = "${strValidarColumnasGrid}${comma}${sValidate}") 
+#set ( $comma = ";" ) 
+#end  
+#end
+#foreach ($fkRef in $tbla.Referrers)  
+#set ( $tblFK = $fkRef.Table )
+#set ( $tblFKName = $tblFK.JavaName )
+#set ($strCampos = "${strCampos}${comma}FREE_HIJOS")
+#set ($strTipoEditor = "${strTipoEditor}${comma}FREE_HIJOS")
+#set ($strCamposDec = "${strCamposDec}${comma}Hijos")
+#set ($strCamposWidth = "${strCamposWidth}${comma}5%")
+#set ($strLinksUlContentServlet = "${strLinksUlContentServlet}${comma}")
+#set ($strMetodosController = "${strMetodosController}${comma}Hijos${tblFKName}${tblName}")
+#set ($strLinksUpdateServlet = "${strLinksUpdateServlet}${comma}hijos")
+#set ($strEsOrdenable = "${strEsOrdenable}${comma}0")
+#set ($strEventos = "${strEventos}${comma}click")
+#set ($strValidarColumnasGrid = "${strValidarColumnasGrid}${comma}")
+#end  
+ objElemento.setstrCampos('${strCampos};FREE_EDITAR;FREE_BORRAR'); 
+ objElemento.setstrTipoEditor('${strTipoEditor};FREE_EDITAR;FREE_BORRAR'); 
+ objElemento.setstrCamposDec('${strCamposDec};Editar;Borrar');
+ objElemento.setstrCamposWidth('${strCamposWidth};5%;5%');
+ objElemento.setstrLinksUlContentServlet('${strLinksUlContentServlet};;'); 
+ objElemento.setstrMetodosController('${strMetodosController};Edit${tblName};Delete${tblName}');
+ objElemento.setstrLinksUpdateServlet('${strLinksUpdateServlet};editar;borrar'); 
+ objElemento.setstrEsOrdenable('${strEsOrdenable};0;0');  
+ objElemento.setstrEventos('${strEventos};click;click');
+ objElemento.setstrValidarColumnasGrid('${strValidarColumnasGrid};;');
+#set ( $comma = "" )
+#set ( $strFormCampos = "")
+#set ( $strFormCamposOblig = "")
+#set ( $strFormTipoEditor = "")
+#set ( $strFormCamposDec = "")
+#set ( $strFormCamposWidth = "")
+#set ( $strFormLinksUlContentServlet = "")
+#set ( $strFormLinksElementServlet = "")
+#set ( $strFormMetodosController = "")
+#set ( $strValidarCamposForm = "")
+#foreach ($col in $tbla.Columns)
+#set ( $sValidate = "" )
+#if ($col.isNotNull() || $col.isPrimaryKey() || $col.isForeignKey())
+#set ($sValidate = "${sValidate} requerido-es")
+#end
+#if ($col.JavaName.toUpperCase().indexOf("FECHA")!=-1)
+#set ($sValidate = "${sValidate} validate-date-separador-es")
+#end
+#if (($col.Size) && ($col.JavaName.toUpperCase().indexOf("FECHA")==-1))
+#set ($sValidate = "${sValidate} validation-max-${col.Size}-es")
+#end
+#set ($strFormCampos = "${strFormCampos}${comma}${tblNameLC}.${col.JavaName.toUpperCase()}")
+#set ($strFormCamposOblig = "${strFormCamposOblig}${comma}")  
+#set ($strFormCamposDec = "${strFormCamposDec}${comma}${col.JavaName}")
+#if ($col.isPrimaryKey())
+#set ($strFormTipoEditor = "${strFormTipoEditor}${comma}HIDDEN")
+#set ($strFormLinksUlContentServlet = "${strFormLinksUlContentServlet}${comma}")
+#set ($strFormLinksElementServlet = "${strFormLinksElementServlet}${comma}")
+#set ($strFormMetodosController = "${strFormMetodosController}${comma}${col.JavaName}")
+#elseif ($col.isForeignKey())
+#set ($tblFKa = $tbla.Database.getTable($col.RelatedTableName) )
+#set ($tblFKName = $tblFKa.JavaName )
+#set ($strFormTipoEditor = "${strFormTipoEditor}${comma}AUTO")
+#set ($strFormLinksUlContentServlet = "${strFormLinksUlContentServlet}${comma}/${nombreApp}/${tblFKName}/${tblFKName}UlContentServlet")
+#set ($strFormLinksElementServlet = "${strFormLinksElementServlet}${comma}/${nombreApp}/${tblName}/${tblName}${tblFKName}Servlet")
+#set ($strFormMetodosController = "${strFormMetodosController}${comma}${col.JavaName}${tblName}Parsed")
+#elseif ($col.JavaName.toUpperCase().indexOf("FECHA")!=-1)
+#set ($strFormTipoEditor = "${strFormTipoEditor}${comma}DATE")
+#set ($strFormLinksUlContentServlet = "${strFormLinksUlContentServlet}${comma}")
+#set ($strFormLinksElementServlet = "${strFormLinksElementServlet}${comma}")
+#set ($strFormMetodosController = "${strFormMetodosController}${comma}${col.JavaName}${tblName}Parsed")
+#else
+#set ($strFormTipoEditor = "${strFormTipoEditor}${comma}NORMAL")
+#set ($strFormLinksUlContentServlet = "${strFormLinksUlContentServlet}${comma}")
+#set ($strFormLinksElementServlet = "${strFormLinksElementServlet}${comma}")
+#set ($strFormMetodosController = "${strFormMetodosController}${comma}${col.JavaName}${tblName}Parsed")
+#end 
+#set ($strFormCamposWidth = "${strFormCamposWidth}${comma}350px")
+#set ($strValidarCamposForm = "${strValidarCamposForm}${comma}${sValidate}") 
+#set ( $comma = ";" )   
+#end
+ objElemento.setstrFormCampos('${strFormCampos}'); 
+ objElemento.setstrFormCamposOblig('${strFormCamposOblig}'); 
+ objElemento.setstrFormTipoEditor('${strFormTipoEditor}');
+ objElemento.setstrFormCamposDec('${strFormCamposDec}');
+ objElemento.setstrFormCamposWidth('${strFormCamposWidth}'); 
+ objElemento.setstrFormLinksUlContentServlet('${strFormLinksUlContentServlet}');
+ objElemento.setstrFormLinksElementServlet('${strFormLinksElementServlet}'); 
+ objElemento.setstrFormMetodosController('${strFormMetodosController}');  
+ objElemento.setstrValidarCamposForm('${strValidarCamposForm}');
+#set ( $comma = "" )
+#set ( $strFormCabeceraLinks = "") 
+#set ( $strFormCabeceraFunctions = "") 
+#foreach ($fkRef in $tbla.Referrers)  
+#set ($strFormCabeceraLinks = "${strFormCabeceraLinks}${comma}${fkRef.Table.JavaName}")
+#set ($strFormCabeceraFunctions = "${strFormCabeceraFunctions}${comma}ver${fkRef.Table.JavaName}()")
+#set ( $comma = ";" )
+#end  
+ objElemento.setstrFormCabeceraLinks('${strFormCabeceraLinks}');
+ objElemento.setstrFormCabeceraFunctions('${strFormCabeceraFunctions}'); 
+#set ( $comma = "" )
+#set ( $strCabeceraLinks = "") 
+#set ( $strCabeceraFunctions = "") 
+#set ( $strCabeceraIds = "") 
+#foreach ($fk in $tbla.ForeignKeys)  
+#set ( $tblFK = $tbla.Database.getTable($fk.ForeignTableName) )
+#set ( $tblFKName = $tblFK.JavaName )
+#set ($strCabeceraLinks = "${strCabeceraLinks}${comma}${tblFKName}")
+#set ($strCabeceraFunctions = "${strCabeceraFunctions}${comma}ver${tblFKName}()")
+#set ($strCabeceraIds = "${strCabeceraIds}${comma}${tblFKName.toLowerCase()}.${tblFK.primaryKey.get(0).Name.toUpperCase()}")
+#set ( $comma = ";" )
+#end  
+ objElemento.setstrCabeceraLinks('${strCabeceraLinks}');
+ objElemento.setstrCabeceraFunctions('${strCabeceraFunctions}');  
+ objElemento.setstrCabeceraIds('${strCabeceraIds}'); 
+ objElemento.setstrLinkDetallePdfServlet('/${nombreApp}/${tblName}/Get${tblName}DetallePdfServlet'); 
+ objElemento.setstrLinkDetallePdfServletDec('Imprimir');   
+ objElemento.setstrLinkListaPdfServlet('/${nombreApp}/${tblName}/${tblName}TableContentPdfServlet'); 
+ objElemento.setstrLinkListaPdfServletDec('Imprimir');    
+ objElemento.setstrFiltroLinks('');
+ objElemento.setstrFiltroFunctions(''); 
+ objElemento.setstrSeparadorFecha('-');
+ objElemento.setstrSeparadorHora(':');    
+ cargaQueryGrid();
+ cargaGrid();
+ crear();
+ } 
+ #end

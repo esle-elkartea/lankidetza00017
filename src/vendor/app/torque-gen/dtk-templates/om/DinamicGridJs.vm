@@ -1,0 +1,35 @@
+//la funcion filtrar espera dos parametros (element, valor) el nombre del input sobre el que va a escuchar (para el filtro) el valor de ese input
+//es asi para poder urilizar los objetos tipo Form.Element.DelayedObserver(input,tiempo,callback) De la librería script.aculo
+
+function filtrar_${tbl.Name}(element, valor)
+ {
+  var viewedRows = 9;
+  var linkedServlet= "/${project}/${tbl.JavaName}/${tbl.JavaName}TableContentServlet";
+  var dinamic_grid_data_id = "dinamic_grid_data_${tbl.Name}";
+
+  var edit_${tbl.Name} = new regist();
+  /* Ejemplos de los 4 tipos de editores para la grid, de momento no esta automatizada su creación
+  edit_${tbl.Name}.addElemento(new editor("NORMAL","/olatxu/Cliente/UpdateNombreServlet",0,"NombreClParsed", null));
+  edit_${tbl.Name}.addElemento(new editor("DATE","/olatxu/Cliente/UpdateFechaPagoServlet",0,"FechaPagoClParsed", null));
+  edit_${tbl.Name}.addElemento(new editor("AUTO","/olatxu/Cliente/UpdateLocalidadIdServlet",0,"LocalidadNombreClParsed", "/olatxu/Localidad/LocalidadUlContentServlet"));
+  edit_${tbl.Name}.addElemento(new editor("FREE",funcionJS,0,"FechaPagoClParsed", null));
+  */
+
+  try
+  {
+   $(rico_grid_${tbl.Name});
+  }
+  catch (Exception)
+  {
+  rico_grid_${tbl.Name} =  new Ajax.ZkLiveGrid(dinamic_grid_data_id,
+   						     viewedRows,
+   						     viewedRows,
+   						     linkedServlet,
+  						     edit_${tbl.Name},
+   						     {});
+  }
+  rico_grid_${tbl.Name}.setRequestParams('query=' + valor );
+  rico_grid_${tbl.Name}.resetContents();
+  rico_grid_${tbl.Name}.requestContentRefresh(0);
+  ajaxEngine.registerAjaxObject( 'configureWebSearchRows',   new SearchRowsConfigurator(rico_grid_${tbl.Name}, viewedRows));
+ }

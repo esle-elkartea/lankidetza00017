@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html>
+<head>
+<title>instelec-HomePage</title>
+<link rel="stylesheet" type="text/css" media="all" href="/instelec/css/calendar.css"/>
+<link rel="stylesheet" type="text/css" media="all" href="/instelec/css/administracion.css"/>
+<link rel="stylesheet" type="text/css" media="all" href="/instelec/css/menu.css"/>
+<link rel="stylesheet" type="text/css" media="all" href="/instelec/css/titulos.css"/>
+<link rel="stylesheet" type="text/css" media="all" href="/instelec/css/validation.css"/>
+<script src="/instelec/js/utils/prototype.js" type="text/javascript"></script>
+<script src="/instelec/js/utils/scriptaculous.js" type="text/javascript"></script>
+<script src='/instelec/js/utils/rico.js' type="text/javascript"></script>
+<script src='/instelec/js/utils/zk_widgets.js' type="text/javascript"></script>
+<script src='/instelec/js/utils/zk_filtros.js' type="text/javascript"></script>
+<script src='/instelec/js/utils/zk_estructura.js' type="text/javascript"></script>
+<script src='/instelec/js/utils/zk_transformadores.js' type="text/javascript"></script>
+<script src='/instelec/js/utils/zk_utils.js' type="text/javascript"></script>
+<script src="/instelec/js/utils/zk_editors.js" type="text/javascript"></script>
+<script src="/instelec/js/utils/calendar.js" type="text/javascript"></script>
+<script src="/instelec/js/utils/calendar-setup.js" type="text/javascript"></script>							
+<script src="/instelec/js/utils/calendar-lang/calendar-es.js" type="text/javascript"></script>
+<script src="/instelec/js/utils/validation.js" type="text/javascript" CHARSET="ISO-8859-1"></script>
+<script src="/instelec/js/utils/validation_lang_es.js" type="text/javascript" CHARSET="ISO-8859-1"></script>
+<script src="/instelec/js/extras.js" type="text/javascript"></script>
+<script src="/instelec/js/administracion.js" type="text/javascript" CHARSET="ISO-8859-1"></script>
+<script src="/instelec/js/crearObjetos.js" type="text/javascript" CHARSET="ISO-8859-1"></script>
+<script src="/instelec/js/objetos.js" type="text/javascript" CHARSET="ISO-8859-1"></script>
+<script src="/instelec/js/alarmas.js" type="text/javascript"></script>
+<script src="/instelec/js/ie.js" type="text/javascript"></script>
+
+<script language="javascript" type="">
+
+var objElemento;
+ function iniciarObj()
+ {
+ objElemento = new objetoElemento();
+ }
+
+ function verAlarmas()
+{
+ var strAlarmaLinks = 'Trabajos pendientes;Ordenes muy urgentes';
+ var strAlarmaFiltro ="5;3";
+ var strAlarmaFunctions ="verTrabajos();verOrdenestrabajo()";
+ cargarAlarmas(strAlarmaLinks, strAlarmaFiltro, strAlarmaFunctions);
+ }
+
+ </script>
+
+</head>
+<body onLoad="iniciarObj();preloadMenu();ponerFiltro('');resetParam();resetQuery();limpiar();verAlarmas();">
+<img src="../img/icono.gif" class="icono">			  
+<div id="menu">
+  <DL class="menuOff"><DT ><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verAlarmas();"><img src="../img/inicio.gif" style="border:0px;float:left;">&nbsp;Inicio</a></DT><DD class="smenuOff"><UL><LI>&nbsp;</LI></UL></DD></DL>  
+  <DL class="menuOff"><DT ><a href="#"><img src="../img/3.gif" style="border:0px;float:left;">&nbsp;Configuración</a></DT><DD class="smenuOff"><UL>
+  <li id="nav-Tipotareas" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verTipotareas();">Tipo de tareas</a></li>
+  <li id="nav-Tipomateriales" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verTipomateriales();">Tipo de materiales</a></li>
+  <li id="nav-Categorias" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verCategorias();">Categorías</a></li>   
+  <li id="nav-Trabajadores" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verTrabajadores();">Trabajadores</a></li>
+  <li id="nav-Clientes" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verClientes();">Clientes</a></li>   
+  </ul></DD></DL>
+  <DL class="menuOn"><DT ><a href="#"><img src="../img/7.gif" style="border:0px;float:left;">&nbsp;Gestión</a></DT><DD class="smenuOn"><UL>
+  <li id="nav-Trabajos" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verTrabajos();">Trabajos</a></li>
+  <li id="nav-Ordenestrabajo" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verOrdenestrabajo();">Ordenes de trabajo</a></li>  
+  <li id="nav-Tareas" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verTareas();">Tareas</a></li>
+  <li id="nav-Materiales" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verMateriales();">Materiales</a></li>  
+  </ul></DD></DL>
+  <DL class="menuOff"><DT ><a href="#"><img src="../img/5.gif" style="border:0px;float:left;">&nbsp;Partes</a></DT><DD class="smenuOff"><UL>
+  <li id="nav-Partes" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verPartes();">Partes</a></li>
+  <li id="nav-Lineasparte" class="inlineLeft"><a href="#" onclick="ponerFiltro('');resetParam();resetQuery();limpiar();verLineasparte();">Lineas de parte</a></li>  
+  </ul></DD></DL> 
+</div>
+
+ <div id='divPathHTML'></div>
+
+ <div class="div_global">
+  <div id="div_query" name="div_query">
+  </div>  
+  <div id="div_header">
+  </div>
+  <div id="container">
+  </div>
+  <div id='placeholder' name='placeholder' class='placeholder'>
+  </div> 
+  <div id="div_nuevo" name="div_nuevo">
+  </div>    
+ </div>
+ 
+<input type="hidden" id="strParam" value="">
+<input type="hidden" id="strQuery" value="">
+<input type="hidden" id="strFiltroParam" value="">
+
+<input type="hidden" id="iModoVisualizacion" value="">
+<input type="hidden" id="viewedRows" value="">
+<input type="hidden" id="strTotalRegistros" value="">
+<input type="hidden" id="strGap" value="">
+
+<input type="hidden" id="strTableId" value="">
+<input type="hidden" id="strFunction" value="">
+<input type="hidden" id="strTituloLista" value="">
+<input type="hidden" id="strTituloForm" value="">
+<input type="hidden" id="tableContentServlet" value="">
+<input type="hidden" id="strLinkAddServlet" value="">
+<input type="hidden" id="strLinkDeleteServlet" value="">
+<input type="hidden" id="strLinkDuplicarServlet" value="">
+<input type="hidden" id="strLinkEditServlet" value="">
+<input type="hidden" id="strLinkEditParam" value="">
+
+<input type="hidden" id="strCampos" value="">
+<input type="hidden" id="strTipoEditor" value="">
+<input type="hidden" id="strCamposDec" value="">
+<input type="hidden" id="strCamposWidth" value="">
+<input type="hidden" id="strLinksUlContentServlet" value="">
+<input type="hidden" id="strMetodosController" value="">
+<input type="hidden" id="strLinksUpdateServlet" value="">
+<input type="hidden" id="strEsOrdenable" value="">
+<input type="hidden" id="strEventos" value="">
+<input type="hidden" id="strValidarColumnasGrid" value="">
+
+<input type="hidden" id="strFormCampos" value="">
+<input type="hidden" id="strFormCamposOblig" value="">
+<input type="hidden" id="strFormTipoEditor" value="">
+<input type="hidden" id="strFormCamposDec" value="">
+<input type="hidden" id="strFormCamposWidth" value="">
+<input type="hidden" id="strFormLinksUlContentServlet" value="">
+<input type="hidden" id="strFormLinksElementServlet" value="">
+<input type="hidden" id="strFormMetodosController" value="">
+<input type="hidden" id="strValidarCamposForm" value="">
+
+<input type="hidden" id="strCabeceraLinks" value="">
+<input type="hidden" id="strCabeceraFunctions" value="">
+<input type="hidden" id="strCabeceraIds" value="">
+
+<input type="hidden" id="strFormCabeceraLinks" value="">
+<input type="hidden" id="strFormCabeceraFunctions" value="">
+
+<input type="hidden" id="strLinkDetallePdfServlet" value="">
+<input type="hidden" id="strLinkDetallePdfServletDec" value="">
+<input type="hidden" id="strLinkListaPdfServlet" value="">
+<input type="hidden" id="strLinkListaPdfServletDec" value="">
+
+<input type="hidden" id="strFiltroLinks" value="">
+<input type="hidden" id="strFiltroFunctions" value="">
+<input type="hidden" id="strSeparadorFecha" value="">
+<input type="hidden" id="strSeparadorHora" value="">
+ 
+</body>
+</html>

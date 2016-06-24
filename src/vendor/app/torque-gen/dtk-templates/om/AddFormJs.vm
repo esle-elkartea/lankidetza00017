@@ -1,0 +1,8 @@
+function alta_${tbl.Name}(form)
+ {
+ 	new Ajax.Request("/$project/$tbl.JavaName/Add${tbl.JavaName}Servlet",{
+			  parameters:Form.serialize(form)
+   		         });
+	Form.reset(form);
+	filtrar_${tbl.Name}();
+ }

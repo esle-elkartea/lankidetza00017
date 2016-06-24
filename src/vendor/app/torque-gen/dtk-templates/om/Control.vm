@@ -1,0 +1,302 @@
+#set ($basePath = $generator.OutputPath)
+
+targetdatabase = $targetDatabase
+#set ( $dbprops = $properties.load("sql/base/$targetDatabase/db.props") )
+dbprops.idMethod = $dbprops.get("idMethod")
+#include ( "sql/base/$targetDatabase/db.props" )
+
+#foreach ($dataModel in $dataModels)
+  #foreach ($database in $dataModel.Databases)
+
+    #if ($database.Package)
+      #set ($package = $database.Package)
+    #else
+      #set ($package = $targetPackage)
+    #end
+
+    #set ( $pkbase = "${package}.model" )
+    #set ( $pkpeer = "${package}.model" )
+    #set ( $pkmap = "${package}.model.map" )
+    #set ( $pkgroup = "${package}.group" )
+    #set ( $pkhelper = "${package}.helper" )
+    #set ($pkControlManager ="${package}.manager")
+    #set ($pkController ="${package}.controller")
+
+
+    $pkbase
+    $pkpeer
+    $pkmap
+    $pkgroup
+    $pkhelper
+    $pkControlManager
+    $pkController
+
+    #set ( $path = $strings.getPackageAsPath($pkpeer) )
+    $files.mkdir("$outputDirectory/$path")
+
+    #set ( $path = $strings.getPackageAsPath($pkmap) )
+    $files.mkdir("$outputDirectory/$path")
+
+    #set ( $path = $strings.getPackageAsPath($pkbase) )
+    $files.mkdir("$outputDirectory/$path")
+
+    #set ( $path = $strings.getPackageAsPath($pkgroup) )
+    $files.mkdir("$outputDirectory/$path")
+
+    #set ( $path = $strings.getPackageAsPath($pkhelper) )
+    $files.mkdir("$outputDirectory/$path")
+
+    #set ( $path = $strings.getPackageAsPath($pkControlManager) )
+    $files.mkdir("$outputDirectory/$path")
+
+    #set ( $path = $strings.getPackageAsPath($pkController) )
+    $files.mkdir("$outputDirectory/$path")
+
+#if($html)
+#set ( $fname = "objetos.js" )
+#set ( $path = "../web/js/$fname" )
+#if (!$files.file("$outputDirectory/../web/js",$fname).exists())
+ $generator.parse("om/ObjetosJs.vm",$path,"table",$tbl)
+#end
+#set ( $fname = "web.xml" )
+#set ( $path = "../web/WEB-INF/$fname" )
+#if (!$files.file("$outputDirectory/../web/WEB-INF",$fname).exists())
+ $generator.parse("om/WebXml.vm",$path,"table",$tbl)
+#end
+#set ( $fname = "Administracion.html" )
+#set ( $path = "../web/jsp/$fname" )
+#if (!$files.file("$outputDirectory/../web/jsp",$fname).exists())
+ $generator.parse("om/AdministracionHtml.vm",$path,"table",$tbl)
+#end
+#end
+
+    #foreach ($tbl in $database.Tables)
+      #if (!$tbl.isForReferenceOnly())
+
+       #if($javascript)
+	//Creacion de estructura de js para el contenido dinamico
+	$files.mkdir("$outputDirectory/../web/js/$tbl.Name")
+
+	#set ( $fname = "add-form.js" )
+	#set ( $path = "../web/js/$tbl.Name/$fname" )
+	#if (!$files.file("$outputDirectory/../web/js/$tbl.Name",$fname).exists())
+	 $generator.parse("om/AddFormJs.vm",$path,"table",$tbl)
+	#end
+
+	#set ( $fname = "validate-form.js" )
+	#set ( $path = "../web/js/$tbl.Name/$fname" )
+	#if (!$files.file("$outputDirectory/../web/js/$tbl.Name",$fname).exists())
+	 $generator.parse("om/ValidateFormJs.vm",$path,"table",$tbl)
+	#end
+
+	#set ( $fname = "dinamic-grid.js" )
+	#set ( $path = "../web/js/$tbl.Name/$fname" )
+	#if (!$files.file("$outputDirectory/../web/js/$tbl.Name",$fname).exists())
+	 $generator.parse("om/DinamicGridJs.vm",$path,"table",$tbl)
+	#end
+
+       #end
+
+	#if($xslFo)
+	#set ( $fname = "Pdf${tbl.JavaName}.xslt" )
+	#set ( $path = "../instalable-win32/xsl/$fname" )
+	#if (!$files.file("$outputDirectory/../instalable-win32/xsl",$fname).exists())
+	 $generator.parse("om/XslFoTabla.vm",$path,"table",$tbl)
+	#end	
+	#set ( $fname = "PdfLista${tbl.JavaName}.xslt" )
+	#set ( $path = "../instalable-win32/xsl/$fname" )
+	#if (!$files.file("$outputDirectory/../instalable-win32/xsl",$fname).exists())
+	 $generator.parse("om/XslFoListaTabla.vm",$path,"table",$tbl)
+	#end	
+	#end	
+
+	#if($manager)
+
+        $tbl.Name
+        #set ( $firstcap=$tbl.JavaName )
+
+	#set ( $fname = "$basePrefix${firstcap}Manager.java" )
+        #set ( $path = "${strings.getPackageAsPath($pkControlManager)}$fname" )
+        $generator.parse("om/BaseControlManager.vm",$path,"table",$tbl)
+
+        #if (!$tbl.isAlias())
+          #set ( $fname = "${firstcap}Manager.java" )
+          #set ( $path = "${strings.getPackageAsPath($pkControlManager)}$fname" )
+          #if (!$files.file($basePath,$path).exists())
+            $generator.parse("om/ExtensionControlManager.vm",$path,"table",$tbl)
+          #end
+        #end
+
+	#end
+
+	#if($controller)
+
+	#set ( $fname = "$basePrefix${firstcap}Controller.java" )
+        #set ( $path = "${strings.getPackageAsPath($pkController)}$fname" )
+        $generator.parse("om/BaseController.vm",$path,"table",$tbl)
+
+        #if (!$tbl.isAlias())
+          #set ( $fname = "${firstcap}Controller.java" )
+          #set ( $path = "${strings.getPackageAsPath($pkController)}$fname" )
+          #if (!$files.file($basePath,$path).exists())
+            $generator.parse("om/ExtensionController.vm",$path,"table",$tbl)
+          #end
+        #end
+
+	#end
+
+        #set ( $fname = "$basePrefix${firstcap}Peer.java" )
+        #set ( $path = "${strings.getPackageAsPath($pkbase)}$fname" )
+        $generator.parse("om/Peer.vm",$path,"table",$tbl)
+
+        #if (!$tbl.isAlias())
+          #set ( $fname = "${firstcap}MapBuilder.java" )
+          #set ( $path = "${strings.getPackageAsPath($pkmap)}$fname" )
+          $generator.parse("om/MapBuilder.vm",$path,"table",$tbl)
+        #end
+
+        #if ($useManagers && $tbl.PrimaryKey.size() > 0)
+          #set ($interfaceName = $table.JavaName)
+          #if ($table.Interface)
+            #set ($interfaceName = $table.Interface)
+          #end
+
+          #set ( $fname = "${basePrefix}${interfaceName}Manager.java" )
+          #set ( $path = "${strings.getPackageAsPath($pkbase)}$fname" )
+          $generator.parse("om/BaseManager.vm",$path,"table",$tbl)
+
+          #set ( $fname = "${interfaceName}Manager.java" )
+          #set ( $path = "${strings.getPackageAsPath($package)}$fname" )
+          #if (!$files.file($basePath,$path).exists())
+            $generator.parse("om/ExtensionManager.vm",$path,"table",$tbl)
+          #end
+        #end
+
+        #if ($useManagers)
+          #set ( $fname = "${basePrefix}${firstcap}.java" )
+          #set ( $path = "${strings.getPackageAsPath($pkbase)}$fname" )
+          $generator.parse("om/ObjectWithManager.vm",$path,"table",$tbl)
+        #else
+          #set ( $fname = "${basePrefix}${firstcap}.java" )
+          #set ( $path = "${strings.getPackageAsPath($pkbase)}$fname" )
+          $generator.parse("om/Object.vm",$path,"table",$tbl)
+        #end
+
+        #set ( $fname = "${firstcap}.java" )
+        #set ( $path = "${strings.getPackageAsPath($pkbase)}$fname" )
+        #if (!$files.file($basePath,$path).exists())
+          $generator.parse("om/ExtensionObject.vm",$path,"table",$tbl)
+        #end
+
+        #set ( $fname = "${firstcap}Peer.java" )
+        #set ( $path = "${strings.getPackageAsPath($pkpeer)}$fname" )
+        #if (!$files.file($basePath,$path).exists())
+          $generator.parse("om/ExtensionPeer.vm",$path,"table",$tbl)
+        #end
+
+	#if($group)
+
+        #set ( $fname = "$basePrefix${firstcap}GroupBean.java" )
+        #set ( $path = "${strings.getPackageAsPath($pkgroup)}$fname" )
+        $generator.parse("om/Group.vm",$path,"table",$tbl)
+
+        #set ( $fname = "${firstcap}GroupBean.java" )
+        #set ( $path = "${strings.getPackageAsPath($pkgroup)}$fname" )
+        #if (!$files.file($basePath,$path).exists())
+          $generator.parse("om/ExtensionGroup.vm",$path,"table",$tbl)
+        #end
+
+	#end
+
+	#if($helper)
+
+        #set ( $fname = "$basePrefix${firstcap}Helper.java" )
+        #set ( $path = "${strings.getPackageAsPath($pkhelper)}$fname" )
+        $generator.parse("om/Helper.vm",$path,"table",$tbl)
+
+        #set ( $fname = "${firstcap}Helper.java" )
+        #set ( $path = "${strings.getPackageAsPath($pkhelper)}$fname" )
+        #if (!$files.file($basePath,$path).exists())
+          $generator.parse("om/ExtensionHelper.vm",$path,"table",$tbl)
+        #end
+
+	#end
+
+        #if ($tbl.Interface)
+          #set ( $fname = "${tbl.Interface}.java" )
+          #set ( $path = "${strings.getPackageAsPath($pkbase)}$fname" )
+          #if (!$files.file($basePath,$path).exists())
+            $generator.parse("om/Interface.vm",$path,"table",$tbl)
+          #end
+        #end
+
+        #if ($tbl.ChildrenColumn)
+          #set ($col = $tbl.ChildrenColumn)
+          #if ($col.isEnumeratedClasses())
+            #foreach ($child in $col.Children)
+              #set ( $fname = "${child.ClassName}.java" )
+              #set ( $path = "${strings.getPackageAsPath($package)}$fname" )
+              #if (!$files.file($basePath,$path).exists())
+                $generator.parse("om/MultiExtendObject.vm",$path,"child",$child)
+              #end
+            #end
+          #end
+        #end
+      #end
+    #end
+  #end
+#end
+
+
+#if($controller == true)
+
+ #set ( $fname = "AppController.java" )
+ #set ( $path = "${strings.getPackageAsPath($pkController)}$fname" )
+ #if (!$files.file($basePath,$path).exists())
+  $generator.parse("om/AppController.vm",$path,"table",$tbl)
+ #end
+
+ #set ( $fname = "AppRouter.java" )
+ #set ( $path = "${strings.getPackageAsPath($pkController)}$fname" )
+ #if (!$files.file($basePath,$path).exists())
+  $generator.parse("om/AppRouter.vm",$path,"table",$tbl)
+ #end
+
+ #set ( $fname = "AppLoginController.java" )
+ #set ( $path = "${strings.getPackageAsPath($pkController)}$fname" )
+ #if (!$files.file($basePath,$path).exists())
+  $generator.parse("om/AppLoginController.vm",$path,"table",$tbl)
+ #end
+
+#end
+
+
+#if($config)
+#set ($pkConfig ="${package}.app.config")
+#set ($pkEvent ="${package}.app.event")
+$pkConfig
+$pkEvent
+#set ( $path = $strings.getPackageAsPath($pkConfig) )
+    $files.mkdir("$outputDirectory/$path")
+#set ( $path = $strings.getPackageAsPath($pkEvent) )
+    $files.mkdir("$outputDirectory/$path")
+
+#set ( $fname = "app-config.properties" )
+#set ( $path = "${strings.getPackageAsPath($pkConfig)}$fname" )
+#if (!$files.file($basePath,$path).exists())
+ $generator.parse("om/AppConfigProperties.vm",$path,"table",$tbl)
+#end
+
+#end
+
+#if($event)
+#set ( $fname = "OnStartUp.java" )
+#set ( $path = "${strings.getPackageAsPath($pkEvent)}$fname" )
+#if (!$files.file($basePath,$path).exists())
+ $generator.parse("om/AppOnStartUp.vm",$path,"table",$tbl)
+#end
+
+
+#end
+
+
